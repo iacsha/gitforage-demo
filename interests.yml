@@ -1,0 +1,78 @@
+# The public gitforage demo portal. Five communities, chosen to show the range:
+# healthcare interoperability, self-hosting, home automation, developer tools and
+# AI coding agents. There is no stars_from, so the demo stays neutral: its profile
+# is learned from the seeds below, not from anyone's stars.
+
+profile: |
+  A portal for people who like to run, build and connect things themselves.
+
+  It looks for healthcare interoperability tools (HL7, FHIR, DICOM and
+  integration engines), self-hosted software and homelab tooling, home
+  automation that runs locally, command-line developer tools, and the growing
+  set of AI coding agents and Model Context Protocol servers.
+
+  It prefers projects that are active, licensed and documented, and in the Get
+  involved tab, maintainers who merge outside pull requests and answer issues.
+
+topics:
+  # Healthcare interoperability
+  - hl7
+  - fhir
+  - mirth
+  - dicom
+  # Self-hosting and homelab
+  - proxmox
+  - self-hosted
+  - docker
+  # Home automation
+  - home-assistant
+  - zigbee
+  - matter
+  # Developer tools
+  - cli
+  - terminal
+  - devtools
+  # AI coding agents
+  - claude-code
+  - mcp
+  - ai-agents
+
+seeds:
+  # Healthcare interoperability
+  - OpenIntegrationEngine/engine
+  - hapifhir/hapi-fhir
+  - OHIF/Viewers
+  # Self-hosting and homelab
+  - community-scripts/ProxmoxVE
+  - immich-app/immich
+  # Home automation
+  - home-assistant/core
+  - Koenkk/zigbee2mqtt
+  # Developer tools
+  - cli/cli
+  - junegunn/fzf
+  # AI coding agents
+  - modelcontextprotocol/servers
+  - anthropics/claude-code
+
+exclude:
+  topics: [awesome-list, awesome, list]
+  keywords: ["awesome-"]
+
+filters:
+  min_stars: 5
+  max_age_days: 365
+  # English descriptions only (repos whose language cannot be told still show).
+  spoken_languages: [en]
+  # Leave out repos whose stars look bought or botted.
+  drop_suspected_star_farms: true
+
+mode: discover
+digest_size: 20
+
+site:
+  repo: iacsha/gitforage-demo
+  title: gitforage demo
+  url: https://gitforage.dev/
+  # Cookieless visit counts. Create the GoatCounter site first, then uncomment.
+  # analytics: { provider: goatcounter, code: gitforage-demo }
