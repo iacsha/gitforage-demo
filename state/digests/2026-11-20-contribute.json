@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-20",
   "mode": "contribute",
-  "generated_at": "2026-11-20T20:24:45.101Z",
+  "generated_at": "2026-11-20T20:55:09.690Z",
   "items": [
     {
       "full_name": "OpenByteInc/QuantDinger",
@@ -4818,8 +4818,8 @@
       "via_topics": [
         "docker"
       ],
-      "created_at": "2026-02-26T16:12:26Z",
-      "pushed_at": "2026-11-11T19:31:23Z",
+      "created_at": "2026-02-26T16:12:26.000Z",
+      "pushed_at": "2026-11-11T19:31:23.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 40,
@@ -4900,8 +4900,8 @@
       "via_topics": [
         "terminal"
       ],
-      "created_at": "2026-08-13T12:49:31Z",
-      "pushed_at": "2026-11-20T20:02:16Z",
+      "created_at": "2026-08-13T12:49:31.000Z",
+      "pushed_at": "2026-11-20T20:02:16.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 23,
@@ -4986,8 +4986,8 @@
         "mcp",
         "ai-agents"
       ],
-      "created_at": "2026-02-18T20:01:27Z",
-      "pushed_at": "2026-11-20T06:19:40Z",
+      "created_at": "2026-02-18T20:01:27.000Z",
+      "pushed_at": "2026-11-20T06:19:40.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 5,
@@ -5061,8 +5061,8 @@
         "hl7"
       ],
       "via_topics": [],
-      "created_at": "2022-11-16T16:53:58Z",
-      "pushed_at": "2026-11-20T08:15:02Z",
+      "created_at": "2022-11-16T16:53:58.000Z",
+      "pushed_at": "2026-11-20T08:15:02.000Z",
       "lang": "und",
       "health": {
         "outside_prs_90d": 21,
@@ -5150,8 +5150,8 @@
         "claude-code",
         "ai-agents"
       ],
-      "created_at": "2026-01-15T19:45:23Z",
-      "pushed_at": "2026-11-20T02:15:08Z",
+      "created_at": "2026-01-15T19:45:23.000Z",
+      "pushed_at": "2026-11-20T02:15:08.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 57,
@@ -5238,8 +5238,8 @@
       "via_topics": [
         "dicom"
       ],
-      "created_at": "2026-10-10T18:53:11Z",
-      "pushed_at": "2026-11-17T09:11:45Z",
+      "created_at": "2026-10-10T18:53:11.000Z",
+      "pushed_at": "2026-11-17T09:11:45.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 8,
@@ -5318,8 +5318,8 @@
       "via_topics": [
         "proxmox"
       ],
-      "created_at": "2026-03-22T07:48:07Z",
-      "pushed_at": "2026-11-17T02:13:48Z",
+      "created_at": "2026-03-22T07:48:07.000Z",
+      "pushed_at": "2026-11-17T02:13:48.000Z",
       "lang": "und",
       "health": {
         "outside_prs_90d": 100,
@@ -5416,8 +5416,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-03-12T16:12:19Z",
-      "pushed_at": "2026-11-17T02:24:17Z",
+      "created_at": "2026-03-12T16:12:19.000Z",
+      "pushed_at": "2026-11-17T02:24:17.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 2,
@@ -5508,8 +5508,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-07-24T16:28:06Z",
-      "pushed_at": "2026-10-03T12:59:48Z",
+      "created_at": "2026-07-24T16:28:06.000Z",
+      "pushed_at": "2026-10-03T12:59:48.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 1,
@@ -5586,8 +5586,8 @@
         "sql-on-fhir"
       ],
       "via_topics": [],
-      "created_at": "2025-08-22T16:21:49Z",
-      "pushed_at": "2026-11-20T20:21:15Z",
+      "created_at": "2025-08-22T16:21:49.000Z",
+      "pushed_at": "2026-11-20T20:21:15.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -5673,8 +5673,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-07-05T17:46:27Z",
-      "pushed_at": "2026-11-20T20:12:39Z",
+      "created_at": "2026-07-05T17:46:27.000Z",
+      "pushed_at": "2026-11-20T20:12:39.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -5746,8 +5746,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2025-12-28T09:05:24Z",
-      "pushed_at": "2026-11-20T13:43:57Z",
+      "created_at": "2025-12-28T09:05:24.000Z",
+      "pushed_at": "2026-11-20T13:43:57.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 1,
@@ -5808,8 +5808,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-11-14T11:08:33Z",
-      "pushed_at": "2026-11-15T13:23:27Z",
+      "created_at": "2026-11-14T11:08:33.000Z",
+      "pushed_at": "2026-11-15T13:23:27.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -5869,8 +5869,8 @@
       "via_topics": [
         "hl7"
       ],
-      "created_at": "2026-03-24T20:28:23Z",
-      "pushed_at": "2026-07-29T18:38:12Z",
+      "created_at": "2026-03-24T20:28:23.000Z",
+      "pushed_at": "2026-07-29T18:38:12.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -5914,8 +5914,8 @@
       ],
       "topics": [],
       "via_topics": [],
-      "created_at": "2026-11-15T21:09:33Z",
-      "pushed_at": "2026-11-15T21:47:16Z",
+      "created_at": "2026-11-15T21:09:33.000Z",
+      "pushed_at": "2026-11-15T21:47:16.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -5974,8 +5974,8 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-01-02T01:35:07Z",
-      "pushed_at": "2026-11-20T11:25:15Z",
+      "created_at": "2026-01-02T01:35:07.000Z",
+      "pushed_at": "2026-11-20T11:25:15.000Z",
       "lang": "en",
       "health": null
     },
@@ -6040,8 +6040,8 @@
       "via_topics": [
         "proxmox"
       ],
-      "created_at": "2026-07-18T19:25:06Z",
-      "pushed_at": "2026-11-17T23:23:21Z",
+      "created_at": "2026-07-18T19:25:06.000Z",
+      "pushed_at": "2026-11-17T23:23:21.000Z",
       "lang": "en",
       "health": null
     },
@@ -6107,8 +6107,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2026-01-18T09:47:34Z",
-      "pushed_at": "2026-11-18T21:41:27Z",
+      "created_at": "2026-01-18T09:47:34.000Z",
+      "pushed_at": "2026-11-18T21:41:27.000Z",
       "lang": "en",
       "health": null
     },
@@ -6158,8 +6158,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2026-09-19T17:22:01Z",
-      "pushed_at": "2026-11-19T17:52:22Z",
+      "created_at": "2026-09-19T17:22:01.000Z",
+      "pushed_at": "2026-11-19T17:52:22.000Z",
       "lang": "en",
       "health": null
     },
@@ -6210,9 +6210,1551 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-06-10T11:52:41Z",
-      "pushed_at": "2026-11-20T12:09:04Z",
+      "created_at": "2026-06-10T11:52:41.000Z",
+      "pushed_at": "2026-11-20T12:09:04.000Z",
       "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "score": 24.2,
+      "stars": 40975,
+      "language": "TypeScript",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, claude-code)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 59 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.2,
+          "text": "~3902 stars a month (new, 11 months ago, top 37% in ai-agents)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 3 of 3 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v5.8.4 10d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agentic-coding",
+        "ai-agents",
+        "automation",
+        "claude",
+        "claude-code",
+        "multi-agent-systems",
+        "oh-my-opencode",
+        "opencode",
+        "parallel-execution",
+        "vibe-coding"
+      ],
+      "via_topics": [
+        "ai-agents"
+      ],
+      "created_at": "2026-01-09T03:36:29Z",
+      "pushed_at": "2026-11-20T20:34:57Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 59,
+        "issue_response": {
+          "answered": 3,
+          "total": 3
+        }
+      }
+    },
+    {
+      "full_name": "serversathome/homelabhero",
+      "url": "https://github.com/serversathome/homelabhero",
+      "score": 23.3,
+      "stars": 105,
+      "language": "Shell",
+      "description": "Turn a fresh LXC into an AI homelab command center. One command installs Claude Code + a web UI, preloaded with skills, and a credential broker so Claude operates your TrueNAS/Proxmox/Linux over SSH without ever seeing a secret.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (claude-code, proxmox, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 16 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 7 of 7 recent issues"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 28d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.4,
+          "text": "~23 stars a month (new, 5 months ago, top 72% in proxmox)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.7.0 28d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "ai",
+        "automation",
+        "claude",
+        "claude-code",
+        "credential-broker",
+        "homelab",
+        "homelab-automation",
+        "lxc",
+        "proxmox",
+        "self-hosted",
+        "ssh",
+        "truenas",
+        "ubuntu"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-07-06T16:57:35Z",
+      "pushed_at": "2026-10-23T14:00:30Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 16,
+        "issue_response": {
+          "answered": 7,
+          "total": 7
+        }
+      }
+    },
+    {
+      "full_name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "score": 22.8,
+      "stars": 27052,
+      "language": "Python",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 36 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.1,
+          "text": "~3326 stars a month (new, 8 months ago, top 38% in mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.7,
+          "text": "answered 5 of 9 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.13.6 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-security",
+        "agent-skills",
+        "agentic-ai",
+        "ai-security",
+        "claude-code",
+        "mcp",
+        "prompt-injection",
+        "security-scanner",
+        "security-tools",
+        "security-workflow",
+        "supply-chain-security"
+      ],
+      "via_topics": [
+        "mcp"
+      ],
+      "created_at": "2026-03-21T00:28:43Z",
+      "pushed_at": "2026-11-20T19:30:35Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 36,
+        "issue_response": {
+          "answered": 5,
+          "total": 9
+        }
+      }
+    },
+    {
+      "full_name": "getagentseal/codeburn",
+      "url": "https://github.com/getagentseal/codeburn",
+      "score": 22.7,
+      "stars": 11877,
+      "language": "TypeScript",
+      "description": "Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 3,
+          "text": "merged 3 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.8,
+          "text": "~1620 stars a month (new, 7 months ago, top 45% in cli)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.9,
+          "text": "answered 5 of 8 recent issues"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "1 help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.9.28 12d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex",
+        "cost-tracking",
+        "cursor-ide",
+        "developer-tools",
+        "menubar",
+        "observability",
+        "terminal-ui",
+        "token-usage",
+        "web-dashboard"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-04-13T22:11:53Z",
+      "pushed_at": "2026-11-20T12:25:06Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 3,
+        "issue_response": {
+          "answered": 5,
+          "total": 8
+        }
+      }
+    },
+    {
+      "full_name": "Pouzor/homelable-hacs",
+      "url": "https://github.com/Pouzor/homelable-hacs",
+      "score": 21.6,
+      "stars": 199,
+      "language": "TypeScript",
+      "description": "Home Assistant integration for Homelable — interactive homelab network topology, scanning and live status checks, distributed via HACS",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.4,
+          "text": "~29 stars a month (new, 7 months ago, top 33% in zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 3,
+          "text": "merged 3 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.5,
+          "text": "answered 5 of 6 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.4.1 49d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "canvas",
+        "hacs",
+        "home-assistant",
+        "home-assistant-integration",
+        "homelab",
+        "homelable",
+        "network",
+        "nmap",
+        "topology",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-04-29T16:43:01Z",
+      "pushed_at": "2026-11-17T22:59:32Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 3,
+        "issue_response": {
+          "answered": 5,
+          "total": 6
+        }
+      }
+    },
+    {
+      "full_name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "score": 21.3,
+      "stars": 32890,
+      "language": "Python",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 41 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.3,
+          "text": "~3696 stars a month (new, 9 months ago, top 35% in mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.4.0 9d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "code-review",
+        "graphrag",
+        "incremental",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "python",
+        "static-analysis",
+        "tree-sitter"
+      ],
+      "via_topics": [
+        "mcp"
+      ],
+      "created_at": "2026-02-26T17:25:13Z",
+      "pushed_at": "2026-11-16T21:54:55Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 41,
+        "issue_response": {
+          "answered": 0,
+          "total": 5
+        }
+      }
+    },
+    {
+      "full_name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "score": 20.8,
+      "stars": 34340,
+      "language": "JavaScript",
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.3,
+          "text": "~3816 stars a month (new, 9 months ago, top 34% in mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 28 of 28 recent issues"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "1 help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.2.1 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "claude-code-hooks",
+        "claude-code-plugins",
+        "claude-code-skill",
+        "codex",
+        "codex-cli",
+        "context-mode",
+        "copilot",
+        "cursor-plugin",
+        "kiro",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "openclaw",
+        "opencode",
+        "pi-agent",
+        "skills",
+        "zed-extension"
+      ],
+      "via_topics": [
+        "mcp"
+      ],
+      "created_at": "2026-02-23T05:56:28Z",
+      "pushed_at": "2026-11-20T03:26:55Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 28,
+          "total": 28
+        }
+      }
+    },
+    {
+      "full_name": "spacering-net/codeg",
+      "url": "https://github.com/spacering-net/codeg",
+      "score": 20.3,
+      "stars": 4547,
+      "language": "Rust",
+      "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 93 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.1,
+          "text": "~480 stars a month (new, 9 months ago, top 59% in terminal)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.47.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "acp",
+        "ade",
+        "agent",
+        "claude-code",
+        "code-generation",
+        "codex",
+        "deepseek-harness",
+        "grok-build",
+        "gui",
+        "multi-agent",
+        "opencode",
+        "pi",
+        "terminal",
+        "vibe-coding",
+        "worktrees"
+      ],
+      "via_topics": [
+        "terminal"
+      ],
+      "created_at": "2026-02-09T09:22:50Z",
+      "pushed_at": "2026-11-20T00:59:19Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 93,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "brightbeanxyz/brightbean-studio",
+      "url": "https://github.com/brightbeanxyz/brightbean-studio",
+      "score": 20.2,
+      "stars": 2661,
+      "language": "Python",
+      "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (docker, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 42 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2,
+          "text": "~333 stars a month (new, 8 months ago, top 60% in self-hosted)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agpl",
+        "buffer-alternative",
+        "content-management",
+        "django",
+        "docker",
+        "htmx",
+        "multi-platform",
+        "open-source",
+        "python",
+        "scheduling",
+        "self-hosted",
+        "social-media",
+        "social-media-management",
+        "social-media-scheduler",
+        "tailwindcss"
+      ],
+      "via_topics": [
+        "docker"
+      ],
+      "created_at": "2026-03-25T11:16:28Z",
+      "pushed_at": "2026-11-17T13:23:25Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 42,
+        "issue_response": {
+          "answered": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "full_name": "graykode/abtop",
+      "url": "https://github.com/graykode/abtop",
+      "score": 19.5,
+      "stars": 3868,
+      "language": "Rust",
+      "description": "Like htop, but for AI coding agents. Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real-time.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, claude-code, cli, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 3,
+          "text": "merged 3 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.2,
+          "text": "~492 stars a month (new, 8 months ago, top 56% in terminal)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.1,
+          "text": "answered 4 of 11 recent issues"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 2 months ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.5.5 2 months ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "ai-coding-agent",
+        "btop",
+        "claude-code",
+        "cli",
+        "codex",
+        "developer-tools",
+        "htop",
+        "monitor",
+        "ratatui",
+        "rust",
+        "terminal",
+        "tui"
+      ],
+      "via_topics": [
+        "terminal"
+      ],
+      "created_at": "2026-03-29T10:12:20Z",
+      "pushed_at": "2026-09-14T04:45:00Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 3,
+        "issue_response": {
+          "answered": 4,
+          "total": 11
+        }
+      }
+    },
+    {
+      "full_name": "connorgallopo/Tracearr",
+      "url": "https://github.com/connorgallopo/Tracearr",
+      "score": 19.2,
+      "stars": 2738,
+      "language": "TypeScript",
+      "description": "Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (docker, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 5 of 5 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2,
+          "text": "~230 stars a month (new, 12 months ago, top 61% in self-hosted)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v3.2.1 2d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "docker",
+        "emby",
+        "emby-api",
+        "emby-server",
+        "jellyfin",
+        "jellystat",
+        "monitoring-server",
+        "monitoring-tool",
+        "nodejs",
+        "plex",
+        "plex-media-server",
+        "plex-server",
+        "react",
+        "react-native",
+        "redis",
+        "self-hosted",
+        "tailwindcss",
+        "tautulli",
+        "timescaledb",
+        "tracearr"
+      ],
+      "via_topics": [
+        "docker"
+      ],
+      "created_at": "2025-11-28T01:47:35Z",
+      "pushed_at": "2026-11-19T00:49:54Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 5,
+          "total": 5
+        }
+      }
+    },
+    {
+      "full_name": "pohcee/dcmnorm",
+      "url": "https://github.com/pohcee/dcmnorm",
+      "score": 17.7,
+      "stars": 14,
+      "language": "Rust",
+      "description": "A CLI and SDK to normalize and generally work with DICOM, built in Rust, and packaged with multiple language bindings.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, dicom)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 6 of 6 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.5,
+          "text": "~2 stars a month (new, 8 months ago, top 50% in dicom)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.17.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent-skills",
+        "claude-skills",
+        "cli",
+        "dicom",
+        "dimse",
+        "gemini-cli-extension",
+        "json",
+        "medical-imaging",
+        "medicalimaging",
+        "parser",
+        "render",
+        "rust"
+      ],
+      "via_topics": [
+        "dicom"
+      ],
+      "created_at": "2026-04-06T17:08:31Z",
+      "pushed_at": "2026-11-20T20:34:09Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 6,
+          "total": 6
+        }
+      }
+    },
+    {
+      "full_name": "juju35/ha-smart-appliance-card",
+      "url": "https://github.com/juju35/ha-smart-appliance-card",
+      "score": 17.4,
+      "stars": 9,
+      "language": "JavaScript",
+      "description": "Animated Lovelace cards for home appliances: washers, dryers, washer-dryers, dishwashers, ovens, microwaves, hobs, coffee machines, hoods, fridges, freezers, wine cabinets and LG Styler. Works with Home Connect, Miele, SmartThings, LG ThinQ, Whirlpool and Matter.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, matter)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.4,
+          "text": "~8 stars a month (new, 32d ago, top 32% in matter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 2,
+          "text": "merged 2 outside PRs in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.9.1 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "appliances",
+        "coffee-machine",
+        "dishwasher",
+        "hacs",
+        "home-assistant",
+        "home-connect",
+        "lg-thinq",
+        "lovelace",
+        "lovelace-card",
+        "lovelace-custom-card",
+        "matter",
+        "miele",
+        "oven",
+        "refrigerator",
+        "smartthings",
+        "tumble-dryer",
+        "washing-machine",
+        "whirlpool"
+      ],
+      "via_topics": [
+        "matter"
+      ],
+      "created_at": "2026-10-18T22:16:41Z",
+      "pushed_at": "2026-11-20T20:20:00Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 2,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "agent-sh/agentsys",
+      "url": "https://github.com/agent-sh/agentsys",
+      "score": 16.6,
+      "stars": 1018,
+      "language": "JavaScript",
+      "description": "AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (claude-code, cli, devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 11d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.1,
+          "text": "~99 stars a month (new, 10 months ago, top 79% in devtools)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v6.1.1 45d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent",
+        "ai",
+        "anthropic",
+        "automation",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "cli",
+        "code-review",
+        "codex",
+        "cursor",
+        "devtools",
+        "openai",
+        "opencode",
+        "plugins",
+        "productivity",
+        "skills",
+        "slash-commands",
+        "vibe-coding",
+        "workflow"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-01-15T09:33:05Z",
+      "pushed_at": "2026-11-09T20:13:24Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "BlkLeg/CircuitBreaker",
+      "url": "https://github.com/BlkLeg/CircuitBreaker",
+      "score": 16,
+      "stars": 209,
+      "language": "Python",
+      "description": "Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (proxmox, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 6d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.8,
+          "text": "~24 stars a month (new, 9 months ago, top 65% in proxmox)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.4.7 13d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "home-lab",
+        "ipam",
+        "network-topology",
+        "networking",
+        "proxmox",
+        "self-hosted",
+        "visualization"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-02-28T00:55:35Z",
+      "pushed_at": "2026-11-14T08:04:56Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "score": 12.9,
+      "stars": 32672,
+      "language": "JavaScript",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, claude-code)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 4d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.9,
+          "text": "~3073 stars a month (new, 11 months ago, top 43% in ai-agents)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "gemini-cli",
+        "llm",
+        "llm-gateway",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "via_topics": [
+        "ai-agents"
+      ],
+      "created_at": "2026-01-05T02:59:30Z",
+      "pushed_at": "2026-11-16T02:39:05Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Nasiko-Labs/nasiko",
+      "url": "https://github.com/Nasiko-Labs/nasiko",
+      "score": 12.9,
+      "stars": 11955,
+      "language": "Rust",
+      "description": "The Open Runtime for AI Agents",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.4,
+          "text": "~1276 stars a month (new, 9 months ago, top 52% in cli)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent-security",
+        "ai",
+        "ai-agents",
+        "cli",
+        "hacktoberfest",
+        "llms",
+        "mcp-gateway",
+        "multi-agent",
+        "rust",
+        "tokenomics",
+        "tokenops"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-02-12T10:45:29Z",
+      "pushed_at": "2026-11-18T07:28:16Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Kuddev/pebrel",
+      "url": "https://github.com/Kuddev/pebrel",
+      "score": 12.9,
+      "stars": 3857,
+      "language": "Rust",
+      "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.9,
+          "text": "~838 stars a month (new, 5 months ago, top 42% in terminal)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai-cli",
+        "ai-terminal",
+        "claude-code",
+        "codex",
+        "conpty",
+        "developer-tools",
+        "gpu-accelerated",
+        "opengl",
+        "powershell",
+        "rust",
+        "session-persistence",
+        "split-panes",
+        "ssh",
+        "ssh-client",
+        "terminal",
+        "terminal-emulator",
+        "windows"
+      ],
+      "via_topics": [
+        "terminal"
+      ],
+      "created_at": "2026-07-05T12:17:36Z",
+      "pushed_at": "2026-11-20T12:28:37Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "The-POOM/the_poom",
+      "url": "https://github.com/The-POOM/the_poom",
+      "score": 12.9,
+      "stars": 115,
+      "language": "C",
+      "description": "POOM is an open-source multitool platform built to Pentest. Play. Create. It is designed for makers, security learners, gamers, and engineers who want a compact device capable of real embedded workflows across wireless security, data capture, automation, and interaction.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (matter, zigbee)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~14 stars a month (new, 8 months ago, top 22% in matter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        }
+      ],
+      "topics": [
+        "arduboy",
+        "arduboy-game",
+        "cybersecurity",
+        "esp-idf",
+        "esp32",
+        "ethical-hacking",
+        "iot",
+        "matter",
+        "wifi-security",
+        "zigbee",
+        "zigbee-sniffer"
+      ],
+      "via_topics": [
+        "zigbee",
+        "matter"
+      ],
+      "created_at": "2026-03-10T22:47:09Z",
+      "pushed_at": "2026-11-20T17:09:32Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "nirholas/servers",
+      "url": "https://github.com/nirholas/servers",
+      "score": 12.9,
+      "stars": 24,
+      "language": "TypeScript",
+      "description": "Model Context Protocol Servers",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 7.4,
+          "text": "live fork of modelcontextprotocol/servers: 12 commits ahead, 1282 behind"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic mcp"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 2 months ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.5,
+          "text": "~2 stars a month (new, 10 months ago, top 90% in mcp)"
+        }
+      ],
+      "topics": [
+        "mcp"
+      ],
+      "via_topics": [],
+      "created_at": "2026-01-17T02:10:45Z",
+      "pushed_at": "2026-09-15T07:59:44Z",
+      "lang": "und",
       "health": null
     }
   ]
