@@ -1,9 +1,25 @@
 {
   "version": 1,
   "seen": {
+    "1jehuang/jcode": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.7
+    },
     "agentscope-ai/qwenpaw": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25
+    },
+    "aientech/dossier": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 15.7
+    },
+    "analysedecircuit/oxideterm": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 15.8
+    },
+    "aurevionsec/opensylab": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 19.2
     },
     "awbx/fhir-dsl": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -20,6 +36,10 @@
     "bnlqn/overlook": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25.3
+    },
+    "builderz-labs/mission-control": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 20.7
     },
     "can1357/oh-my-pi": {
       "first_seen": "2026-11-20T13:32:28.157Z",
@@ -41,9 +61,25 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 25.3
     },
+    "coderluii/holyclaude": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 19.6
+    },
     "codewhale-hq/codewhale": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 27.4
+    },
+    "cqframework/clinical_quality_language": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 18.6
+    },
+    "digi-uw/openelis-global-2": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 24.4
+    },
+    "dmellok/tesserae": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 18.7
     },
     "duartesantos8/opengym": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -57,13 +93,45 @@
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 26.8
     },
+    "faulkj/fhirhydrant": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 15.8
+    },
+    "fhir-rust/fhir-rust": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.3
+    },
+    "firelyteam/firely-net-sdk": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22
+    },
     "frameleaf/frameleaf-app": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 20.4
     },
+    "get-concord-ai/concord-mcp": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 18.6
+    },
+    "google/fhir": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 21.5
+    },
+    "gradienthealth/viewers": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 21.7
+    },
+    "happier-dev/happier": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 26.9
+    },
     "harnessmd/munder-difflin": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 24.8
+    },
+    "health-assistant-io/health-assistant": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 23.2
     },
     "herdrdev/herdr": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -73,13 +141,29 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 27.3
     },
+    "higangssh/homebutler": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 24.9
+    },
     "hkuds/nanobot": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25.3
     },
+    "joulenap/joulenap": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 27.1
+    },
+    "kobii-git/rackpad": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 23.1
+    },
     "manaflow-ai/cmux": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 17.6
+    },
+    "mbombeck/healthlog-ios": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 23
     },
     "mefororg/messagefoundry": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -101,6 +185,10 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 26.3
     },
+    "open-multi-agent/open-multi-agent": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.4
+    },
     "open-noodle/gallery": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 27.5
@@ -113,6 +201,14 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 26.2
     },
+    "openmed-labs/openmed-agent": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 23.1
+    },
+    "osmantic/ods": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.8
+    },
     "panniantong/agent-reach": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 17.5
@@ -121,25 +217,81 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 26
     },
+    "pixel-agents-hq/pixel-agents": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 15.7
+    },
+    "pouzor/homelable": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.6
+    },
+    "pranshuparmar/witr": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 27
+    },
+    "python-roborock/local_roborock_server": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 24.7
+    },
+    "remz1337/proxmoxve": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 21.2
+    },
+    "rezamotaghi/cbctscope": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 15.7
+    },
     "rocketride-org/rocketride-server": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 20.9
+    },
+    "samply/blaze": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.9
     },
     "samply/blazectl": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 24.9
     },
+    "sheeki03/tirith": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 18.8
+    },
+    "soma-intelligence/open-health-sync": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 24.1
+    },
     "stablyai/orca": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 27.4
+    },
+    "sukramj/openccu-loom": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 20.5
     },
     "t8y2/dbx": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 25.9
     },
+    "tastyeffectco/sandboxd": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 22.6
+    },
     "thetahealth/mirobody": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25.5
+    },
+    "tianma-if/edgeever": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.6
+    },
+    "trailhq/trail-code": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 22.6
+    },
+    "trudenboy/sendspin-bt-bridge": {
+      "first_seen": "2026-11-20T13:48:44.477Z",
+      "score": 20.5
     },
     "tryatlas/atlas": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -153,6 +305,10 @@
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25.3
     },
+    "vercel-labs/agent-desktop": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 22.3
+    },
     "xerj-org/xerj": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 17.5
@@ -160,6 +316,10 @@
     "zatosource/zato": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 20.7
+    },
+    "zenbu-labs/terminal-browser": {
+      "first_seen": "2026-11-20T13:47:58.838Z",
+      "score": 18.6
     }
   }
 }

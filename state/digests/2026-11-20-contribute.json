@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-20",
   "mode": "contribute",
-  "generated_at": "2026-11-20T13:32:28.159Z",
+  "generated_at": "2026-11-20T13:48:44.479Z",
   "items": [
     {
       "full_name": "OpenByteInc/QuantDinger",
@@ -96,8 +96,8 @@
       "via_topics": [
         "self-hosted"
       ],
-      "created_at": "2025-12-28T18:39:26Z",
-      "pushed_at": "2026-11-19T22:10:03Z",
+      "created_at": "2025-12-28T18:39:26.000Z",
+      "pushed_at": "2026-11-19T22:10:03.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 26,
@@ -180,8 +180,8 @@
       "via_topics": [
         "proxmox"
       ],
-      "created_at": "2026-07-28T10:45:19Z",
-      "pushed_at": "2026-11-20T00:02:42Z",
+      "created_at": "2026-07-28T10:45:19.000Z",
+      "pushed_at": "2026-11-20T00:02:42.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 25,
@@ -273,8 +273,8 @@
         "videosharing"
       ],
       "via_topics": [],
-      "created_at": "2026-03-02T20:46:35Z",
-      "pushed_at": "2026-11-20T13:05:53Z",
+      "created_at": "2026-03-02T20:46:35.000Z",
+      "pushed_at": "2026-11-20T13:05:53.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 28,
@@ -368,8 +368,8 @@
         "claude-code",
         "ai-agents"
       ],
-      "created_at": "2026-03-17T03:28:57Z",
-      "pushed_at": "2026-11-20T13:29:03Z",
+      "created_at": "2026-03-17T03:28:57.000Z",
+      "pushed_at": "2026-11-20T13:29:03.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 51,
@@ -466,8 +466,8 @@
         "terminal",
         "mcp"
       ],
-      "created_at": "2026-01-19T18:21:01Z",
-      "pushed_at": "2026-11-20T13:24:06Z",
+      "created_at": "2026-01-19T18:21:01.000Z",
+      "pushed_at": "2026-11-20T13:24:06.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 76,
@@ -556,8 +556,8 @@
         "mcp",
         "ai-agents"
       ],
-      "created_at": "2026-03-10T01:51:06Z",
-      "pushed_at": "2026-11-20T12:38:59Z",
+      "created_at": "2026-03-10T01:51:06.000Z",
+      "pushed_at": "2026-11-20T12:38:59.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 17,
@@ -647,8 +647,8 @@
       "via_topics": [
         "self-hosted"
       ],
-      "created_at": "2026-06-29T10:49:36Z",
-      "pushed_at": "2026-11-20T06:53:32Z",
+      "created_at": "2026-06-29T10:49:36.000Z",
+      "pushed_at": "2026-11-20T06:53:32.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 77,
@@ -740,8 +740,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-10-17T04:31:19Z",
-      "pushed_at": "2026-11-16T04:00:06Z",
+      "created_at": "2026-10-17T04:31:19.000Z",
+      "pushed_at": "2026-11-16T04:00:06.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 31,
@@ -830,8 +830,8 @@
         "mcp",
         "ai-agents"
       ],
-      "created_at": "2026-03-02T15:01:51Z",
-      "pushed_at": "2026-11-20T13:17:41Z",
+      "created_at": "2026-03-02T15:01:51.000Z",
+      "pushed_at": "2026-11-20T13:17:41.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 83,
@@ -923,8 +923,8 @@
         "cli",
         "mcp"
       ],
-      "created_at": "2026-04-29T03:00:36Z",
-      "pushed_at": "2026-11-20T11:02:30Z",
+      "created_at": "2026-04-29T03:00:36.000Z",
+      "pushed_at": "2026-11-20T11:02:30.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 92,
@@ -1013,8 +1013,8 @@
         "terminal",
         "mcp"
       ],
-      "created_at": "2025-12-31T14:01:28Z",
-      "pushed_at": "2026-11-20T12:59:35Z",
+      "created_at": "2025-12-31T14:01:28.000Z",
+      "pushed_at": "2026-11-20T12:59:35.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 82,
@@ -1101,8 +1101,8 @@
       "via_topics": [
         "docker"
       ],
-      "created_at": "2026-10-08T21:14:39Z",
-      "pushed_at": "2026-11-20T07:28:06Z",
+      "created_at": "2026-10-08T21:14:39.000Z",
+      "pushed_at": "2026-11-20T07:28:06.000Z",
       "lang": "und",
       "health": {
         "outside_prs_90d": 58,
@@ -1186,8 +1186,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-06-09T06:28:20Z",
-      "pushed_at": "2026-11-20T09:07:50Z",
+      "created_at": "2026-06-09T06:28:20.000Z",
+      "pushed_at": "2026-11-20T09:07:50.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 22,
@@ -1284,8 +1284,8 @@
       "via_topics": [
         "self-hosted"
       ],
-      "created_at": "2026-05-31T15:25:05Z",
-      "pushed_at": "2026-11-20T04:20:35Z",
+      "created_at": "2026-05-31T15:25:05.000Z",
+      "pushed_at": "2026-11-20T04:20:35.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -1366,8 +1366,8 @@
         "videos"
       ],
       "via_topics": [],
-      "created_at": "2026-05-05T21:29:48Z",
-      "pushed_at": "2026-11-20T13:28:10Z",
+      "created_at": "2026-05-05T21:29:48.000Z",
+      "pushed_at": "2026-11-20T13:28:10.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -1436,8 +1436,8 @@
         "mcp",
         "ai-agents"
       ],
-      "created_at": "2026-02-13T12:38:31Z",
-      "pushed_at": "2026-11-20T13:27:01Z",
+      "created_at": "2026-02-13T12:38:31.000Z",
+      "pushed_at": "2026-11-20T13:27:01.000Z",
       "lang": "en",
       "health": null
     },
@@ -1502,8 +1502,8 @@
         "cli",
         "terminal"
       ],
-      "created_at": "2026-01-28T10:03:24Z",
-      "pushed_at": "2026-11-20T13:28:49Z",
+      "created_at": "2026-01-28T10:03:24.000Z",
+      "pushed_at": "2026-11-20T13:28:49.000Z",
       "lang": "en",
       "health": null
     },
@@ -1556,8 +1556,8 @@
         "golang"
       ],
       "via_topics": [],
-      "created_at": "2020-02-13T17:20:41Z",
-      "pushed_at": "2026-11-20T08:33:06Z",
+      "created_at": "2020-02-13T17:20:41.000Z",
+      "pushed_at": "2026-11-20T08:33:06.000Z",
       "lang": "und",
       "health": null
     },
@@ -1622,8 +1622,8 @@
         "claude-code",
         "mcp"
       ],
-      "created_at": "2026-02-24T02:10:24Z",
-      "pushed_at": "2026-11-08T02:17:48Z",
+      "created_at": "2026-02-24T02:10:24.000Z",
+      "pushed_at": "2026-11-08T02:17:48.000Z",
       "lang": "en",
       "health": null
     },
@@ -1689,8 +1689,1573 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-06-30T04:32:45Z",
-      "pushed_at": "2026-11-20T12:30:51Z",
+      "created_at": "2026-06-30T04:32:45.000Z",
+      "pushed_at": "2026-11-20T12:30:51.000Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Joulenap/joulenap",
+      "url": "https://github.com/Joulenap/joulenap",
+      "score": 27.1,
+      "stars": 141,
+      "language": "Python",
+      "description": "Wake-on-LAN backup scheduler for Proxmox VE + PBS - let your backup servers sleep",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (docker, proxmox, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 11 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 6 of 6 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.9,
+          "text": "~30 stars a month (new, 5 months ago, top 62% in proxmox)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.7.0 4d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "backup",
+        "docker",
+        "energy-saving",
+        "fastapi",
+        "homelab",
+        "pbs",
+        "proxmox",
+        "proxmox-backup-server",
+        "scheduler",
+        "self-hosted",
+        "wake-on-lan",
+        "wol"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-07-02T18:46:59Z",
+      "pushed_at": "2026-11-19T08:44:29Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 11,
+        "issue_response": {
+          "answered": 6,
+          "total": 6
+        }
+      }
+    },
+    {
+      "full_name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "score": 27,
+      "stars": 23043,
+      "language": "Go",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, docker, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 7 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.8,
+          "text": "~2070 stars a month (new, 11 months ago, top 24% in terminal)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.7,
+          "text": "answered 8 of 9 recent issues"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 28d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.3.4 46d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "cli",
+        "containers",
+        "devops",
+        "docker",
+        "freebsd",
+        "go",
+        "golang",
+        "incident-response",
+        "kubernetes",
+        "linux",
+        "macos",
+        "monitoring",
+        "observability",
+        "process-management",
+        "sysadmin",
+        "systemd",
+        "terminal",
+        "troubleshooting",
+        "tui",
+        "windows"
+      ],
+      "via_topics": [
+        "docker",
+        "cli",
+        "terminal"
+      ],
+      "created_at": "2025-12-20T17:26:59Z",
+      "pushed_at": "2026-10-23T03:02:05Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 7,
+        "issue_response": {
+          "answered": 8,
+          "total": 9
+        }
+      }
+    },
+    {
+      "full_name": "happier-dev/happier",
+      "url": "https://github.com/happier-dev/happier",
+      "score": 26.9,
+      "stars": 2250,
+      "language": "TypeScript",
+      "description": "Web, Desktop & Mobile client and orchestrator for Codex, Claude Code, OpenCode, Pi, Cursor, Grok, Antigravity, Kimi, Augment Code, Qwen, fully end-to-end encrypted",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, claude-code, devtools)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 99 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 3 of 3 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.9,
+          "text": "~199 stars a month (new, 11 months ago, top 42% in devtools)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released ui-web-v0.2.22 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ade",
+        "agent-ide",
+        "agent-orchestration",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "developer-tools",
+        "development",
+        "devtools",
+        "gemini",
+        "ide",
+        "mobile-ade",
+        "mobile-app",
+        "opencode",
+        "orchestration",
+        "pi",
+        "vibecoding",
+        "worktrees"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2025-12-16T08:44:25Z",
+      "pushed_at": "2026-11-20T13:43:58Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 99,
+        "issue_response": {
+          "answered": 3,
+          "total": 3
+        }
+      }
+    },
+    {
+      "full_name": "Higangssh/homebutler",
+      "url": "https://github.com/Higangssh/homebutler",
+      "score": 24.9,
+      "stars": 381,
+      "language": "Go",
+      "description": "🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (cli, docker, mcp, proxmox)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 4d ago"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 3,
+          "text": "merged 3 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 5 of 5 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.4,
+          "text": "~42 stars a month (new, 9 months ago, top 52% in proxmox)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.8.0 9d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai",
+        "backup",
+        "change-detection",
+        "chatops",
+        "cli",
+        "devops",
+        "docker",
+        "go",
+        "golang",
+        "homelab",
+        "mcp",
+        "mcp-server",
+        "monitoring",
+        "openclaw",
+        "proxmox",
+        "raspberry-pi",
+        "selfhosted",
+        "ssh",
+        "systemd",
+        "wake-on-lan"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-02-23T09:17:24Z",
+      "pushed_at": "2026-11-16T01:30:01Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 3,
+        "issue_response": {
+          "answered": 5,
+          "total": 5
+        }
+      }
+    },
+    {
+      "full_name": "Python-roborock/local_roborock_server",
+      "url": "https://github.com/Python-roborock/local_roborock_server",
+      "score": 24.7,
+      "stars": 1340,
+      "language": "Python",
+      "description": "Local HTTPS and MQTT cloud emulator for Roborock vacuums without rooting or hardware modifications",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 57 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.6,
+          "text": "~167 stars a month (new, 8 months ago, top 28% in home-assistant)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 4d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.3,
+          "text": "like your stars: self-hosted, mqtt"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.2.1 42d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "issue_response",
+          "points": 0.8,
+          "text": "answered 2 of 8 recent issues"
+        }
+      ],
+      "topics": [
+        "home-assistant",
+        "iot",
+        "local-control",
+        "mqtt",
+        "reverse-engineering",
+        "roborock",
+        "self-hosted",
+        "smart-home"
+      ],
+      "via_topics": [
+        "home-assistant"
+      ],
+      "created_at": "2026-03-24T02:31:27Z",
+      "pushed_at": "2026-11-15T20:32:27Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 57,
+        "issue_response": {
+          "answered": 2,
+          "total": 8
+        }
+      }
+    },
+    {
+      "full_name": "DIGI-UW/OpenELIS-Global-2",
+      "url": "https://github.com/DIGI-UW/OpenELIS-Global-2",
+      "score": 24.4,
+      "stars": 293,
+      "language": "Java",
+      "description": "OpenELIS Global — open-source Laboratory Information System (LIS/LIMS) for clinical and public-health labs in 25+ countries. Java/Spring + React (Carbon), FHIR R4 native, Docker.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (fhir, hl7)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 4,
+          "text": "merged 4 outside PRs in 90 days"
+        },
+        {
+          "rule": "stars",
+          "points": 3.1,
+          "text": "293 stars, top 23% in hl7"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.8,
+          "text": "like your stars: hl7, fhir"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "10+ good first issues, 2 help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MPL-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released 3.3.0 30d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "carbon-design-system",
+        "clinical-laboratory",
+        "digital-public-goods",
+        "fhir",
+        "global-health",
+        "health-informatics",
+        "hl7",
+        "java",
+        "laboratory-information-system",
+        "lims",
+        "lis",
+        "react",
+        "spring"
+      ],
+      "via_topics": [],
+      "created_at": "2019-01-15T22:29:06Z",
+      "pushed_at": "2026-11-20T10:42:52Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 4,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "trailhq/Trail-Code",
+      "url": "https://github.com/trailhq/Trail-Code",
+      "score": 22.6,
+      "stars": 11353,
+      "language": "TypeScript",
+      "description": "One shared memory for every coding agent on your team. Claude Code, Cursor and Codex get a map of your code and your team's past decisions, so they pick up where you left off.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, claude-code, cli, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 15 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.1,
+          "text": "~2433 stars a month (new, 5 months ago, top 38% in cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "code-graph",
+        "codex",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "open-source",
+        "openai",
+        "tree-sitter"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-07-03T13:44:21Z",
+      "pushed_at": "2026-11-20T06:04:20Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 15,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "tastyeffectco/sandboxd",
+      "url": "https://github.com/tastyeffectco/sandboxd",
+      "score": 22.6,
+      "stars": 998,
+      "language": "Go",
+      "description": "Open-source, self-hosted AI app builder — an agent builds real apps in isolated sandboxes on your own server, each live at a preview URL. Self-host in one command. MIT.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, devtools, docker, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 3,
+          "text": "merged 3 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.4,
+          "text": "~177 stars a month (new, 6 months ago, top 52% in devtools)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.3.26 19d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-infrastructure",
+        "ai",
+        "ai-agents",
+        "app-builder",
+        "coding-agent",
+        "developer-tools",
+        "devtools",
+        "docker",
+        "llm",
+        "open-source",
+        "paas",
+        "preview-environments",
+        "sandbox",
+        "self-hosted"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-06-03T18:55:02Z",
+      "pushed_at": "2026-11-20T12:58:14Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 3,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "gradienthealth/Viewers",
+      "url": "https://github.com/gradienthealth/Viewers",
+      "score": 21.7,
+      "stars": 4,
+      "language": "TypeScript",
+      "description": "OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of OHIF/Viewers: 149 commits ahead, 494 behind"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 10 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "stars",
+          "points": 2,
+          "text": "4 stars, top 50% of this run"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2022-09-07T19:24:37Z",
+      "pushed_at": "2026-11-18T16:30:05Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 10,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "remz1337/ProxmoxVE",
+      "url": "https://github.com/remz1337/ProxmoxVE",
+      "score": 21.2,
+      "stars": 10,
+      "language": "Shell",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of community-scripts/ProxmoxVE: 286 commits ahead, 1837 behind"
+        },
+        {
+          "rule": "stars",
+          "points": 3.5,
+          "text": "10 stars, top 13% of this run"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 7d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 10 of 10 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2024-11-04T20:53:54Z",
+      "pushed_at": "2026-11-13T03:38:05Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 10,
+          "total": 10
+        }
+      }
+    },
+    {
+      "full_name": "builderz-labs/mission-control",
+      "url": "https://github.com/builderz-labs/mission-control",
+      "score": 20.7,
+      "stars": 6511,
+      "language": "TypeScript",
+      "description": "Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, claude-code, mcp, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.5,
+          "text": "~698 stars a month (new, 9 months ago, top 50% in self-hosted)"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "1 help wanted"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "release",
+          "points": 0.5,
+          "text": "released v2.3.0 4 months ago"
+        }
+      ],
+      "topics": [
+        "agent-observability",
+        "agent-operations",
+        "agent-orchestration",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "mcp",
+        "nextjs",
+        "open-source",
+        "openclaw",
+        "self-hosted",
+        "sqlite",
+        "task-management",
+        "typescript"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-02-13T04:06:19Z",
+      "pushed_at": "2026-11-17T02:52:22Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 1,
+          "total": 2
+        }
+      }
+    },
+    {
+      "full_name": "trudenboy/sendspin-bt-bridge",
+      "url": "https://github.com/trudenboy/sendspin-bt-bridge",
+      "score": 20.5,
+      "stars": 333,
+      "language": "Python",
+      "description": "Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations & Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free & open-source.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (docker, home-assistant, proxmox)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.3,
+          "text": "~37 stars a month (new, 9 months ago, top 56% in proxmox)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: home-automation"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 1,
+          "text": "merged 1 outside PR in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v3.2.0-beta.27 11d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "bluetooth",
+        "bluetooth-speaker",
+        "diy-audio",
+        "docker",
+        "ha-addon",
+        "home-assistant",
+        "home-automation",
+        "multiroom-audio",
+        "music-assistant",
+        "open-source",
+        "proxmox",
+        "raspberry-pi",
+        "sendspin",
+        "smart-speaker"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-02-26T06:37:16Z",
+      "pushed_at": "2026-11-20T03:12:20Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 1,
+        "issue_response": {
+          "answered": 0,
+          "total": 4
+        }
+      }
+    },
+    {
+      "full_name": "SukramJ/openccu-loom",
+      "url": "https://github.com/SukramJ/openccu-loom",
+      "score": 20.5,
+      "stars": 8,
+      "language": "Go",
+      "description": "Standalone Go daemon bridging Homematic / HomematicIP — CCUs and openccu-lite — to MQTT (Home Assistant Discovery), REST + WebSocket, MCP, a Svelte config UI and a Matter bridge. Multi-CCU, single static binary, Home Assistant add-on.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (home-assistant, matter, mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.2,
+          "text": "like your stars: home-automation, mqtt"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.3,
+          "text": "~1 stars a month (new, 6 months ago, top 75% in matter)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1,
+          "text": "answered 1 of 3 recent issues"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.105.0 4d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ccu",
+        "cuxd",
+        "eq3",
+        "golang",
+        "home-assistant",
+        "home-assistant-addon",
+        "home-automation",
+        "homematic",
+        "homematicip",
+        "matter",
+        "matter-bridge",
+        "mcp",
+        "model-context-protocol",
+        "mqtt",
+        "openccu",
+        "raspberrymatic",
+        "rest-api",
+        "smart-home",
+        "svelte",
+        "websocket"
+      ],
+      "via_topics": [
+        "matter"
+      ],
+      "created_at": "2026-05-31T10:20:19Z",
+      "pushed_at": "2026-11-20T12:07:27Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 1,
+          "total": 3
+        }
+      }
+    },
+    {
+      "full_name": "CoderLuii/HolyClaude",
+      "url": "https://github.com/CoderLuii/HolyClaude",
+      "score": 19.6,
+      "stars": 2676,
+      "language": "JavaScript",
+      "description": "AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (claude-code, devtools, docker)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.6,
+          "text": "~330 stars a month (new, 8 months ago, top 29% in devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.7.0 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-coding",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "coding-agent",
+        "container",
+        "developer-tools",
+        "devtools",
+        "docker",
+        "docker-compose",
+        "gemini",
+        "headless-browser",
+        "openai",
+        "playwright"
+      ],
+      "via_topics": [
+        "docker",
+        "devtools"
+      ],
+      "created_at": "2026-03-22T01:03:18Z",
+      "pushed_at": "2026-11-18T23:07:13Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 2,
+          "total": 2
+        }
+      }
+    },
+    {
+      "full_name": "AurevionSec/openSylab",
+      "url": "https://github.com/AurevionSec/openSylab",
+      "score": 19.2,
+      "stars": 7,
+      "language": "C++",
+      "description": "Open-source LIMS for medical diagnostics. ISO 15189-oriented audit trail, RBAC, MFA/TOTP, HL7 v2.5.1 & FHIR R4 native, self-hosted, MIT-licensed.",
+      "sources": [
+        "search",
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (fhir, hl7, self-hosted)"
+        },
+        {
+          "rule": "affinity",
+          "points": 4.5,
+          "text": "like your stars: hl7, fhir, self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 24d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "release",
+          "points": 0.5,
+          "text": "released v1.1.0 5 months ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.2,
+          "text": "7 stars since 12 months ago (new, 12 months ago, top 97% in hl7)"
+        }
+      ],
+      "topics": [
+        "audit-trail",
+        "c-plus-plus",
+        "cpp17",
+        "fhir",
+        "healthcare",
+        "hl7",
+        "iso-15189",
+        "jwt",
+        "laboratory-information-system",
+        "lims",
+        "medical",
+        "mfa",
+        "open-source",
+        "rbac",
+        "react",
+        "self-hosted",
+        "sqlite",
+        "totp",
+        "typescript"
+      ],
+      "via_topics": [
+        "hl7"
+      ],
+      "created_at": "2025-11-25T02:36:25Z",
+      "pushed_at": "2026-10-27T03:46:56Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "AnalyseDeCircuit/oxideterm",
+      "url": "https://github.com/AnalyseDeCircuit/oxideterm",
+      "score": 15.8,
+      "stars": 1947,
+      "language": "Rust",
+      "description": "Fast, native Rust + GPUI workspace for local and SSH with MCP tools—no WebView, no telemetry, open source.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (devtools, mcp, terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.8,
+          "text": "~193 stars a month (new, 10 months ago, top 45% in devtools)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "agent",
+        "ai-terminal",
+        "bring-your-own-key",
+        "devtools",
+        "filemanager",
+        "gpui",
+        "local-first",
+        "mcp",
+        "native-apps",
+        "port-forwarding",
+        "rag",
+        "rdp",
+        "russh",
+        "rust",
+        "sftp",
+        "ssh-client",
+        "terminal",
+        "terminal-emulator",
+        "tool-calling"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-01-21T07:30:14Z",
+      "pushed_at": "2026-11-20T09:00:01Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "faulkj/fhirHydrant",
+      "url": "https://github.com/faulkj/fhirHydrant",
+      "score": 15.8,
+      "stars": 18,
+      "language": "TypeScript",
+      "description": "Open-source Node.js FHIR MCP server with SMART Backend Services, metadata-aware search/CRUD tools, compact responses, FHIRPath filtering, safe pagination, audit events, and terminology lookup.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, fhir, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.6,
+          "text": "~3 stars a month (new, 5 months ago, top 49% in fhir)"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.2,
+          "text": "like your stars: fhir, healthcare"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 2 months ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "clinical-informatics",
+        "ehr",
+        "emr",
+        "emr-integration",
+        "fhir",
+        "fhir-server",
+        "fhirpath",
+        "healthcare",
+        "healthcare-ai",
+        "hl7-fhir",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "nodejs",
+        "open-source",
+        "smart-backend",
+        "smart-on-fhir",
+        "typescript"
+      ],
+      "via_topics": [
+        "fhir"
+      ],
+      "created_at": "2026-06-10T20:37:23Z",
+      "pushed_at": "2026-09-15T01:29:08Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "pixel-agents-hq/pixel-agents",
+      "url": "https://github.com/pixel-agents-hq/pixel-agents",
+      "score": 15.7,
+      "stars": 10306,
+      "language": "TypeScript",
+      "description": "A playful way to manage your AI workforce",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, claude-code, cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.2,
+          "text": "~1089 stars a month (new, 9 months ago, top 57% in cli)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "developer-tools",
+        "pixel-art",
+        "vscode-extension"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-02-08T19:14:11Z",
+      "pushed_at": "2026-11-19T19:07:05Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "AienTech/dossier",
+      "url": "https://github.com/AienTech/dossier",
+      "score": 15.7,
+      "stars": 5327,
+      "language": "TypeScript",
+      "description": "A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (docker, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.5,
+          "text": "~3400 stars a month (new, 47d ago, top 11% in self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "caprover",
+        "cover-letter",
+        "docker",
+        "job-application-tracker",
+        "job-search",
+        "llm",
+        "local-llm",
+        "nextjs",
+        "ollama",
+        "postgresql",
+        "resume",
+        "self-hosted",
+        "typescript"
+      ],
+      "via_topics": [
+        "docker"
+      ],
+      "created_at": "2026-10-03T21:26:15Z",
+      "pushed_at": "2026-11-19T11:11:48Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "rezamotaghi/cbctscope",
+      "url": "https://github.com/rezamotaghi/cbctscope",
+      "score": 15.7,
+      "stars": 9,
+      "language": "TypeScript",
+      "description": "CBCT and 2D radiograph viewer by a board-certified oral and maxillofacial radiologist. Runs in the browser at cbctscope.com, nothing uploaded; desktop app for macOS and Windows. An AI agent can move the camera over MCP; the human reads. Open source.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, dicom, mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.7,
+          "text": "~2 stars a month (new, 4 months ago, top 47% in dicom)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "cbct",
+        "cone-beam-ct",
+        "dental",
+        "dental-imaging",
+        "dentistry",
+        "dicom",
+        "dicom-viewer",
+        "local-first",
+        "maxillofacial",
+        "mcp",
+        "medical-imaging",
+        "model-context-protocol",
+        "radiology"
+      ],
+      "via_topics": [
+        "dicom"
+      ],
+      "created_at": "2026-07-18T15:02:08Z",
+      "pushed_at": "2026-11-19T22:25:54Z",
       "lang": "en",
       "health": null
     }
