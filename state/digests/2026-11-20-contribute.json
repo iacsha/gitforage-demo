@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-20",
   "mode": "contribute",
-  "generated_at": "2026-11-20T15:16:42.297Z",
+  "generated_at": "2026-11-20T20:24:45.101Z",
   "items": [
     {
       "full_name": "OpenByteInc/QuantDinger",
@@ -3340,8 +3340,8 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-03-15T07:39:12Z",
-      "pushed_at": "2026-11-20T06:12:44Z",
+      "created_at": "2026-03-15T07:39:12.000Z",
+      "pushed_at": "2026-11-20T06:12:44.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 23,
@@ -3435,8 +3435,8 @@
         "self-hosted",
         "docker"
       ],
-      "created_at": "2026-05-09T00:04:37Z",
-      "pushed_at": "2026-11-20T04:23:31Z",
+      "created_at": "2026-05-09T00:04:37.000Z",
+      "pushed_at": "2026-11-20T04:23:31.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 16,
@@ -3528,8 +3528,8 @@
       "via_topics": [
         "terminal"
       ],
-      "created_at": "2026-01-09T17:23:31Z",
-      "pushed_at": "2026-11-20T15:06:18Z",
+      "created_at": "2026-01-09T17:23:31.000Z",
+      "pushed_at": "2026-11-20T15:06:18.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 58,
@@ -3605,8 +3605,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-07-16T21:21:54Z",
-      "pushed_at": "2026-11-20T15:11:21Z",
+      "created_at": "2026-07-16T21:21:54.000Z",
+      "pushed_at": "2026-11-20T15:11:21.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 100,
@@ -3699,8 +3699,8 @@
         "mcp",
         "ai-agents"
       ],
-      "created_at": "2026-02-25T09:47:50Z",
-      "pushed_at": "2026-08-31T04:32:44Z",
+      "created_at": "2026-02-25T09:47:50.000Z",
+      "pushed_at": "2026-08-31T04:32:44.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 2,
@@ -3773,8 +3773,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-11-12T19:35:40Z",
-      "pushed_at": "2026-11-20T10:32:09Z",
+      "created_at": "2026-11-12T19:35:40.000Z",
+      "pushed_at": "2026-11-20T10:32:09.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3863,8 +3863,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-05-23T22:55:38Z",
-      "pushed_at": "2026-11-19T03:56:14Z",
+      "created_at": "2026-05-23T22:55:38.000Z",
+      "pushed_at": "2026-11-19T03:56:14.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3950,8 +3950,8 @@
       "via_topics": [
         "terminal"
       ],
-      "created_at": "2026-05-06T17:00:48Z",
-      "pushed_at": "2026-11-20T15:09:19Z",
+      "created_at": "2026-05-06T17:00:48.000Z",
+      "pushed_at": "2026-11-20T15:09:19.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 1,
@@ -4032,8 +4032,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2026-05-29T19:10:37Z",
-      "pushed_at": "2026-11-15T14:13:26Z",
+      "created_at": "2026-05-29T19:10:37.000Z",
+      "pushed_at": "2026-11-15T14:13:26.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -4100,8 +4100,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-07-02T20:10:47Z",
-      "pushed_at": "2026-11-20T11:11:09Z",
+      "created_at": "2026-07-02T20:10:47.000Z",
+      "pushed_at": "2026-11-20T11:11:09.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 2,
@@ -4185,8 +4185,8 @@
         "hl7",
         "dicom"
       ],
-      "created_at": "2026-03-18T21:29:44Z",
-      "pushed_at": "2026-11-19T16:45:05Z",
+      "created_at": "2026-03-18T21:29:44.000Z",
+      "pushed_at": "2026-11-19T16:45:05.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -4262,8 +4262,8 @@
       "via_topics": [
         "dicom"
       ],
-      "created_at": "2026-09-29T06:44:29Z",
-      "pushed_at": "2026-10-02T05:37:03Z",
+      "created_at": "2026-09-29T06:44:29.000Z",
+      "pushed_at": "2026-10-02T05:37:03.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -4317,8 +4317,8 @@
       ],
       "topics": [],
       "via_topics": [],
-      "created_at": "2025-07-22T18:07:03Z",
-      "pushed_at": "2026-10-29T22:18:07Z",
+      "created_at": "2025-07-22T18:07:03.000Z",
+      "pushed_at": "2026-10-29T22:18:07.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -4397,8 +4397,8 @@
         "zigbee",
         "matter"
       ],
-      "created_at": "2026-05-17T14:47:31Z",
-      "pushed_at": "2026-10-02T17:04:01Z",
+      "created_at": "2026-05-17T14:47:31.000Z",
+      "pushed_at": "2026-10-02T17:04:01.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -4455,8 +4455,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-11-17T01:13:06Z",
-      "pushed_at": "2026-11-17T01:14:18Z",
+      "created_at": "2026-11-17T01:13:06.000Z",
+      "pushed_at": "2026-11-17T01:14:18.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -4518,8 +4518,8 @@
       "via_topics": [
         "terminal"
       ],
-      "created_at": "2026-03-17T19:16:15Z",
-      "pushed_at": "2026-11-20T13:07:49Z",
+      "created_at": "2026-03-17T19:16:15.000Z",
+      "pushed_at": "2026-11-20T13:07:49.000Z",
       "lang": "en",
       "health": null
     },
@@ -4580,8 +4580,8 @@
         "quality-measures"
       ],
       "via_topics": [],
-      "created_at": "2019-10-24T22:11:26Z",
-      "pushed_at": "2026-11-19T15:06:13Z",
+      "created_at": "2019-10-24T22:11:26.000Z",
+      "pushed_at": "2026-11-19T15:06:13.000Z",
       "lang": "en",
       "health": null
     },
@@ -4628,8 +4628,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-11-14T23:08:41Z",
-      "pushed_at": "2026-11-18T20:42:05Z",
+      "created_at": "2026-11-14T23:08:41.000Z",
+      "pushed_at": "2026-11-18T20:42:05.000Z",
       "lang": "en",
       "health": null
     },
@@ -4687,8 +4687,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2026-09-06T19:52:24Z",
-      "pushed_at": "2026-10-15T21:48:07Z",
+      "created_at": "2026-09-06T19:52:24.000Z",
+      "pushed_at": "2026-10-15T21:48:07.000Z",
       "lang": "en",
       "health": null
     },
@@ -4731,8 +4731,1487 @@
       ],
       "topics": [],
       "via_topics": [],
-      "created_at": "2026-11-14T20:33:03Z",
-      "pushed_at": "2026-11-15T14:06:30Z",
+      "created_at": "2026-11-14T20:33:03.000Z",
+      "pushed_at": "2026-11-15T14:06:30.000Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "giancarloerra/SocratiCode",
+      "url": "https://github.com/giancarloerra/SocratiCode",
+      "score": 25,
+      "stars": 3382,
+      "language": "TypeScript",
+      "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in beta.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (claude-code, docker, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 40 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 12 of 12 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2,
+          "text": "~380 stars a month (new, 9 months ago, top 60% in docker)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 9d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.16.2 14d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-assistant",
+        "ast",
+        "claude",
+        "claude-code",
+        "code-graph",
+        "codebase-intelligence",
+        "context-engine",
+        "docker",
+        "embeddings",
+        "gemini",
+        "gemini-cli-extension",
+        "mcp",
+        "openai",
+        "qdrant",
+        "semantic",
+        "semantic-search",
+        "vector-database",
+        "vector-embeddings",
+        "vector-search"
+      ],
+      "via_topics": [
+        "docker"
+      ],
+      "created_at": "2026-02-26T16:12:26Z",
+      "pushed_at": "2026-11-11T19:31:23Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 40,
+        "issue_response": {
+          "answered": 12,
+          "total": 12
+        }
+      }
+    },
+    {
+      "full_name": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "score": 23.9,
+      "stars": 8036,
+      "language": "TypeScript",
+      "description": "DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 23 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~2435 stars a month (new, 3 months ago, top 22% in terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2,
+          "text": "answered 4 of 6 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.20.2 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "claude-code",
+        "coding-agent",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "ink",
+        "react",
+        "terminal",
+        "tui"
+      ],
+      "via_topics": [
+        "terminal"
+      ],
+      "created_at": "2026-08-13T12:49:31Z",
+      "pushed_at": "2026-11-20T20:02:16Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 23,
+        "issue_response": {
+          "answered": 4,
+          "total": 6
+        }
+      }
+    },
+    {
+      "full_name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "score": 23.2,
+      "stars": 42776,
+      "language": "Rust",
+      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 5 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~4666 stars a month (new, 9 months ago, top 22% in mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.3,
+          "text": "answered 3 of 7 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.64.15 42d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-assistant",
+        "desktop",
+        "llm",
+        "local-first",
+        "mcp",
+        "personal-ai",
+        "privacy",
+        "rust",
+        "second-brain",
+        "tauri"
+      ],
+      "via_topics": [
+        "mcp",
+        "ai-agents"
+      ],
+      "created_at": "2026-02-18T20:01:27Z",
+      "pushed_at": "2026-11-20T06:19:40Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 5,
+        "issue_response": {
+          "answered": 3,
+          "total": 7
+        }
+      }
+    },
+    {
+      "full_name": "Interop-Sante/hl7.fhir.fr.core",
+      "url": "https://github.com/Interop-Sante/hl7.fhir.fr.core",
+      "score": 23.1,
+      "stars": 28,
+      "language": "GLSL",
+      "description": "FHIR FRCore Implementation Guide",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (fhir, hl7)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 21 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.8,
+          "text": "like your stars: hl7, fhir"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.9,
+          "text": "answered 9 of 14 recent issues"
+        },
+        {
+          "rule": "stars",
+          "points": 1.4,
+          "text": "28 stars, top 64% in hl7"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released 3.0.0-ballot 11d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "core",
+        "fhir",
+        "frcore",
+        "hl7"
+      ],
+      "via_topics": [],
+      "created_at": "2022-11-16T16:53:58Z",
+      "pushed_at": "2026-11-20T08:15:02Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 21,
+        "issue_response": {
+          "answered": 9,
+          "total": 14
+        }
+      }
+    },
+    {
+      "full_name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "score": 22,
+      "stars": 61700,
+      "language": "JavaScript",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, claude-code)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 57 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4,
+          "text": "~5990 stars a month (new, 10 months ago, top 21% in ai-agents)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.14.25 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-seo",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "content-marketing",
+        "conversion-rate-optimization",
+        "copywriting",
+        "cursor",
+        "email-marketing",
+        "generative-engine-optimization",
+        "growth-marketing",
+        "marketing",
+        "marketing-automation",
+        "saas-marketing",
+        "seo",
+        "skill-md"
+      ],
+      "via_topics": [
+        "claude-code",
+        "ai-agents"
+      ],
+      "created_at": "2026-01-15T19:45:23Z",
+      "pushed_at": "2026-11-20T02:15:08Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 57,
+        "issue_response": {
+          "answered": 2,
+          "total": 2
+        }
+      }
+    },
+    {
+      "full_name": "pardesline/pardesline",
+      "url": "https://github.com/pardesline/pardesline",
+      "score": 21.9,
+      "stars": 10,
+      "language": "Python",
+      "description": "3D vision and medical imaging in one Python package: 73 algorithms, 43 datasets in one line, Open3D / SimpleITK / PyVista, MCP server for AI agents",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (dicom, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 8 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~7 stars a month (new, 41d ago, top 23% in dicom)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.6.0 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "3d",
+        "computer-vision",
+        "ct",
+        "datasets",
+        "deep-learning",
+        "dicom",
+        "gemini-cli-extension",
+        "huggingface",
+        "lidar",
+        "mcp",
+        "mcp-server",
+        "medical-imaging",
+        "mesh-processing",
+        "mri",
+        "open3d",
+        "point-cloud",
+        "python",
+        "registration",
+        "segmentation",
+        "simpleitk"
+      ],
+      "via_topics": [
+        "dicom"
+      ],
+      "created_at": "2026-10-10T18:53:11Z",
+      "pushed_at": "2026-11-17T09:11:45Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 8,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "labtether/labtether",
+      "url": "https://github.com/labtether/labtether",
+      "score": 21.8,
+      "stars": 111,
+      "language": "Go",
+      "description": "LabTether",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (docker, mcp, proxmox)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 100 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.1,
+          "text": "~14 stars a month (new, 8 months ago, top 79% in mcp)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.0.0 8d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, homepage"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "devops",
+        "docker",
+        "homelab",
+        "infrastructure",
+        "mcp",
+        "monitoring",
+        "observability",
+        "proxmox",
+        "remote-access",
+        "selfhosted",
+        "truenas"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-03-22T07:48:07Z",
+      "pushed_at": "2026-11-17T02:13:48Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 100,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "neur0map/glazepkg",
+      "url": "https://github.com/neur0map/glazepkg",
+      "score": 21.6,
+      "stars": 655,
+      "language": "Go",
+      "description": "See all your installed packages in one place. (Official package manage for RyokuArch)",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, devtools, terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.6,
+          "text": "answered 17 of 20 recent issues"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 2,
+          "text": "merged 2 outside PRs in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.7.0 3d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.8,
+          "text": "~78 stars a month (new, 8 months ago, top 85% in devtools)"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "apt",
+        "bubbletea",
+        "cargo",
+        "cli",
+        "cross-platform",
+        "dashboard",
+        "devtools",
+        "golang",
+        "homebrew",
+        "linux",
+        "macos",
+        "nix",
+        "npm",
+        "package-manager",
+        "pacman",
+        "pip",
+        "system-monitor",
+        "terminal",
+        "tui",
+        "windows"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-03-12T16:12:19Z",
+      "pushed_at": "2026-11-17T02:24:17Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 2,
+        "issue_response": {
+          "answered": 17,
+          "total": 20
+        }
+      }
+    },
+    {
+      "full_name": "mikehasa/agentacct",
+      "url": "https://github.com/mikehasa/agentacct",
+      "score": 18.1,
+      "stars": 757,
+      "language": "Python",
+      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (ai-agents, claude-code, cli, devtools)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.6,
+          "text": "~191 stars a month (new, 4 months ago, top 49% in devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 48d ago"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 1,
+          "text": "merged 1 outside PR in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.12.11 48d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agent",
+        "cost-tracking",
+        "dashboard",
+        "developer-tools",
+        "devtools",
+        "llm",
+        "llmops",
+        "local-first",
+        "mcp",
+        "observability",
+        "opencode",
+        "python",
+        "token-usage"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-07-24T16:28:06Z",
+      "pushed_at": "2026-10-03T12:59:48Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 1,
+        "issue_response": {
+          "answered": 0,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "octofhir/server-rs",
+      "url": "https://github.com/octofhir/server-rs",
+      "score": 17,
+      "stars": 7,
+      "language": "Rust",
+      "description": "Fast FHIR server in Rust (R4–R6) with a keyboard-first web console for REST, SQL, GraphQL, FHIRPath and CQL.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (fhir, hl7)"
+        },
+        {
+          "rule": "affinity",
+          "points": 3.7,
+          "text": "like your stars: hl7, fhir, healthcare"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.0.8 4d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "stars",
+          "points": 0.3,
+          "text": "7 stars, top 92% in hl7"
+        }
+      ],
+      "topics": [
+        "cql",
+        "fhir",
+        "fhir-server",
+        "fhirpath",
+        "graphql",
+        "healthcare",
+        "hl7",
+        "interoperability",
+        "postgresql",
+        "rust",
+        "smart-on-fhir",
+        "sql-on-fhir"
+      ],
+      "via_topics": [],
+      "created_at": "2025-08-22T16:21:49Z",
+      "pushed_at": "2026-11-20T20:21:15Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "Matysh/houseplan-card",
+      "url": "https://github.com/Matysh/houseplan-card",
+      "score": 16.9,
+      "stars": 94,
+      "language": "JavaScript",
+      "description": "Interactive floorplan card for Home Assistant: draw rooms in the browser, watch live device states, lights, doors and robot vacuums, run it on a wall tablet. No YAML.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.7,
+          "text": "~20 stars a month (new, 5 months ago, top 46% in zigbee)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: home-automation"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.86.0-beta.2 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "custom-card",
+        "custom-integration",
+        "dashboard",
+        "floor-plan",
+        "floorplan",
+        "hacs",
+        "home-assistant",
+        "home-assistant-frontend",
+        "home-automation",
+        "home-automation-app",
+        "homeassistant",
+        "kiosk",
+        "kiosk-mode",
+        "lovelace",
+        "lovelace-card",
+        "robot-vacuum",
+        "smart-home",
+        "wall-tablet",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-07-05T17:46:27Z",
+      "pushed_at": "2026-11-20T20:12:39Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "nicobailon/surf-cli",
+      "url": "https://github.com/nicobailon/surf-cli",
+      "score": 16.8,
+      "stars": 704,
+      "language": "TypeScript",
+      "description": "The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, cli, devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 1,
+          "text": "merged 1 outside PR in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.26.0 14d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.6,
+          "text": "~65 stars a month (new, 11 months ago, top 89% in ai-agents)"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "browser-automation",
+        "chrome",
+        "cli",
+        "devtools"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2025-12-28T09:05:24Z",
+      "pushed_at": "2026-11-20T13:43:57Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 1,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "c0rnelone/sensor-presencia",
+      "url": "https://github.com/c0rnelone/sensor-presencia",
+      "score": 15,
+      "stars": 20,
+      "language": null,
+      "description": "mmWave presence sensor for Home Assistant: HLK-LD2410C + nanoESP32-C6, ESPHome over Zigbee or WiFi, no soldering",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4,
+          "text": "~86 stars a month (new, 6d ago, top 21% in zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 5d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "esp32-c6",
+        "esphome",
+        "home-assistant",
+        "ld2410",
+        "ld2410c",
+        "mmwave",
+        "presence-sensor",
+        "zigbee",
+        "zigbee2mqtt"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-11-14T11:08:33Z",
+      "pushed_at": "2026-11-15T13:23:27Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "NyxToolsDev/dicom-hl7-mcp-server",
+      "url": "https://github.com/NyxToolsDev/dicom-hl7-mcp-server",
+      "score": 14.9,
+      "stars": 5,
+      "language": "Python",
+      "description": "DICOM/HL7 healthcare interoperability MCP server for Claude",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (dicom, fhir, hl7, mcp)"
+        },
+        {
+          "rule": "affinity",
+          "points": 3.7,
+          "text": "like your stars: hl7, fhir, healthcare"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.5,
+          "text": "5 stars since 8 months ago (new, 8 months ago, top 90% in hl7)"
+        }
+      ],
+      "topics": [
+        "claude",
+        "dicom",
+        "fhir",
+        "healthcare",
+        "hl7",
+        "mcp",
+        "model-context-protocol",
+        "pacs"
+      ],
+      "via_topics": [
+        "hl7"
+      ],
+      "created_at": "2026-03-24T20:28:23Z",
+      "pushed_at": "2026-07-29T18:38:12Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "trinomic1004/columna-ohif",
+      "url": "https://github.com/trinomic1004/columna-ohif",
+      "score": 14.7,
+      "stars": 0,
+      "language": null,
+      "description": "OHIF Viewer configured for a private DICOM archive on Vercel",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of OHIF/Viewers: 36 commits ahead, 206 behind"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 4d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2026-11-15T21:09:33Z",
+      "pushed_at": "2026-11-15T21:47:16Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "score": 13.8,
+      "stars": 29275,
+      "language": "JavaScript",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, cli)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.3,
+          "text": "~2727 stars a month (new, 11 months ago, top 35% in cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "plugin",
+        "statusline",
+        "typescript"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-01-02T01:35:07Z",
+      "pushed_at": "2026-11-20T11:25:15Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "ccebelenski/anas",
+      "url": "https://github.com/ccebelenski/anas",
+      "score": 13.8,
+      "stars": 221,
+      "language": "TypeScript",
+      "description": "The storage layer Proxmox VE doesn't have, inside the Proxmox web UI. ZFS and mixed-size Hybrid RAID pools, SMB/NFS shares, an iSCSI target, snapshots and schedules, replication, backup and restore to PBS — as native panels on the PVE node. No appliance, no second login. AGPL-3.0.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (proxmox, self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.6,
+          "text": "~53 stars a month (new, 4 months ago, top 49% in proxmox)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "btrfs",
+        "homelab",
+        "hybrid-raid",
+        "mdadm",
+        "nas",
+        "nfs",
+        "proxmox",
+        "proxmox-ve",
+        "pve",
+        "raid",
+        "replication",
+        "samba",
+        "self-hosted",
+        "shr",
+        "smb",
+        "snapshots",
+        "storage",
+        "storage-management",
+        "zfs"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-07-18T19:25:06Z",
+      "pushed_at": "2026-11-17T23:23:21Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "firsttris/esp32c6-thread-router",
+      "url": "https://github.com/firsttris/esp32c6-thread-router",
+      "score": 13.8,
+      "stars": 34,
+      "language": null,
+      "description": "ESPHome config that turns an ESP32-C6 (Seeed XIAO) into a cheap Thread 1.3 router (FTD) to extend your Thread and Matter mesh in Home Assistant, with diagnostics. No WiFi needed.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, matter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.6,
+          "text": "~3 stars a month (new, 10 months ago, top 49% in matter)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: home-automation"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "esp32",
+        "esp32-c6",
+        "esp32c6",
+        "esphome",
+        "home-assistant",
+        "home-automation",
+        "homeassistant",
+        "iot",
+        "matter",
+        "mesh-network",
+        "openthread",
+        "otbr",
+        "range-extender",
+        "repeater",
+        "seeed-xiao",
+        "smart-home",
+        "thread",
+        "thread-network",
+        "thread-router",
+        "xiao-esp32c6"
+      ],
+      "via_topics": [
+        "matter"
+      ],
+      "created_at": "2026-01-18T09:47:34Z",
+      "pushed_at": "2026-11-18T21:41:27Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "RAR/ha-aqara-fp400",
+      "url": "https://github.com/RAR/ha-aqara-fp400",
+      "score": 13.8,
+      "stars": 22,
+      "language": "Python",
+      "description": "Zones, live people positions and setup for the Aqara FP400 presence sensor on Matter/Thread — Home Assistant integration + zone card",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, matter)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.8,
+          "text": "~11 stars a month (new, 2 months ago, top 25% in matter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "aqara",
+        "fp400",
+        "hacs",
+        "home-assistant",
+        "home-assistant-integration",
+        "matter",
+        "mmwave",
+        "presence-sensor",
+        "thread"
+      ],
+      "via_topics": [
+        "matter"
+      ],
+      "created_at": "2026-09-19T17:22:01Z",
+      "pushed_at": "2026-11-19T17:52:22Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "XiaomiMiMo/MiMo-Code",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "score": 13.7,
+      "stars": 13796,
+      "language": "TypeScript",
+      "description": "MiMo Code: Where Models and Agents Co-Evolve",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, cli)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.2,
+          "text": "~2539 stars a month (new, 5 months ago, top 37% in cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "mimo",
+        "mimo-code"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-06-10T11:52:41Z",
+      "pushed_at": "2026-11-20T12:09:04Z",
       "lang": "en",
       "health": null
     }
