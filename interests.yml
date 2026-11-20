@@ -1,7 +1,10 @@
-# The public gitforage demo portal. Five communities, chosen to show the range:
-# healthcare interoperability, self-hosting, home automation, developer tools and
-# AI coding agents. There is no stars_from, so the demo stays neutral: its profile
-# is learned from the seeds below, not from anyone's stars.
+# The public gitforage demo portal. Its default view covers five communities, chosen
+# to show the range: healthcare interoperability, self-hosting, home automation,
+# developer tools and AI coding agents. There is no stars_from, so the demo stays
+# neutral: its profile is learned from the seeds below, not from anyone's stars.
+#
+# Visitors can also pick their own topics from a bigger catalog (site.personalize
+# below). That re-ranking happens in their browser; the default view stays these five.
 
 profile: |
   A portal for people who like to run, build and connect things themselves.
@@ -13,6 +16,10 @@ profile: |
 
   It prefers projects that are active, licensed and documented, and in the Get
   involved tab, maintainers who merge outside pull requests and answer issues.
+
+  Pick your topics to see the wider catalog: web frameworks, databases,
+  security, data and machine learning, mobile, games, and the Rust, Go and
+  TypeScript ecosystems.
 
 topics:
   # Healthcare interoperability
@@ -56,8 +63,11 @@ seeds:
   - anthropics/claude-code
 
 exclude:
-  topics: [awesome-list, awesome, list]
+  # Lists of links, not tools. IPTV, M3U and XMLTV are left out of the demo on purpose.
+  topics: [awesome-list, awesome, list, iptv, iptv-player, iptv-m3u, m3u, m3u8, m3u-playlist, xmltv, epg]
   keywords: ["awesome-"]
+  patterns:
+    - regex: '\b(iptv|m3u8?|xmltv)\b'
 
 filters:
   min_stars: 5
@@ -75,4 +85,48 @@ site:
   title: gitforage demo
   url: https://gitforage.dev/
   # Cookieless visit counts. Create the GoatCounter site first, then uncomment.
+  # With personalize on, pack and topic picks are counted as GoatCounter events too.
   # analytics: { provider: goatcounter, code: gitforage-demo }
+  personalize:
+    enabled: true
+    catalog:
+      # The best 25 candidates per topic are kept (fewer if catalog.json would get too big).
+      per_topic: 25
+      groups:
+        - name: Healthcare interoperability
+          topics: [hl7, fhir, mirth, dicom, ehr, openehr, medical-imaging, pacs, healthcare, interoperability]
+        - name: Self-hosting and homelab
+          topics: [proxmox, self-hosted, selfhosted, homelab, docker, docker-compose, kubernetes, wireguard, backup, monitoring]
+        - name: Home automation
+          topics: [home-assistant, zigbee, matter, home-automation, esphome, mqtt, smart-home, iot]
+        - name: Developer tools and the terminal
+          topics: [cli, terminal, devtools, tui, neovim, git, shell, developer-tools, vscode-extension]
+        - name: AI agents and MCP
+          topics: [claude-code, mcp, ai-agents, mcp-server, model-context-protocol, llm, rag, ollama, agentic-ai]
+        - name: Web frameworks
+          topics: [react, nextjs, vue, svelte, astro, htmx, tailwindcss, django, fastapi]
+        - name: Databases
+          topics: [postgresql, sqlite, database, redis, duckdb, vector-database, orm]
+        - name: Security
+          topics: [security, cybersecurity, privacy, encryption, authentication, devsecops, vulnerability-scanner]
+        - name: Data and machine learning
+          topics: [machine-learning, deep-learning, data-science, pytorch, computer-vision, data-engineering, nlp]
+        - name: Mobile
+          topics: [android, ios, flutter, react-native, kotlin, swiftui, jetpack-compose]
+        - name: Games and game dev
+          topics: [gamedev, game-engine, godot, bevy, emulator, pixel-art]
+        - name: Rust, Go and TypeScript
+          topics: [rust, golang, typescript, webassembly, deno, bun, nodejs]
+    packs:
+      - { id: healthcare-dev, name: Healthcare dev, topics: [hl7, fhir, dicom, mirth, ehr, interoperability] }
+      - { id: homelab, name: Homelab, topics: [proxmox, self-hosted, homelab, docker, wireguard, backup] }
+      - { id: smart-home, name: Smart home, topics: [home-assistant, zigbee, matter, esphome, mqtt] }
+      - { id: ai-builder, name: AI builder, topics: [claude-code, mcp, ai-agents, llm, rag, ollama] }
+      - { id: terminal, name: Terminal life, topics: [cli, terminal, tui, neovim, shell, git] }
+      - { id: web-dev, name: Web dev, topics: [react, nextjs, svelte, tailwindcss, htmx, typescript] }
+      - { id: backend, name: Backend, topics: [postgresql, redis, sqlite, fastapi, django, docker] }
+      - { id: data-ml, name: Data and ML, topics: [machine-learning, data-science, pytorch, duckdb, data-engineering] }
+      - { id: security, name: Security, topics: [security, cybersecurity, privacy, encryption, authentication] }
+      - { id: mobile, name: Mobile apps, topics: [android, ios, flutter, kotlin, jetpack-compose] }
+      - { id: gamedev, name: Game dev, topics: [gamedev, godot, bevy, game-engine, pixel-art] }
+      - { id: rust-go, name: Rust and Go, topics: [rust, golang, webassembly, cli] }
