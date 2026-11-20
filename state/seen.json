@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "seen": {
+    "agentscope-ai/qwenpaw": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 25
+    },
+    "awbx/fhir-dsl": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 26.8
+    },
+    "baarai/artex": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 25.5
+    },
+    "blizzhacker/romarr": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 27.8
+    },
+    "bnlqn/overlook": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 25.3
+    },
+    "can1357/oh-my-pi": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 25.7
+    },
+    "carlos-emr/carlos": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 20.8
+    },
+    "casperdcl/cli": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 17.6
+    },
+    "cheaper-inference/omniroute": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 17.6
+    },
+    "cobusgreyling/loop-engineering": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 25.3
+    },
+    "codewhale-hq/codewhale": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 27.4
+    },
+    "duartesantos8/opengym": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 25.4
+    },
+    "elie222/rakazo": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 24.6
+    },
+    "f0rw4rd/oida": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 26.8
+    },
+    "frameleaf/frameleaf-app": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 20.4
+    },
+    "harnessmd/munder-difflin": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 24.8
+    },
+    "herdrdev/herdr": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 24.6
+    },
+    "heygen-com/hyperframes": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 27.3
+    },
+    "hkuds/nanobot": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 25.3
+    },
+    "manaflow-ai/cmux": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 17.6
+    },
+    "mefororg/messagefoundry": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 20.8
+    },
+    "milind-soni/openmausbot": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 25.6
+    },
+    "mwaseem75/hl7gen": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 24.9
+    },
+    "nanocoai/nanoclaw": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 24.8
+    },
+    "oomol-lab/open-connector": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 26.3
+    },
+    "open-noodle/gallery": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 27.5
+    },
+    "openbyteinc/quantdinger": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 29.6
+    },
+    "opendevicedb/opendevicedb": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 26.2
+    },
+    "panniantong/agent-reach": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 17.5
+    },
+    "paperclipai/paperclip": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 26
+    },
+    "rocketride-org/rocketride-server": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 20.9
+    },
+    "samply/blazectl": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 24.9
+    },
+    "stablyai/orca": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 27.4
+    },
+    "t8y2/dbx": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 25.9
+    },
+    "thetahealth/mirobody": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 25.5
+    },
+    "tryatlas/atlas": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 20.8
+    },
+    "ulsklyc/yuvomi": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 24.6
+    },
+    "unfr0zen/unfr0zen": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 25.3
+    },
+    "xerj-org/xerj": {
+      "first_seen": "2026-11-20T13:32:28.157Z",
+      "score": 17.5
+    },
+    "zatosource/zato": {
+      "first_seen": "2026-11-20T13:31:38.346Z",
+      "score": 20.7
+    }
+  }
+}

@@ -1,0 +1,1698 @@
+{
+  "version": 1,
+  "date": "2026-11-20",
+  "mode": "contribute",
+  "generated_at": "2026-11-20T13:32:28.159Z",
+  "items": [
+    {
+      "full_name": "OpenByteInc/QuantDinger",
+      "url": "https://github.com/OpenByteInc/QuantDinger",
+      "score": 29.6,
+      "stars": 13886,
+      "language": "Python",
+      "description": "The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, MCP, and multi-tenant SaaS in one auditable stack.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, mcp, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 26 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.5,
+          "text": "~1278 stars a month (new, 11 months ago, top 31% in self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.4,
+          "text": "answered 4 of 5 recent issues"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "9 help wanted"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v5.9.3 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "backtesting",
+        "crypto",
+        "finance",
+        "fintech",
+        "investment",
+        "llm",
+        "market-data",
+        "mcp",
+        "mcp-server",
+        "multi-agent",
+        "portfolio-management",
+        "python",
+        "quant",
+        "quantitative-finance",
+        "risk-management",
+        "self-hosted",
+        "stock-market",
+        "technical-analysis"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2025-12-28T18:39:26Z",
+      "pushed_at": "2026-11-19T22:10:03Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 26,
+        "issue_response": {
+          "answered": 4,
+          "total": 5
+        }
+      }
+    },
+    {
+      "full_name": "BlizzHacker/romarr",
+      "url": "https://github.com/BlizzHacker/romarr",
+      "score": 27.8,
+      "stars": 406,
+      "language": "Python",
+      "description": "Find, verify and organize your game library. Native Windows and Docker, DAT checks, ROM Hub plugins, and optional RomM/Cartridge integration.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (docker, proxmox, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 25 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.6,
+          "text": "~106 stars a month (new, 4 months ago, top 29% in proxmox)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 4 of 4 recent issues"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.11.5 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "arr",
+        "docker",
+        "emulation",
+        "prowlarr",
+        "proxmox",
+        "python",
+        "qbittorrent",
+        "retro-gaming",
+        "romm",
+        "roms",
+        "self-hosted"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-07-28T10:45:19Z",
+      "pushed_at": "2026-11-20T00:02:42Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 25,
+        "issue_response": {
+          "answered": 4,
+          "total": 4
+        }
+      }
+    },
+    {
+      "full_name": "open-noodle/gallery",
+      "url": "https://github.com/open-noodle/gallery",
+      "score": 27.5,
+      "stars": 760,
+      "language": "TypeScript",
+      "description": "High performance self-hosted photo and video management solution.",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of immich-app/immich: 1976 commits ahead, 258 behind"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 28 outside PRs in 90 days"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.3,
+          "text": "~87 stars a month (new, 9 months ago, top 75% in self-hosted)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.3,
+          "text": "answered 3 of 7 recent issues"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v5.11.1 today"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [
+        "backup-tool",
+        "google-photos",
+        "google-photos-alternative",
+        "immich",
+        "immich-fork",
+        "mobile-app",
+        "mobile-backup",
+        "photo-gallery",
+        "photos",
+        "photos-management",
+        "photos-manager",
+        "photos-media",
+        "self-hosted",
+        "self-hosting",
+        "videos",
+        "videoserver",
+        "videosharing"
+      ],
+      "via_topics": [],
+      "created_at": "2026-03-02T20:46:35Z",
+      "pushed_at": "2026-11-20T13:05:53Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 28,
+        "issue_response": {
+          "answered": 3,
+          "total": 7
+        }
+      }
+    },
+    {
+      "full_name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "score": 27.4,
+      "stars": 130552,
+      "language": "TypeScript",
+      "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, claude-code, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 51 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.9,
+          "text": "~15793 stars a month (new, 8 months ago, top 2% in terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "5 good first issues, 8 help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.4.266 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-ide",
+        "ai-agents",
+        "automation",
+        "bot",
+        "claude-code",
+        "codex",
+        "ghostty",
+        "grok-bot",
+        "hermes-agent",
+        "mobile-app",
+        "muse",
+        "openclaw",
+        "opencode",
+        "orchestration",
+        "pi",
+        "runtime",
+        "swarm",
+        "terminal",
+        "worktrees",
+        "yc-backed"
+      ],
+      "via_topics": [
+        "terminal",
+        "claude-code",
+        "ai-agents"
+      ],
+      "created_at": "2026-03-17T03:28:57Z",
+      "pushed_at": "2026-11-20T13:29:03Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 51,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "codewhale-hq/Codewhale",
+      "url": "https://github.com/codewhale-hq/Codewhale",
+      "score": 27.4,
+      "stars": 41187,
+      "language": "Rust",
+      "description": "An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, mcp, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 76 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.4,
+          "text": "~4065 stars a month (new, 10 months ago, top 13% in terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "2 good first issues, 10+ help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.10.2 26d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent-client-protocol",
+        "agent-orchestration",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "developer-tools",
+        "llm",
+        "local-llm",
+        "mcp",
+        "multi-agent",
+        "ollama",
+        "open-source",
+        "openai-compatible",
+        "rust",
+        "terminal",
+        "tui"
+      ],
+      "via_topics": [
+        "cli",
+        "terminal",
+        "mcp"
+      ],
+      "created_at": "2026-01-19T18:21:01Z",
+      "pushed_at": "2026-11-20T13:24:06Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 76,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "score": 27.3,
+      "stars": 87277,
+      "language": "TypeScript",
+      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, claude-code, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 17 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.8,
+          "text": "~10268 stars a month (new, 9 months ago, top 5% in mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "9 good first issues, 10+ help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.9.72 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "animation",
+        "claude-code",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "html-to-video",
+        "mcp",
+        "motion-graphics",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video-editor"
+      ],
+      "via_topics": [
+        "claude-code",
+        "mcp",
+        "ai-agents"
+      ],
+      "created_at": "2026-03-10T01:51:06Z",
+      "pushed_at": "2026-11-20T12:38:59Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 17,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "oomol-lab/open-connector",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "score": 26.3,
+      "stars": 6275,
+      "language": "TypeScript",
+      "description": "Open-source auth gateway connecting 1700+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, cli, mcp, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 77 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.5,
+          "text": "~1307 stars a month (new, 5 months ago, top 30% in self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.8,
+          "text": "like your stars: self-hosted, cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.10.1 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "api-gateway",
+        "automation",
+        "cli",
+        "cloudflare-workers",
+        "connectors",
+        "integration-platform",
+        "mcp",
+        "model-context-protocol",
+        "oauth",
+        "oomol",
+        "openapi",
+        "openconnector",
+        "saas-integrations",
+        "sdk",
+        "self-hosted",
+        "typescript"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-06-29T10:49:36Z",
+      "pushed_at": "2026-11-20T06:53:32Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 77,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "opendevicedb/opendevicedb",
+      "url": "https://github.com/opendevicedb/opendevicedb",
+      "score": 26.2,
+      "stars": 48,
+      "language": "TypeScript",
+      "description": "Open directory of 30,000+ devices whose protocols or firmware are already open (OpenWrt, LineageOS, coreboot, QMK, Zigbee, printers, mice, tablets, drones…), so nobody — human or AI agent — redoes the work. Website, JSON API, MCP server.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, mcp, zigbee)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 31 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.7,
+          "text": "~42 stars a month (new, 34d ago, top 27% in zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 4d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.3,
+          "text": "answered 3 of 7 recent issues"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: home-automation"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released mcp-v0.3.0 26d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "coreboot",
+        "device-database",
+        "e-waste",
+        "firmware",
+        "hardware-hacking",
+        "home-automation",
+        "interoperability",
+        "iot",
+        "lineageos",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "open-firmware",
+        "open-hardware",
+        "openwrt",
+        "reverse-engineering",
+        "right-to-repair",
+        "smart-home",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-10-17T04:31:19Z",
+      "pushed_at": "2026-11-16T04:00:06Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 31,
+        "issue_response": {
+          "answered": 3,
+          "total": 7
+        }
+      }
+    },
+    {
+      "full_name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "score": 26,
+      "stars": 115364,
+      "language": "TypeScript",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, claude-code, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5,
+          "text": "~13210 stars a month (new, 9 months ago, top 1% in mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 83 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2026.1117.0 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "acpx",
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-governance",
+        "ai-tools",
+        "autonomous-agents",
+        "claude",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hermes",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openclaw",
+        "project-management",
+        "workflow-automation"
+      ],
+      "via_topics": [
+        "claude-code",
+        "mcp",
+        "ai-agents"
+      ],
+      "created_at": "2026-03-02T15:01:51Z",
+      "pushed_at": "2026-11-20T13:17:41Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 83,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "score": 25.9,
+      "stars": 31040,
+      "language": "Rust",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, docker, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 92 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.4,
+          "text": "~4542 stars a month (new, 7 months ago, top 12% in docker)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.6.72 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai",
+        "cli",
+        "clickhouse",
+        "database",
+        "database-client",
+        "database-management",
+        "docker",
+        "gui",
+        "mcp",
+        "mongodb",
+        "mysql",
+        "postgresql",
+        "redis",
+        "rust",
+        "sql-server",
+        "sqlite",
+        "tauri",
+        "vue"
+      ],
+      "via_topics": [
+        "docker",
+        "cli",
+        "mcp"
+      ],
+      "created_at": "2026-04-29T03:00:36Z",
+      "pushed_at": "2026-11-20T11:02:30Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 92,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "score": 25.7,
+      "stars": 39523,
+      "language": "TypeScript",
+      "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, mcp, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 82 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.2,
+          "text": "~3671 stars a month (new, 11 months ago, top 16% in terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v19.0.1 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "ai-coding-agent",
+        "anthropic",
+        "bun",
+        "claude",
+        "cli",
+        "coding-assistant",
+        "llm",
+        "mcp",
+        "multi-provider",
+        "openai",
+        "rust",
+        "terminal",
+        "tui",
+        "typescript"
+      ],
+      "via_topics": [
+        "cli",
+        "terminal",
+        "mcp"
+      ],
+      "created_at": "2025-12-31T14:01:28Z",
+      "pushed_at": "2026-11-20T12:59:35Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 82,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "BaaRai/ARTEX",
+      "url": "https://github.com/BaaRai/ARTEX",
+      "score": 25.5,
+      "stars": 12969,
+      "language": "Go",
+      "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, docker, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 58 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.8,
+          "text": "~9264 stars a month (new, 42d ago, top 4% in docker)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.6.0 8d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "autonomous-agents",
+        "bug-bounty",
+        "docker",
+        "golang",
+        "linux",
+        "llm",
+        "mcp",
+        "nextjs",
+        "penetration-testing",
+        "pentest",
+        "postgresql",
+        "rea",
+        "react",
+        "red-team",
+        "security",
+        "security-automation",
+        "sqlite",
+        "typescript"
+      ],
+      "via_topics": [
+        "docker"
+      ],
+      "created_at": "2026-10-08T21:14:39Z",
+      "pushed_at": "2026-11-20T07:28:06Z",
+      "lang": "und",
+      "health": {
+        "outside_prs_90d": 58,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "cobusgreyling/loop-engineering",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "score": 25.3,
+      "stars": 11810,
+      "language": "TypeScript",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, claude-code, devtools, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 22 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.8,
+          "text": "~2160 stars a month (new, 5 months ago, top 6% in devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "release",
+          "points": 0.5,
+          "text": "released v1.6.0 4 months ago"
+        }
+      ],
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-coding",
+        "anthropic",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "devops-automation",
+        "devtools",
+        "github-actions",
+        "grok",
+        "llm",
+        "loop-engineering",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-06-09T06:28:20Z",
+      "pushed_at": "2026-11-20T09:07:50Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 22,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "HarnessMD/munder-difflin",
+      "url": "https://github.com/HarnessMD/munder-difflin",
+      "score": 24.8,
+      "stars": 9654,
+      "language": "TypeScript",
+      "description": "Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, claude-code, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.8,
+          "text": "~1684 stars a month (new, 6 months ago, top 25% in self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.3,
+          "text": "answered 3 of 4 recent issues"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "6 good first issues, 1 help wanted"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.5.5 49d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-team",
+        "agentic-ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-tools",
+        "autonomous-agents",
+        "claude-code",
+        "claude-cowork",
+        "codex",
+        "desktop-app",
+        "gemini-cli",
+        "grok",
+        "grok-bot-alternative",
+        "local-first",
+        "multi-agent",
+        "opencode",
+        "self-hosted"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-05-31T15:25:05Z",
+      "pushed_at": "2026-11-20T04:20:35Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 3,
+          "total": 4
+        }
+      }
+    },
+    {
+      "full_name": "Frameleaf/frameleaf-app",
+      "url": "https://github.com/Frameleaf/frameleaf-app",
+      "score": 20.4,
+      "stars": 31,
+      "language": "TypeScript",
+      "description": "High performance self-hosted photo and video management solution, inspired by Immich",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of immich-app/immich: 7819 commits ahead, 634 behind"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released manager-v1.2.26 today"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.5,
+          "text": "~5 stars a month (new, 7 months ago, top 91% in self-hosted)"
+        }
+      ],
+      "topics": [
+        "machine-learning",
+        "photo",
+        "photo-editing",
+        "photo-editor",
+        "photo-gallery",
+        "photo-management",
+        "photography",
+        "photos",
+        "self-hosted",
+        "selfhosted",
+        "video",
+        "video-editing",
+        "video-editor",
+        "video-player",
+        "video-processing",
+        "videos"
+      ],
+      "via_topics": [],
+      "created_at": "2026-05-05T21:29:48Z",
+      "pushed_at": "2026-11-20T13:28:10Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "cheaper-inference/OmniRoute",
+      "url": "https://github.com/cheaper-inference/OmniRoute",
+      "score": 17.6,
+      "stars": 89088,
+      "language": "TypeScript",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, claude-code, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.6,
+          "text": "~9545 stars a month (new, 9 months ago, top 8% in mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "kimi",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "via_topics": [
+        "claude-code",
+        "mcp",
+        "ai-agents"
+      ],
+      "created_at": "2026-02-13T12:38:31Z",
+      "pushed_at": "2026-11-20T13:27:01Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "score": 17.6,
+      "stars": 28840,
+      "language": "Swift",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (claude-code, cli, terminal)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.1,
+          "text": "~2923 stars a month (new, 10 months ago, top 19% in terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "amp",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "gemini",
+        "ghostty",
+        "macos",
+        "multiplexer",
+        "multitasking",
+        "opencode",
+        "organization",
+        "parallel-agents",
+        "programmability",
+        "terminal",
+        "terminal-multiplexer",
+        "tmux",
+        "workspace-manager"
+      ],
+      "via_topics": [
+        "cli",
+        "terminal"
+      ],
+      "created_at": "2026-01-28T10:03:24Z",
+      "pushed_at": "2026-11-20T13:28:49Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "casperdcl/cli",
+      "url": "https://github.com/casperdcl/cli",
+      "score": 17.6,
+      "stars": 12,
+      "language": "Go",
+      "description": "GitHub’s official command line tool",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 8.5,
+          "text": "live fork of cli/cli: 18 commits ahead, 2 behind"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.1,
+          "text": "like your stars: git, cli"
+        },
+        {
+          "rule": "stars",
+          "points": 1,
+          "text": "12 stars, top 75% in cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "cli",
+        "git",
+        "github-api-v4",
+        "golang"
+      ],
+      "via_topics": [],
+      "created_at": "2020-02-13T17:20:41Z",
+      "pushed_at": "2026-11-20T08:33:06Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "score": 17.5,
+      "stars": 113473,
+      "language": "Python",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (claude-code, cli, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5,
+          "text": "~12655 stars a month (new, 9 months ago, top 1% in cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 12d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent-infrastructure",
+        "ai-agent",
+        "ai-search",
+        "automation",
+        "bilibili",
+        "claude-code",
+        "cli",
+        "cursor",
+        "free-api",
+        "llm-tools",
+        "mcp",
+        "python",
+        "reddit-scraper",
+        "twitter-scraper",
+        "web-scraper",
+        "xiaohongshu",
+        "youtube-transcript"
+      ],
+      "via_topics": [
+        "cli",
+        "claude-code",
+        "mcp"
+      ],
+      "created_at": "2026-02-24T02:10:24Z",
+      "pushed_at": "2026-11-08T02:17:48Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "score": 17.5,
+      "stars": 19022,
+      "language": "Rust",
+      "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, claude-code, cli, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4,
+          "text": "~3991 stars a month (new, 5 months ago, top 20% in cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bm25",
+        "claude-code",
+        "cli",
+        "code-search",
+        "cursor",
+        "database",
+        "elasticsearch",
+        "full-text-search",
+        "hybrid-search",
+        "jsonl",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "rag",
+        "rust",
+        "search-engine",
+        "vector-search"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-06-30T04:32:45Z",
+      "pushed_at": "2026-11-20T12:30:51Z",
+      "lang": "en",
+      "health": null
+    }
+  ]
+}
