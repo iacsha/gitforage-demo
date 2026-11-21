@@ -22,7 +22,7 @@ concurrency:
 
 env:
   GITFORAGE_REPO: iacsha/gitforage
-  GITFORAGE_SHA: "8d2cc66988bc094e25ae699cede70826c26b679a"
+  GITFORAGE_SHA: "08b4b688bf2abd3dd5e3141809fbbfc1633d9e58"
 
 jobs:
   feedback:

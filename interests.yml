@@ -80,13 +80,20 @@ filters:
 mode: discover
 digest_size: 20
 
+# Revival radar: projects in these topics whose upstream has gone quiet or been
+# archived, carried on by a live fork. Shown on revival.html (the Revivals tab).
+revival:
+  enabled: true
+  dormancy_months: 12
+  max_candidates: 10
+
 site:
   repo: iacsha/gitforage-demo
   title: gitforage demo
   url: https://gitforage.dev/
-  # Cookieless visit counts. Create the GoatCounter site first, then uncomment.
+  # Cookieless visit counts (gitforage.goatcounter.com).
   # With personalize on, pack and topic picks are counted as GoatCounter events too.
-  # analytics: { provider: goatcounter, code: gitforage-demo }
+  analytics: { provider: goatcounter, code: gitforage }
   personalize:
     enabled: true
     catalog:
