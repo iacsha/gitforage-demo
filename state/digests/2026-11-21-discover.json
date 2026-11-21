@@ -1,0 +1,1285 @@
+{
+  "version": 1,
+  "date": "2026-11-21",
+  "mode": "discover",
+  "generated_at": "2026-11-21T01:52:42.282Z",
+  "items": [
+    {
+      "full_name": "mdiri-ai/SoduWork",
+      "url": "https://github.com/mdiri-ai/SoduWork",
+      "score": 25.6,
+      "stars": 5996,
+      "language": "JavaScript",
+      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, claude-code, mcp, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 7.4,
+          "text": "~8176 stars a month (new, 22d ago, top 1% in self-hosted)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v1.13.19 1d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.7,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-workflows",
+        "ai-agents",
+        "ai-workflows",
+        "anti-slop",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "electron",
+        "fastapi",
+        "harness",
+        "human-in-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "opencode",
+        "plugin-system",
+        "self-hosted",
+        "team-collaboration"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-10-29T02:43:14Z",
+      "pushed_at": "2026-11-21T01:07:49Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "l0ng-ai/openidea",
+      "url": "https://github.com/l0ng-ai/openidea",
+      "score": 18.4,
+      "stars": 9715,
+      "language": "TypeScript",
+      "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.2,
+          "text": "~9715 stars a month (new, 30d ago, top 5% in terminal)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic terminal"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.1.49 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.7,
+          "text": "like your stars: git"
+        }
+      ],
+      "topics": [
+        "code-editor",
+        "cross-platform",
+        "dap",
+        "database-client",
+        "debugger",
+        "desktop-app",
+        "developer-tools",
+        "git",
+        "http-client",
+        "ide",
+        "intellij",
+        "lsp",
+        "rust",
+        "tauri",
+        "terminal"
+      ],
+      "via_topics": [
+        "terminal"
+      ],
+      "created_at": "2026-10-21T12:23:14Z",
+      "pushed_at": "2026-11-21T01:40:21Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "score": 18.3,
+      "stars": 46373,
+      "language": "Python",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.1,
+          "text": "~6721 stars a month (new, 7 months ago, top 5% in cli)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v4.4.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.7,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agent-evaluation",
+        "ai",
+        "ai-alignment",
+        "ai-evaluation",
+        "ai-governance",
+        "ai-safety",
+        "cli",
+        "diagnostic-tool",
+        "eu-ai-act",
+        "hallucination-detection",
+        "iso-42001",
+        "llm-evaluation",
+        "llm-security",
+        "nist-ai-rmf",
+        "owasp-llm",
+        "prompt-injection",
+        "python",
+        "responsible-ai",
+        "risk-assessment",
+        "risk-management"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-04-27T13:02:34Z",
+      "pushed_at": "2026-11-20T18:23:56Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Greminn/ha-spatial-context",
+      "url": "https://github.com/Greminn/ha-spatial-context",
+      "score": 18.2,
+      "stars": 128,
+      "language": "JavaScript",
+      "description": "Trace your floor plans, place your real devices on them, and see your Zigbee, Wi-Fi, Matter, Thread and Bluetooth links where they physically are. A floor-plan map of your home for Home Assistant, built to give AI assistants real-world context.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5.7,
+          "text": "~62 stars a month (new, 2 months ago, top 24% in zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 15d ago"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v1.0.1-beta.4 15d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "connectivity-map",
+        "floor-plan",
+        "hacs",
+        "home-assistant",
+        "home-assistant-custom-component",
+        "home-assistant-integration",
+        "homeassistant",
+        "newzealand",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-09-19T03:29:37Z",
+      "pushed_at": "2026-11-05T21:06:34Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Outburn-IL/fume-community",
+      "url": "https://github.com/Outburn-IL/fume-community",
+      "score": 18.2,
+      "stars": 68,
+      "language": "TypeScript",
+      "description": "FUME is a FHIR conversion tool. Transform any data format to and from FHIR, including CSV, JSON, XML and HL7 V2, using the FUME mapping language",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (fhir, hl7)"
+        },
+        {
+          "rule": "affinity",
+          "points": 3.7,
+          "text": "like your stars: hl7, fhir"
+        },
+        {
+          "rule": "stars",
+          "points": 3,
+          "text": "68 stars, top 50% in hl7"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v3.3.0 38d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 38d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "csv-to-fhir",
+        "fhir",
+        "fhir-converter",
+        "fhir-mapper",
+        "fhir-mapping-engine",
+        "hl7",
+        "json-to-fhir",
+        "v2-to-fhir",
+        "xml-to-fhir"
+      ],
+      "via_topics": [],
+      "created_at": "2023-06-02T20:32:09Z",
+      "pushed_at": "2026-10-13T08:53:34Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "masslight/ottehr",
+      "url": "https://github.com/masslight/ottehr",
+      "score": 18.1,
+      "stars": 347,
+      "language": "TypeScript",
+      "description": "Modular, Production-Ready, Open-Source EHR",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "stars",
+          "points": 4.6,
+          "text": "347 stars, top 24% in fhir"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 3,
+          "text": "like your stars: fhir, healthcare"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v1.47.20 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        }
+      ],
+      "topics": [
+        "ehr",
+        "electronic-health-record",
+        "fhir",
+        "health",
+        "healthcare",
+        "hipaa",
+        "intake",
+        "medical",
+        "messaging",
+        "ottehr",
+        "react",
+        "registration",
+        "scheduling",
+        "telemedicine",
+        "typescript",
+        "zapehr"
+      ],
+      "via_topics": [],
+      "created_at": "2023-09-20T20:19:58Z",
+      "pushed_at": "2026-11-20T22:32:24Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 18,
+      "stars": 59859,
+      "language": "Python",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.5,
+          "text": "~52817 stars a month (new, 34d ago, top 1% in claude-code)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic claude-code"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v3.6.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        }
+      ],
+      "topics": [
+        "adb",
+        "adblock",
+        "android-tv",
+        "android-tv-launcher",
+        "apple-tv",
+        "bloatware-removal",
+        "claude-code",
+        "debloat",
+        "fire-tv",
+        "google-tv",
+        "launcher",
+        "privacy",
+        "smart-tv",
+        "sony-bravia",
+        "tcl",
+        "vibe-coding",
+        "xiaomi"
+      ],
+      "via_topics": [
+        "claude-code"
+      ],
+      "created_at": "2026-10-17T08:12:35Z",
+      "pushed_at": "2026-11-20T12:55:07Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "score": 18,
+      "stars": 15373,
+      "language": "TypeScript",
+      "description": "Self-hosted deployment platform",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 5.8,
+          "text": "~1774 stars a month (new, 9 months ago, top 23% in self-hosted)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v1.0.1 2d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.7,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "agents",
+        "ai",
+        "deployments",
+        "self-hosted"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-03-05T20:16:56Z",
+      "pushed_at": "2026-11-20T09:46:38Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 17.9,
+      "stars": 121797,
+      "language": "Go",
+      "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.4,
+          "text": "~15887 stars a month (new, 8 months ago, top 2% in claude-code)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic claude-code"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v4.1.0 12d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai",
+        "anthropic",
+        "caveman",
+        "claude",
+        "claude-code",
+        "llm",
+        "meme",
+        "prompt-engineering",
+        "skill",
+        "tokens"
+      ],
+      "via_topics": [
+        "claude-code"
+      ],
+      "created_at": "2026-04-04T10:03:00Z",
+      "pushed_at": "2026-11-20T07:32:16Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "score": 17.9,
+      "stars": 39564,
+      "language": "TypeScript",
+      "description": "Clone any website with one command using AI coding agents",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, claude-code)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 5.4,
+          "text": "~4710 stars a month (new, 8 months ago, top 29% in ai-agents)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 10d ago"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.6.1 46d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-tools",
+        "automation",
+        "boilerplate",
+        "claude",
+        "claude-code",
+        "clone",
+        "developer-tools",
+        "nextjs",
+        "react",
+        "reverse-engineering",
+        "shadcn-ui",
+        "skills",
+        "tailwindcss",
+        "template",
+        "typescript",
+        "web-scraping",
+        "website-clone"
+      ],
+      "via_topics": [
+        "ai-agents"
+      ],
+      "created_at": "2026-03-13T11:14:39Z",
+      "pushed_at": "2026-11-10T05:35:56Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "score": 17.9,
+      "stars": 17110,
+      "language": "TypeScript",
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 5.7,
+          "text": "~1764 stars a month (new, 10 months ago, top 25% in self-hosted)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.30.3 5d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.7,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "readme",
+          "points": 1.5,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "api",
+        "bot",
+        "gateway",
+        "self-hosted",
+        "whatsapp",
+        "whatsapp-api",
+        "whatsapp-automation",
+        "whatsapp-bot",
+        "whatsapp-gateway",
+        "whatsapp-gateway-api",
+        "whatsapp-web",
+        "whatsapp-web-api"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-02-02T12:14:45Z",
+      "pushed_at": "2026-11-20T17:47:19Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "deeplethe/utopia",
+      "url": "https://github.com/deeplethe/utopia",
+      "score": 17.9,
+      "stars": 8740,
+      "language": "Rust",
+      "description": "World's first open-source enterprise world model.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6.2,
+          "text": "~2497 stars a month (new, 4 months ago, top 18% in self-hosted)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.1.0-rc9 40d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.7,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "agent-memory",
+        "bitemporal",
+        "graphrag",
+        "knowledge-base",
+        "knowledge-graph",
+        "llm",
+        "ontology",
+        "pgvector",
+        "postgresql",
+        "rag",
+        "rust",
+        "self-hosted",
+        "semantic-search",
+        "temporal-knowledge-graph",
+        "world-model"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-08-07T19:33:17Z",
+      "pushed_at": "2026-11-21T00:19:05Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "score": 17.6,
+      "stars": 1400,
+      "language": "Python",
+      "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 6,
+          "text": "~294 stars a month (new, 5 months ago, top 20% in home-assistant)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic home-assistant"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v0.39.0 5d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.6,
+          "text": "like your stars: home-automation"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "coap-protocol",
+        "coap-server",
+        "custom-component",
+        "dtls",
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "home-automation",
+        "samsung",
+        "smartthings"
+      ],
+      "via_topics": [
+        "home-assistant"
+      ],
+      "created_at": "2026-06-30T21:30:14Z",
+      "pushed_at": "2026-11-21T00:48:51Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "score": 17.4,
+      "stars": 82118,
+      "language": "JavaScript",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.4,
+          "text": "~43220 stars a month (new, 57d ago, top 1% in ai-agents)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic ai-agents"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "release",
+          "points": 2,
+          "text": "released v2.8.9-macos-unofficial today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "via_topics": [
+        "ai-agents"
+      ],
+      "created_at": "2026-09-24T16:17:19Z",
+      "pushed_at": "2026-11-20T16:23:39Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Ali-Marandi/SmartHome-Automation",
+      "url": "https://github.com/Ali-Marandi/SmartHome-Automation",
+      "score": 16.8,
+      "stars": 107,
+      "language": "TypeScript",
+      "description": "Local-first Windows smart-home control center with Home Assistant, secure MQTT, Zigbee2MQTT, and local energy forecasting.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.8,
+          "text": "~29 stars a month (new, 4 months ago, top 36% in zigbee)"
+        },
+        {
+          "rule": "affinity",
+          "points": 3,
+          "text": "like your stars: home-automation, mqtt"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 3 months ago"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.1.2 3 months ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "energy-monitoring",
+        "home-assistant",
+        "home-automation",
+        "mqtt",
+        "rust",
+        "smart-home",
+        "tauri",
+        "typescript",
+        "zigbee",
+        "zigbee2mqtt"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-07-31T23:51:10Z",
+      "pushed_at": "2026-08-22T23:54:14Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "score": 14.4,
+      "stars": 11689,
+      "language": "Rust",
+      "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.4,
+          "text": "~19482 stars a month (new, 18d ago, top 2% in docker)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic docker"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "linux",
+        "macos",
+        "oci",
+        "windows"
+      ],
+      "via_topics": [
+        "docker"
+      ],
+      "created_at": "2026-11-02T16:11:30Z",
+      "pushed_at": "2026-11-20T23:03:02Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "ZSvirt/zsvirt",
+      "url": "https://github.com/ZSvirt/zsvirt",
+      "score": 14.4,
+      "stars": 2146,
+      "language": "Java",
+      "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.4,
+          "text": "~657 stars a month (new, 3 months ago, top 2% in proxmox)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic proxmox"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "cloud-native",
+        "hypervisor",
+        "iaas",
+        "infrastructure",
+        "kvm",
+        "private-cloud",
+        "proxmox",
+        "virtual-machine",
+        "virtualization",
+        "vm",
+        "vmware-labs",
+        "vmware-migration",
+        "vsphere"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-08-14T06:47:26Z",
+      "pushed_at": "2026-11-20T04:56:39Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "hapifhir/org.hl7.fhir.core",
+      "url": "https://github.com/hapifhir/org.hl7.fhir.core",
+      "score": 14.4,
+      "stars": 206,
+      "language": "Java",
+      "description": "",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "stars",
+          "points": 3.7,
+          "text": "206 stars, top 38% in fhir"
+        },
+        {
+          "rule": "affinity",
+          "points": 3.7,
+          "text": "like your stars: hl7, fhir"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "fhir"
+      ],
+      "via_topics": [],
+      "created_at": "2019-01-13T20:14:02Z",
+      "pushed_at": "2026-11-21T00:56:34Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "clinia/context-engine-studio",
+      "url": "https://github.com/clinia/context-engine-studio",
+      "score": 14.4,
+      "stars": 16,
+      "language": "TypeScript",
+      "description": "Clinia Context Engine Studio - open-source studio app for the Clinia Context Engine.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 5.4,
+          "text": "~4 stars a month (new, 4 months ago, top 28% in fhir)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "affinity",
+          "points": 3,
+          "text": "like your stars: fhir, healthcare"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 10d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "clinia",
+        "clinical-data",
+        "context-engine",
+        "fhir",
+        "healthcare",
+        "nextjs",
+        "typescript"
+      ],
+      "via_topics": [
+        "fhir"
+      ],
+      "created_at": "2026-08-05T21:34:07Z",
+      "pushed_at": "2026-11-10T19:29:41Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "makerspet/oomwoo",
+      "url": "https://github.com/makerspet/oomwoo",
+      "score": 14.3,
+      "stars": 13165,
+      "language": "Python",
+      "description": "Open-source vacuum robot cleaner",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 7.3,
+          "text": "~2423 stars a month (new, 5 months ago, top 3% in home-assistant)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic home-assistant"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "3d-printing",
+        "arduino",
+        "diy-electronics",
+        "diy-project",
+        "esp32",
+        "esp32-arduino",
+        "home-assistant",
+        "lidar",
+        "lidar-slam",
+        "raspberry-pi",
+        "ros2",
+        "slam",
+        "vacuum-cleaner",
+        "vacuum-robot"
+      ],
+      "via_topics": [
+        "home-assistant"
+      ],
+      "created_at": "2026-06-10T06:03:33Z",
+      "pushed_at": "2026-11-19T06:34:45Z",
+      "lang": "und",
+      "health": null
+    }
+  ]
+}

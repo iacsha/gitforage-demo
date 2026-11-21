@@ -1,0 +1,230 @@
+{
+ "version": 1,
+ "generated_at": "2026-11-21T01:44:22.686Z",
+ "items": [
+  {
+   "upstream": {
+    "full_name": "GitSquared/edex-ui",
+    "stars": 45036,
+    "archived": true,
+    "pushed_at": "2021-10-19T22:38:47Z",
+    "topic": "terminal"
+   },
+   "fork": {
+    "full_name": "andreas-hartmann/xdex-ui",
+    "stars": 107,
+    "open_issues": 15,
+    "created_at": "2025-05-24T16:30:04Z",
+    "pushed_at": "2026-11-01T12:26:41Z",
+    "ahead_by": 272,
+    "behind_by": 0,
+    "release": null
+   },
+   "points_here": false,
+   "checked_at": "2026-11-21T01:44:22.686Z"
+  },
+  {
+   "upstream": {
+    "full_name": "vercel/hyper",
+    "stars": 44745,
+    "archived": true,
+    "pushed_at": "2026-11-04T19:31:46Z",
+    "topic": "terminal"
+   },
+   "fork": {
+    "full_name": "quine-global/hyper",
+    "stars": 81,
+    "open_issues": 55,
+    "created_at": "2024-09-18T02:35:09Z",
+    "pushed_at": "2026-11-16T04:37:55Z",
+    "ahead_by": 225,
+    "behind_by": 2,
+    "release": {
+     "tag": "v4.0.0-q-canary.22",
+     "published_at": "2026-11-14T08:44:25.000Z"
+    }
+   },
+   "points_here": false,
+   "checked_at": "2026-11-21T01:44:22.686Z"
+  },
+  {
+   "upstream": {
+    "full_name": "esengine/DeepSeek-Reasonix",
+    "stars": 36094,
+    "archived": true,
+    "pushed_at": "2026-11-12T08:30:31Z",
+    "topic": "cli"
+   },
+   "fork": {
+    "full_name": "Linearl/DeepSeek-Reasonix",
+    "stars": 33,
+    "open_issues": 1,
+    "created_at": "2026-08-12T10:27:51Z",
+    "pushed_at": "2026-11-21T01:17:10Z",
+    "ahead_by": 7666,
+    "behind_by": 7898,
+    "release": {
+     "tag": "desktop-v1.38.3-20261120-1645",
+     "published_at": "2026-11-20T07:07:37.000Z"
+    }
+   },
+   "points_here": false,
+   "checked_at": "2026-11-21T01:44:22.686Z"
+  },
+  {
+   "upstream": {
+    "full_name": "filebrowser/filebrowser",
+    "stars": 35841,
+    "archived": true,
+    "pushed_at": "2026-07-31T10:06:58Z",
+    "topic": "self-hosted"
+   },
+   "fork": {
+    "full_name": "FilebrowserNext/filebrowserNEXT",
+    "stars": 24,
+    "open_issues": 0,
+    "created_at": "2026-09-08T15:41:00Z",
+    "pushed_at": "2026-11-09T20:15:51Z",
+    "ahead_by": 44,
+    "behind_by": 0,
+    "release": {
+     "tag": "v3.0.1-next",
+     "published_at": "2026-11-09T19:32:02.000Z"
+    }
+   },
+   "points_here": false,
+   "checked_at": "2026-11-21T01:44:22.686Z"
+  }
+ ],
+ "checked": {
+  "alebcay/awesome-shell": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": null
+  },
+  "esengine/deepseek-reasonix": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": {
+    "upstream": {
+     "full_name": "esengine/DeepSeek-Reasonix",
+     "stars": 36094,
+     "archived": true,
+     "pushed_at": "2026-11-12T08:30:31Z",
+     "topic": "cli"
+    },
+    "fork": {
+     "full_name": "Linearl/DeepSeek-Reasonix",
+     "stars": 33,
+     "open_issues": 1,
+     "created_at": "2026-08-12T10:27:51Z",
+     "pushed_at": "2026-11-21T01:17:10Z",
+     "ahead_by": 7666,
+     "behind_by": 7898,
+     "release": {
+      "tag": "desktop-v1.38.3-20261120-1645",
+      "published_at": "2026-11-20T07:07:37.000Z"
+     }
+    },
+    "points_here": false,
+    "checked_at": "2026-11-21T01:44:22.686Z"
+   }
+  },
+  "filebrowser/filebrowser": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": {
+    "upstream": {
+     "full_name": "filebrowser/filebrowser",
+     "stars": 35841,
+     "archived": true,
+     "pushed_at": "2026-07-31T10:06:58Z",
+     "topic": "self-hosted"
+    },
+    "fork": {
+     "full_name": "FilebrowserNext/filebrowserNEXT",
+     "stars": 24,
+     "open_issues": 0,
+     "created_at": "2026-09-08T15:41:00Z",
+     "pushed_at": "2026-11-09T20:15:51Z",
+     "ahead_by": 44,
+     "behind_by": 0,
+     "release": {
+      "tag": "v3.0.1-next",
+      "published_at": "2026-11-09T19:32:02.000Z"
+     }
+    },
+    "points_here": false,
+    "checked_at": "2026-11-21T01:44:22.686Z"
+   }
+  },
+  "gitsquared/edex-ui": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": {
+    "upstream": {
+     "full_name": "GitSquared/edex-ui",
+     "stars": 45036,
+     "archived": true,
+     "pushed_at": "2021-10-19T22:38:47Z",
+     "topic": "terminal"
+    },
+    "fork": {
+     "full_name": "andreas-hartmann/xdex-ui",
+     "stars": 107,
+     "open_issues": 15,
+     "created_at": "2025-05-24T16:30:04Z",
+     "pushed_at": "2026-11-01T12:26:41Z",
+     "ahead_by": 272,
+     "behind_by": 0,
+     "release": null
+    },
+    "points_here": false,
+    "checked_at": "2026-11-21T01:44:22.686Z"
+   }
+  },
+  "herrbischoff/awesome-macos-command-line": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": null
+  },
+  "httpie/cli": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": null
+  },
+  "ibraheemdev/modern-unix": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": null
+  },
+  "kingtoolbox/windterm": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": null
+  },
+  "sickcodes/docker-osx": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": null
+  },
+  "vercel/hyper": {
+   "at": "2026-11-21T01:44:22.686Z",
+   "item": {
+    "upstream": {
+     "full_name": "vercel/hyper",
+     "stars": 44745,
+     "archived": true,
+     "pushed_at": "2026-11-04T19:31:46Z",
+     "topic": "terminal"
+    },
+    "fork": {
+     "full_name": "quine-global/hyper",
+     "stars": 81,
+     "open_issues": 55,
+     "created_at": "2024-09-18T02:35:09Z",
+     "pushed_at": "2026-11-16T04:37:55Z",
+     "ahead_by": 225,
+     "behind_by": 2,
+     "release": {
+      "tag": "v4.0.0-q-canary.22",
+      "published_at": "2026-11-14T08:44:25.000Z"
+     }
+    },
+    "points_here": false,
+    "checked_at": "2026-11-21T01:44:22.686Z"
+   }
+  }
+ }
+}

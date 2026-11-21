@@ -9,6 +9,14 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 22.7
     },
+    "2-sa/immich": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 13.7
+    },
+    "addyosmani/agent-skills": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 11.6
+    },
     "adminsyspro/proxcenter-ui": {
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 21.3
@@ -37,6 +45,10 @@
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 15.2
     },
+    "ali-marandi/smarthome-automation": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 16.8
+    },
     "amrshadid/go-dicom": {
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 17.6
@@ -49,6 +61,10 @@
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 15.1
     },
+    "arcboxlabs/arcbox": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 20.4
+    },
     "arnegiacomo/fugleramme": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 20
@@ -60,6 +76,10 @@
     "automatous-io/shelly-1-gen4-matter-thread": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 19.7
+    },
+    "automatous-io/xiao-soil-moisture-sensor-matter-thread": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 16.8
     },
     "awbx/fhir-dsl": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -85,6 +105,10 @@
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25.3
     },
+    "bobtekkk/aqara-fp400-zone-card": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 22.3
+    },
     "bookorbit/bookorbit": {
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 25.1
@@ -92,6 +116,10 @@
     "brightbeanxyz/brightbean-studio": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 20.2
+    },
+    "bugs5382/node-hl7": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 17.6
     },
     "builderz-labs/mission-control": {
       "first_seen": "2026-11-20T13:48:44.477Z",
@@ -129,6 +157,10 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 17.6
     },
+    "clinia/context-engine-studio": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 14.4
+    },
     "cobusgreyling/loop-engineering": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 25.3
@@ -161,6 +193,10 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 14.5
     },
+    "dakheera47/job-ops": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 21.9
+    },
     "dcarbone/php-fhir": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 19.5
@@ -172,6 +208,10 @@
     "deeplethe/sandstorm": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 16.1
+    },
+    "deeplethe/utopia": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 17.9
     },
     "deusdata/codebase-memory-mcp": {
       "first_seen": "2026-11-20T20:24:07.829Z",
@@ -185,9 +225,21 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 18.7
     },
+    "drbradstanfield/roadmap": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 19.7
+    },
     "duartesantos8/opengym": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25.4
+    },
+    "ebony-vinyl/dsh-our-free-model": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 17.4
+    },
+    "ekkolearnai/ekko-studio": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 11.8
     },
     "elie222/rakazo": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -221,6 +273,10 @@
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 13.8
     },
+    "firsttris/esp32c6-zigbee-router": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 13.1
+    },
     "frameleaf/frameleaf-app": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 20.4
@@ -228,6 +284,14 @@
     "fuxicodex/fuxi": {
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 20.9
+    },
+    "gamer92000/echo-dot-assist": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 11.6
+    },
+    "gathin23/cleanyourtv": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 18
     },
     "genspark-ai/genoffice": {
       "first_seen": "2026-11-20T20:24:07.829Z",
@@ -269,6 +333,10 @@
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 19.5
     },
+    "greminn/ha-spatial-context": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 18.2
+    },
     "grft-dev/graftcode": {
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 19.1
@@ -276,6 +344,10 @@
     "gyorgysh/openradview": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 16.1
+    },
+    "hapifhir/org.hl7.fhir.core": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 14.4
     },
     "happier-dev/happier": {
       "first_seen": "2026-11-20T13:48:44.477Z",
@@ -321,6 +393,10 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 19.3
     },
+    "ifixai-ai/ifixai": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 18.3
+    },
     "interop-sante/hl7.fhir.fr.core": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 23.1
@@ -336,6 +412,10 @@
     "jarrodwatts/claude-hud": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 13.8
+    },
+    "jcodesmore/ai-website-cloner-template": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 17.9
     },
     "johnkotrolos/ha-device-floorplan": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -353,6 +433,10 @@
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 17.4
     },
+    "juliusbrussee/caveman": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 17.9
+    },
     "jwilleke/yourphr": {
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 21.1
@@ -369,9 +453,21 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 23.1
     },
+    "komal-skynet/claude-skill-homeassistant": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 16.2
+    },
+    "kuberwastaken/claurst": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 19.2
+    },
     "kuddev/pebrel": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 12.9
+    },
+    "l0ng-ai/openidea": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 18.4
     },
     "labtether/labtether": {
       "first_seen": "2026-11-20T20:24:45.097Z",
@@ -381,6 +477,10 @@
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 16
     },
+    "libracoder/kiri": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 14.4
+    },
     "lifevalue/healthwallet.me": {
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 18.1
@@ -389,13 +489,29 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 21.2
     },
+    "makerspet/oomwoo": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 14.3
+    },
     "manaflow-ai/cmux": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 17.6
     },
+    "masslight/ottehr": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 18.1
+    },
     "mastershort/neonplan3d": {
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 18.6
+    },
+    "matt1398/claude-devtools": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 18.8
+    },
+    "matthart1983/netwatch": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 20.1
     },
     "matysh/houseplan-card": {
       "first_seen": "2026-11-20T20:24:45.097Z",
@@ -409,9 +525,17 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 17.1
     },
+    "mbillow/localthings": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 17.6
+    },
     "mbombeck/healthlog-ios": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 23
+    },
+    "mdiri-ai/soduwork": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 25.6
     },
     "medplum/medplum": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -489,6 +613,10 @@
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 12.9
     },
+    "noon-at-cgn/geforce-sriov": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 11.6
+    },
     "nousresearch/hermes-official-plugins": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 18.1
@@ -504,6 +632,10 @@
     "nyxtoolsdev/dicom-hl7-mcp-server": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 14.9
+    },
+    "oblien/openship": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 18
     },
     "obsidianmd/obsidian-skills": {
       "first_seen": "2026-11-20T15:16:01.255Z",
@@ -549,6 +681,10 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 22.8
     },
+    "outburn-il/fume-community": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 18.2
+    },
     "panniantong/agent-reach": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 17.5
@@ -581,6 +717,10 @@
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 17.7
     },
+    "potalora/strand": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 14.8
+    },
     "pouzor/homelable": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 22.6
@@ -592,6 +732,10 @@
     "pranshuparmar/witr": {
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 27
+    },
+    "psmux/psmux": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 21.9
     },
     "python-roborock/local_roborock_server": {
       "first_seen": "2026-11-20T13:48:44.477Z",
@@ -612,6 +756,10 @@
     "riticulus/ha-thread-pulse": {
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 18.9
+    },
+    "rmyndharis/openwa": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 17.9
     },
     "rocketride-org/rocketride-server": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -749,6 +897,10 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 17.2
     },
+    "twigpine/openclaude": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 11.8
+    },
     "ulsklyc/yuvomi": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 24.6
@@ -797,9 +949,17 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 18.6
     },
+    "zoliqua/angular-advanced-odontogram": {
+      "first_seen": "2026-11-21T01:53:28.376Z",
+      "score": 11.7
+    },
     "zoliqua/react-advanced-odontogram": {
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 21.2
+    },
+    "zsvirt/zsvirt": {
+      "first_seen": "2026-11-21T01:52:42.278Z",
+      "score": 14.4
     }
   }
 }

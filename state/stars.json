@@ -333,6 +333,10 @@
    "stars": 3636,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "agent-field/sec-af": {
+   "stars": 200,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "agent-of-empires/agent-of-empires": {
    "stars": 4590,
    "at": "2026-11-20T13:28:46.982Z"
@@ -408,6 +412,10 @@
   "agno-agi/agno": {
    "stars": 43244,
    "at": "2026-11-20T13:28:46.982Z"
+  },
+  "agr78/pathology-randomizer": {
+   "stars": 5,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "agricidaniel/pya": {
    "stars": 282,
@@ -1341,6 +1349,10 @@
    "stars": 1640,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "aurahamzzz-cyber/microsoft-excel-alvaora": {
+   "stars": 152,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "aurevionsec/opensylab": {
    "stars": 7,
    "at": "2026-11-20T13:28:46.982Z"
@@ -1913,6 +1925,10 @@
    "stars": 1660,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "brayniac6-glitch/project-okran": {
+   "stars": 29,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "brettchalupa/usagi": {
    "stars": 882,
    "at": "2026-11-20T20:16:02.239Z"
@@ -2285,6 +2301,10 @@
    "stars": 180,
    "at": "2026-11-20T13:28:46.982Z"
   },
+  "cea-sec/miasm": {
+   "stars": 4018,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "cedricziel/ha-matter-binding-helper": {
    "stars": 83,
    "at": "2026-11-20T13:28:46.982Z"
@@ -2584,6 +2604,10 @@
   "cli/cli": {
    "stars": 47099,
    "at": "2026-11-20T13:28:46.982Z"
+  },
+  "clice-io/clice": {
+   "stars": 1921,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "clickhouse/clickbench": {
    "stars": 1171,
@@ -3232,6 +3256,10 @@
   "data-diving/dbt-ui": {
    "stars": 130,
    "at": "2026-11-20T20:16:02.239Z"
+  },
+  "data-goblin/claude-code-filetree": {
+   "stars": 465,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "data-privacy-stack/presidio": {
    "stars": 11989,
@@ -4145,6 +4173,10 @@
    "stars": 39,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "eigent-ai/eigent": {
+   "stars": 15862,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "eip-work/kuboard-press": {
    "stars": 25286,
    "at": "2026-11-20T20:16:02.239Z"
@@ -4320,6 +4352,10 @@
   "enet4/dicom-rs": {
    "stars": 576,
    "at": "2026-11-20T13:28:46.982Z"
+  },
+  "enjinbdg/rustdesk-remote-workspace": {
+   "stars": 152,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "enricoros/big-agi": {
    "stars": 7166,
@@ -5161,6 +5197,10 @@
    "stars": 716,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "geniusrise/awesome-healthcare-datasets": {
+   "stars": 154,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "genkit-ai/genkit": {
    "stars": 6605,
    "at": "2026-11-20T20:16:02.239Z"
@@ -5857,6 +5897,10 @@
    "stars": 30276,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "hasan6969macho-bit/vectorbt-avoria-analysis": {
+   "stars": 152,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "hasaneyldrm/exercises-dataset": {
    "stars": 23931,
    "at": "2026-11-20T20:16:02.239Z"
@@ -6116,6 +6160,10 @@
   "hismax/redink": {
    "stars": 5730,
    "at": "2026-11-20T13:28:46.982Z"
+  },
+  "hitheshkaranth/skanda-0": {
+   "stars": 19,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "hithink-tech-org/financial-api": {
    "stars": 4488,
@@ -6961,6 +7009,10 @@
    "stars": 4003,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "jetbrains/ideavim": {
+   "stars": 10292,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "jetbrains/kotlin": {
    "stars": 53600,
    "at": "2026-11-20T20:16:02.239Z"
@@ -7253,6 +7305,10 @@
    "stars": 10278,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "juneyaooo/mediwise-health-suite": {
+   "stars": 39,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "junforge-dev/dicomvisionclient": {
    "stars": 226,
    "at": "2026-11-20T13:28:46.982Z"
@@ -7428,6 +7484,10 @@
   "kenryu42/cc-safety-net": {
    "stars": 2080,
    "at": "2026-11-20T20:16:02.239Z"
+  },
+  "keon/awesome-nlp": {
+   "stars": 19176,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "keploy/keploy": {
    "stars": 19905,
@@ -8092,6 +8152,10 @@
   "linbei0/ecomgen": {
    "stars": 255,
    "at": "2026-11-20T20:16:02.239Z"
+  },
+  "lincolnloop/django-absurd": {
+   "stars": 55,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "linguo2625469/workbuddy2api-panel": {
    "stars": 4945,
@@ -8816,6 +8880,10 @@
   "medunes/go-kata": {
    "stars": 2362,
    "at": "2026-11-20T20:16:02.239Z"
+  },
+  "medusajs/medusa": {
+   "stars": 37345,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "medvertical/records-fhir-validator": {
    "stars": 7,
@@ -10164,6 +10232,10 @@
   "nukeop/nuclear": {
    "stars": 18974,
    "at": "2026-11-20T20:16:02.239Z"
+  },
+  "numaan2018/microsoft-onedrive-alvona": {
+   "stars": 152,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "nunooliveiraqwe/torii": {
    "stars": 58,
@@ -11633,6 +11705,10 @@
    "stars": 7220,
    "at": "2026-11-20T20:16:02.239Z"
   },
+  "pystardust/ani-cli": {
+   "stars": 14142,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "python-roborock/local_roborock_server": {
    "stars": 1340,
    "at": "2026-11-20T13:28:46.982Z"
@@ -11768,6 +11844,10 @@
   "rafalp/misago": {
    "stars": 2779,
    "at": "2026-11-20T20:16:02.239Z"
+  },
+  "rahhhtrigger-code/qbittorrent-solririn": {
+   "stars": 152,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "raiyanyahya/how-to-train-your-gpt": {
    "stars": 4183,
@@ -12484,6 +12564,10 @@
   "saghen/blink.cmp": {
    "stars": 6680,
    "at": "2026-11-20T20:16:02.239Z"
+  },
+  "sahandranya/restic-varrona": {
+   "stars": 151,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "saihgupr/frigate-proxmox-script": {
    "stars": 181,
@@ -14429,6 +14513,10 @@
    "stars": 39027,
    "at": "2026-11-20T13:28:46.982Z"
   },
+  "trinodb/trino": {
+   "stars": 13530,
+   "at": "2026-11-21T01:44:22.686Z"
+  },
   "trinomic1004/columna-ohif": {
    "stars": 0,
    "at": "2026-11-20T13:28:46.982Z"
@@ -14992,6 +15080,10 @@
   "virgiliojr94/book-to-skill": {
    "stars": 38540,
    "at": "2026-11-20T13:28:46.982Z"
+  },
+  "virtastic/openmw-web": {
+   "stars": 153,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "visionary-laboratory/visionary": {
    "stars": 537,
@@ -15948,6 +16040,10 @@
   "zereight/gitlab-mcp": {
    "stars": 2114,
    "at": "2026-11-20T13:28:46.982Z"
+  },
+  "zeromicro/go-zero": {
+   "stars": 33436,
+   "at": "2026-11-21T01:44:22.686Z"
   },
   "zeta-chain/node": {
    "stars": 203,
