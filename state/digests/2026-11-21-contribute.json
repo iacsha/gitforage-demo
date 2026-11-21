@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-21",
   "mode": "contribute",
-  "generated_at": "2026-11-21T01:53:28.381Z",
+  "generated_at": "2026-11-21T02:04:34.925Z",
   "items": [
     {
       "full_name": "bobtekkk/aqara-fp400-zone-card",
@@ -71,8 +71,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-10-01T08:17:46Z",
-      "pushed_at": "2026-11-18T08:22:55Z",
+      "created_at": "2026-10-01T08:17:46.000Z",
+      "pushed_at": "2026-11-18T08:22:55.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 10,
@@ -160,8 +160,8 @@
       "via_topics": [
         "docker"
       ],
-      "created_at": "2025-12-11T23:57:21Z",
-      "pushed_at": "2026-10-30T11:09:58Z",
+      "created_at": "2025-12-11T23:57:21.000Z",
+      "pushed_at": "2026-10-30T11:09:58.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 27,
@@ -249,8 +249,8 @@
       "via_topics": [
         "terminal"
       ],
-      "created_at": "2025-11-30T18:09:19Z",
-      "pushed_at": "2026-11-21T00:09:34Z",
+      "created_at": "2025-11-30T18:09:19.000Z",
+      "pushed_at": "2026-11-21T00:09:34.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 94,
@@ -327,8 +327,8 @@
       "via_topics": [
         "docker"
       ],
-      "created_at": "2026-01-04T14:46:50Z",
-      "pushed_at": "2026-11-16T09:14:53Z",
+      "created_at": "2026-01-04T14:46:50.000Z",
+      "pushed_at": "2026-11-16T09:14:53.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 24,
@@ -414,8 +414,8 @@
       "via_topics": [
         "terminal"
       ],
-      "created_at": "2026-02-14T21:24:32Z",
-      "pushed_at": "2026-11-19T11:06:11Z",
+      "created_at": "2026-02-14T21:24:32.000Z",
+      "pushed_at": "2026-11-19T11:06:11.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 3,
@@ -493,8 +493,8 @@
       "via_topics": [
         "fhir"
       ],
-      "created_at": "2026-01-29T03:31:28Z",
-      "pushed_at": "2026-11-21T01:38:48Z",
+      "created_at": "2026-01-29T03:31:28.000Z",
+      "pushed_at": "2026-11-21T01:38:48.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 16,
@@ -569,8 +569,8 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-03-31T09:23:58Z",
-      "pushed_at": "2026-10-26T16:08:43Z",
+      "created_at": "2026-03-31T09:23:58.000Z",
+      "pushed_at": "2026-10-26T16:08:43.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 29,
@@ -662,8 +662,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-02-07T13:17:25Z",
-      "pushed_at": "2026-09-26T07:43:48Z",
+      "created_at": "2026-02-07T13:17:25.000Z",
+      "pushed_at": "2026-09-26T07:43:48.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 4,
@@ -747,8 +747,8 @@
       "via_topics": [
         "hl7"
       ],
-      "created_at": "2026-04-25T04:30:25Z",
-      "pushed_at": "2026-11-19T05:34:39Z",
+      "created_at": "2026-04-25T04:30:25.000Z",
+      "pushed_at": "2026-11-19T05:34:39.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -825,8 +825,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2026-07-30T05:29:48Z",
-      "pushed_at": "2026-09-16T03:07:05Z",
+      "created_at": "2026-07-30T05:29:48.000Z",
+      "pushed_at": "2026-09-16T03:07:05.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -883,8 +883,8 @@
       "via_topics": [
         "home-assistant"
       ],
-      "created_at": "2025-11-29T00:45:14Z",
-      "pushed_at": "2026-07-04T22:43:09Z",
+      "created_at": "2025-11-29T00:45:14.000Z",
+      "pushed_at": "2026-07-04T22:43:09.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -955,8 +955,8 @@
       "via_topics": [
         "fhir"
       ],
-      "created_at": "2026-02-13T05:54:52Z",
-      "pushed_at": "2026-08-27T19:52:57Z",
+      "created_at": "2026-02-13T05:54:52.000Z",
+      "pushed_at": "2026-08-27T19:52:57.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -1010,8 +1010,8 @@
       ],
       "topics": [],
       "via_topics": [],
-      "created_at": "2026-11-19T11:58:30Z",
-      "pushed_at": "2026-11-19T14:14:37Z",
+      "created_at": "2026-11-19T11:58:30.000Z",
+      "pushed_at": "2026-11-19T14:14:37.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -1088,8 +1088,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-01-19T16:26:05Z",
-      "pushed_at": "2026-11-19T05:37:51Z",
+      "created_at": "2026-01-19T16:26:05.000Z",
+      "pushed_at": "2026-11-19T05:37:51.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -1146,8 +1146,8 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-04-01T03:15:49Z",
-      "pushed_at": "2026-11-21T01:25:53Z",
+      "created_at": "2026-04-01T03:15:49.000Z",
+      "pushed_at": "2026-11-21T01:25:53.000Z",
       "lang": "und",
       "health": null
     },
@@ -1212,8 +1212,8 @@
       "via_topics": [
         "self-hosted"
       ],
-      "created_at": "2026-04-11T07:38:18Z",
-      "pushed_at": "2026-11-20T12:44:20Z",
+      "created_at": "2026-04-11T07:38:18.000Z",
+      "pushed_at": "2026-11-20T12:44:20.000Z",
       "lang": "en",
       "health": null
     },
@@ -1277,8 +1277,8 @@
         "zsigmondy-palmer"
       ],
       "via_topics": [],
-      "created_at": "2026-08-06T13:04:49Z",
-      "pushed_at": "2026-10-31T02:45:43Z",
+      "created_at": "2026-08-06T13:04:49.000Z",
+      "pushed_at": "2026-10-31T02:45:43.000Z",
       "lang": "en",
       "health": null
     },
@@ -1325,8 +1325,8 @@
       "via_topics": [
         "claude-code"
       ],
-      "created_at": "2026-02-15T20:20:26Z",
-      "pushed_at": "2026-11-18T20:06:38Z",
+      "created_at": "2026-02-15T20:20:26.000Z",
+      "pushed_at": "2026-11-18T20:06:38.000Z",
       "lang": "en",
       "health": null
     },
@@ -1374,8 +1374,8 @@
       "via_topics": [
         "home-assistant"
       ],
-      "created_at": "2026-09-21T22:04:22Z",
-      "pushed_at": "2026-11-19T22:18:36Z",
+      "created_at": "2026-09-21T22:04:22.000Z",
+      "pushed_at": "2026-11-19T22:18:36.000Z",
       "lang": "en",
       "health": null
     },
@@ -1426,8 +1426,1436 @@
       "via_topics": [
         "proxmox"
       ],
-      "created_at": "2026-11-03T14:20:31Z",
-      "pushed_at": "2026-11-17T15:52:38Z",
+      "created_at": "2026-11-03T14:20:31.000Z",
+      "pushed_at": "2026-11-17T15:52:38.000Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "maxfield-allison/dnsweaver",
+      "url": "https://github.com/maxfield-allison/dnsweaver",
+      "score": 22.3,
+      "stars": 228,
+      "language": "Go",
+      "description": "Automatic DNS records for containers, VMs & clusters. Seven sources (Traefik, Caddy, nginx-proxy, native labels, Kubernetes, Proxmox VE, Incus) and twelve DNS providers including Technitium, Pi-hole and AdGuard Home. Split-horizon out of the box. external-dns for the homelab.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (docker, proxmox)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 8 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 9 of 9 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.3,
+          "text": "~22 stars a month (new, 11 months ago, top 75% in proxmox)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v3.4.0 3d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "adguard",
+        "automation",
+        "cloudflare",
+        "devops",
+        "dns",
+        "dns-automation",
+        "docker",
+        "external-dns",
+        "go",
+        "helm",
+        "homelab",
+        "incus",
+        "ingress",
+        "k8s",
+        "kubernetes",
+        "pihole",
+        "proxmox",
+        "selfhosted",
+        "technitium",
+        "traefik"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-01-07T17:16:44Z",
+      "pushed_at": "2026-11-17T18:07:08Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 8,
+        "issue_response": {
+          "answered": 9,
+          "total": 9
+        }
+      }
+    },
+    {
+      "full_name": "PeonPing/peon-ping",
+      "url": "https://github.com/PeonPing/peon-ping",
+      "score": 21.1,
+      "stars": 5120,
+      "language": "Shell",
+      "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 19 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.4,
+          "text": "~541 stars a month (new, 9 months ago, top 53% in terminal)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 14d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.7,
+          "text": "answered 5 of 9 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.37.0 3 months ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "opencode",
+        "terminal"
+      ],
+      "via_topics": [
+        "terminal"
+      ],
+      "created_at": "2026-02-09T23:12:48Z",
+      "pushed_at": "2026-11-06T23:44:17Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 19,
+        "issue_response": {
+          "answered": 5,
+          "total": 9
+        }
+      }
+    },
+    {
+      "full_name": "never-dry/NeverDry",
+      "url": "https://github.com/never-dry/NeverDry",
+      "score": 21,
+      "stars": 56,
+      "language": "Python",
+      "description": "Smart irrigation for Home Assistant — scientific water balance model with per-zone crop coefficients",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 6 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.5,
+          "text": "~7 stars a month (new, 8 months ago, top 71% in zigbee)"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "1 good first issue, 3 help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.13.0 27d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "evapotranspiration",
+        "garden",
+        "hacs",
+        "home-assistant",
+        "homeassistant-integration",
+        "irrigation",
+        "smart-home",
+        "smart-irrigation",
+        "sprinkler",
+        "water-management",
+        "watering",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-04-08T06:06:42Z",
+      "pushed_at": "2026-11-18T21:44:26Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 6,
+        "issue_response": {
+          "answered": 1,
+          "total": 2
+        }
+      }
+    },
+    {
+      "full_name": "CMSgov/beneficiary-fhir-data",
+      "url": "https://github.com/CMSgov/beneficiary-fhir-data",
+      "score": 18.9,
+      "stars": 87,
+      "language": "Java",
+      "description": "An API designed to serve Medicare beneficiaries' demographic, enrollment, and claims data using the HL7® FHIR® Standard format.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 57 outside PRs in 90 days"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.8,
+          "text": "like your stars: hl7, fhir"
+        },
+        {
+          "rule": "stars",
+          "points": 1.4,
+          "text": "87 stars, top 65% in fhir"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "CC0-1.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released 2.287.0 2d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "fhir",
+        "fhir-mapping-language",
+        "medicare"
+      ],
+      "via_topics": [],
+      "created_at": "2019-08-22T18:41:16Z",
+      "pushed_at": "2026-11-21T00:31:01Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 57,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "ryzenixx/proxmoxbar",
+      "url": "https://github.com/ryzenixx/proxmoxbar",
+      "score": 16.5,
+      "stars": 190,
+      "language": "Swift",
+      "description": "Control and monitor your Proxmox VE servers from the macOS menu bar",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (proxmox, self-hosted)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 9 of 9 recent issues"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 10d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.1,
+          "text": "~18 stars a month (new, 10 months ago, top 79% in proxmox)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "release",
+          "points": 0.5,
+          "text": "released v3.0.2 3 months ago"
+        }
+      ],
+      "topics": [
+        "homelab",
+        "macos",
+        "macos-app",
+        "menubar",
+        "monitoring",
+        "proxmox",
+        "proxmox-ve",
+        "self-hosted",
+        "swift",
+        "swiftui",
+        "virtualization"
+      ],
+      "via_topics": [
+        "proxmox"
+      ],
+      "created_at": "2026-01-11T00:58:36Z",
+      "pushed_at": "2026-11-11T01:43:29Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 9,
+          "total": 9
+        }
+      }
+    },
+    {
+      "full_name": "oneofthemany/ZigBee-Matter-Manager",
+      "url": "https://github.com/oneofthemany/ZigBee-Matter-Manager",
+      "score": 16.1,
+      "stars": 20,
+      "language": "Python",
+      "description": "A high-performance Python based ZigBee Matter Manager with Home Assistant support. Features a feature rich front end, MQTT, advanced packet analysis, debugging and mesh visualisation.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 5d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 6 of 6 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v15.11.2026 5d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 1,
+          "text": "like your stars: mqtt"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.4,
+          "text": "~2 stars a month (new, 11 months ago, top 93% in zigbee)"
+        }
+      ],
+      "topics": [
+        "home-assistant",
+        "iot-application",
+        "mqtt",
+        "python3",
+        "smart-home",
+        "zha",
+        "zigbee",
+        "zigbee-sniffer",
+        "zigbee2mqtt"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2025-12-14T11:56:21Z",
+      "pushed_at": "2026-11-15T13:18:36Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 6,
+          "total": 6
+        }
+      }
+    },
+    {
+      "full_name": "asklokesh/loki-mode",
+      "url": "https://github.com/asklokesh/loki-mode",
+      "score": 15.8,
+      "stars": 1119,
+      "language": "Shell",
+      "description": "Autonomous software factory. Give it a GitHub issue, a spec or a one-line task; get back a pull request with a signed receipt anyone can re-check offline. Runs on your machine with your own keys: Claude, Codex, OpenCode.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "2 help wanted"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.3,
+          "text": "~102 stars a month (new, 11 months ago, top 75% in devtools)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v11.173.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "ai-coding-agents",
+        "ai-coding-tools",
+        "anthropic",
+        "autonomous-agents",
+        "claude",
+        "code-verification",
+        "codex",
+        "devtools",
+        "legacy-modernization",
+        "multi-agent",
+        "software-factory",
+        "spec-driven-development"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2025-12-26T16:26:14Z",
+      "pushed_at": "2026-11-20T22:55:19Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "code-yeongyu/oh-my-openagent",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "score": 15.5,
+      "stars": 71033,
+      "language": "TypeScript",
+      "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 4,
+          "text": "~6037 stars a month (new, 12 months ago, top 21% in ai-agents)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic ai-agents"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "2 help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v5.1.79 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "gemini",
+        "ide",
+        "openai",
+        "opencode",
+        "orchestration",
+        "tui",
+        "typescript"
+      ],
+      "via_topics": [
+        "ai-agents"
+      ],
+      "created_at": "2025-12-03T01:40:05Z",
+      "pushed_at": "2026-11-21T01:42:50Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "RtlZeroMemory/Rezi",
+      "url": "https://github.com/RtlZeroMemory/Rezi",
+      "score": 15.3,
+      "stars": 678,
+      "language": "TypeScript",
+      "description": "Build TypeScript TUI backed by fast native rendering engine",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, devtools, terminal)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.7,
+          "text": "answered 4 of 7 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.6,
+          "text": "~72 stars a month (new, 9 months ago, top 88% in cli)"
+        },
+        {
+          "rule": "release",
+          "points": 0.5,
+          "text": "released v0.1.0-beta.2 5 months ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "bun",
+        "c",
+        "cli",
+        "console-application",
+        "devtools",
+        "ffi",
+        "ink",
+        "nodejs",
+        "opensource",
+        "react",
+        "terminal",
+        "terminal-ui",
+        "tui",
+        "typescript"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-02-10T13:55:02Z",
+      "pushed_at": "2026-06-17T15:30:34Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 4,
+          "total": 7
+        }
+      }
+    },
+    {
+      "full_name": "Allekslar/zigbee-gateway_v1",
+      "url": "https://github.com/Allekslar/zigbee-gateway_v1",
+      "score": 15.3,
+      "stars": 17,
+      "language": "HTML",
+      "description": "ESP32-C6 Zigbee Gateway built on ESP-IDF 5.5.2 with a layered architecture (Core → Service → HAL), Web UI/HTTP API, mDNS discovery, and production-focused quality gates (host, integration, and target HIL tests).",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (matter, zigbee)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 19 of 19 recent issues"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 23d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.4,
+          "text": "~2 stars a month (new, 9 months ago, top 72% in matter)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: home-automation"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "esp-idf",
+        "esp32-c6",
+        "home-automation",
+        "iot",
+        "matter",
+        "zigbee",
+        "zigbee-coordinator",
+        "zigbee-gateway",
+        "zigbee2mqtt"
+      ],
+      "via_topics": [
+        "matter"
+      ],
+      "created_at": "2026-03-01T20:26:28Z",
+      "pushed_at": "2026-10-28T20:16:51Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 19,
+          "total": 19
+        }
+      }
+    },
+    {
+      "full_name": "ohs-foundation/fhir-gateway",
+      "url": "https://github.com/ohs-foundation/fhir-gateway",
+      "score": 14.6,
+      "stars": 111,
+      "language": "Java",
+      "description": "A generic proxy server for applying access-control policies for a FHIR-store.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.2,
+          "text": "like your stars: fhir, healthcare"
+        },
+        {
+          "rule": "stars",
+          "points": 1.9,
+          "text": "111 stars, top 53% in fhir"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1,
+          "text": "answered 1 of 3 recent issues"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "release",
+          "points": 0.5,
+          "text": "released 0.5.0 12 months ago"
+        }
+      ],
+      "topics": [
+        "access-control",
+        "digital-health",
+        "fhir",
+        "global-health",
+        "healthcare",
+        "hl7-fhir",
+        "interoperability",
+        "java",
+        "ohs",
+        "ohs-fhir-foundations",
+        "open-health-stack",
+        "privacy",
+        "reverse-proxy",
+        "security"
+      ],
+      "via_topics": [],
+      "created_at": "2022-05-13T02:51:40Z",
+      "pushed_at": "2026-11-20T22:03:21Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 1,
+          "total": 3
+        }
+      }
+    },
+    {
+      "full_name": "lev1nson/OpenMRI",
+      "url": "https://github.com/lev1nson/OpenMRI",
+      "score": 12.8,
+      "stars": 16,
+      "language": "TypeScript",
+      "description": "Local viewer for your own MRI and CT studies: 3D volume rendering, three linked slices, DICOM/NIfTI import, rigid registration across dates. Everything stays on your computer.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 4.1,
+          "text": "~8 stars a month (new, 2 months ago, top 19% in dicom)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic dicom"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "ct",
+        "dicom",
+        "local-first",
+        "medical-imaging",
+        "mri",
+        "nifti",
+        "niivue",
+        "viewer"
+      ],
+      "via_topics": [
+        "dicom"
+      ],
+      "created_at": "2026-09-18T09:59:41Z",
+      "pushed_at": "2026-11-20T11:24:45Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "PhantomPhoton/Setup-Codes",
+      "url": "https://github.com/PhantomPhoton/Setup-Codes",
+      "score": 12.8,
+      "stars": 7,
+      "language": "JavaScript",
+      "description": "HACS custom integration that keeps pairing / setup codes for Matter, HomeKit, and Z-Wave devices and shows them in a sidebar panel",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, matter)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.1,
+          "text": "~3 stars a month (new, 3 months ago, top 59% in matter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 27d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.1.11 27d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "hacs",
+        "hacs-integration",
+        "home-assistant",
+        "homekit",
+        "matter",
+        "zwave"
+      ],
+      "via_topics": [
+        "matter"
+      ],
+      "created_at": "2026-09-05T20:52:25Z",
+      "pushed_at": "2026-10-24T21:39:41Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 2
+        }
+      }
+    },
+    {
+      "full_name": "gavro91/zigbee2mqtt",
+      "url": "https://github.com/gavro91/zigbee2mqtt",
+      "score": 11.8,
+      "stars": 1,
+      "language": "TypeScript",
+      "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 4.6,
+          "text": "live fork of Koenkk/zigbee2mqtt: 4 commits ahead, 45 behind"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.5,
+          "text": "~1 stars a month (new, 26d ago, top 50% in mqtt)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 12d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 1,
+          "text": "like your stars: mqtt"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2026-10-25T02:49:56Z",
+      "pushed_at": "2026-11-08T23:09:36Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 11,
+      "stars": 14224,
+      "language": "TypeScript",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 3.5,
+          "text": "~3282 stars a month (new, 4 months ago, top 30% in cli)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-security",
+        "application-security",
+        "cli",
+        "code-scanning",
+        "codex",
+        "codex-security",
+        "cybersecurity",
+        "devsecops",
+        "nodejs",
+        "npm",
+        "openai",
+        "sdk",
+        "security",
+        "typescript",
+        "vulnerability-scanning"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-07-13T22:00:13Z",
+      "pushed_at": "2026-11-20T23:40:05Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "dramaclaw/dramaclaw",
+      "url": "https://github.com/dramaclaw/dramaclaw",
+      "score": 11,
+      "stars": 7141,
+      "language": "TypeScript",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic self-hosted"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.8,
+          "text": "~900 stars a month (new, 8 months ago, top 45% in self-hosted)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: self-hosted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "ai-filmmaking",
+        "ai-video",
+        "aigc",
+        "aigc-pipeline",
+        "content-creation",
+        "dramaclaw",
+        "fastapi",
+        "generative-ai",
+        "image-to-video",
+        "python",
+        "react",
+        "self-hosted",
+        "storyboard",
+        "text-to-video",
+        "tts",
+        "video-engine",
+        "video-generation",
+        "voice-synthesis"
+      ],
+      "via_topics": [
+        "self-hosted"
+      ],
+      "created_at": "2026-03-27T04:34:30Z",
+      "pushed_at": "2026-11-20T17:14:57Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "rusty4444/ha-lightfx",
+      "url": "https://github.com/rusty4444/ha-lightfx",
+      "score": 11,
+      "stars": 53,
+      "language": "Python",
+      "description": "Virtual WLED-style light effects for any Home Assistant light. Define room layouts, map lights to positions, run ambient effects — no special hardware needed.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2,
+          "text": "~9 stars a month (new, 6 months ago, top 61% in zigbee)"
+        }
+      ],
+      "topics": [
+        "custom-integration",
+        "hacs",
+        "home-assistant",
+        "light-effects",
+        "lovelace",
+        "python",
+        "wled",
+        "zigbee",
+        "zwave"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-05-22T11:24:57Z",
+      "pushed_at": "2026-11-20T22:54:46Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "thetahealth/mirobody-gen",
+      "url": "https://github.com/thetahealth/mirobody-gen",
+      "score": 11,
+      "stars": 12,
+      "language": "Python",
+      "description": "Regenerable synthetic longitudinal health records rendered as the documents people upload — lab slips, check-up books, clinic notes, wearable payloads, DTC genomics — with row-level ground truth for extraction, standardisation and agent evaluation. Companion to ESL-Bench.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.7,
+          "text": "~4 stars a month (new, 3 months ago, top 46% in fhir)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.3,
+          "text": "like your stars: fhir"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "benchmark",
+        "document-parsing",
+        "fhir",
+        "genomics",
+        "health-data",
+        "healthcare-ai",
+        "lab-reports",
+        "loinc",
+        "longitudinal-data",
+        "medical-records",
+        "ocr-robustness",
+        "python",
+        "reproducible-research",
+        "synthetic-data",
+        "wearables"
+      ],
+      "via_topics": [
+        "fhir"
+      ],
+      "created_at": "2026-08-14T09:59:31Z",
+      "pushed_at": "2026-11-19T09:43:58Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "score": 10.9,
+      "stars": 38619,
+      "language": "Python",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~4972 stars a month (new, 8 months ago, top 22% in mcp)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic mcp"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "algorithmic-trading",
+        "backtesting",
+        "fintech",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "python",
+        "quantitative-finance",
+        "trading"
+      ],
+      "via_topics": [
+        "mcp"
+      ],
+      "created_at": "2026-04-01T09:52:20Z",
+      "pushed_at": "2026-11-20T11:05:18Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "wilbowes/EchoMuse",
+      "url": "https://github.com/wilbowes/EchoMuse",
+      "score": 10.9,
+      "stars": 1530,
+      "language": "Python",
+      "description": "A local voice assistant for Home Assistant on old Amazon Echoes, with no Amazon software left on them: our own Linux userspace (emOS), our own audio pipeline, and a wake word that runs on the Echo, so nothing is sent until you say it.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~226 stars a month (new, 7 months ago, top 23% in home-assistant)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic home-assistant"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "alexa-alternative",
+        "amazon-echo",
+        "bermuda",
+        "bluetooth",
+        "echo-dot",
+        "echomuse",
+        "esphome-api",
+        "hardware-hacking",
+        "home-assistant",
+        "local-first",
+        "music-assistant",
+        "open-source-firmware",
+        "privacy",
+        "sendspin",
+        "voice-assistant",
+        "wake-word"
+      ],
+      "via_topics": [
+        "home-assistant"
+      ],
+      "created_at": "2026-05-01T09:49:22Z",
+      "pushed_at": "2026-11-21T01:18:12Z",
       "lang": "en",
       "health": null
     }
