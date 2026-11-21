@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-21T01:55:37.868Z",
+ "generated_at": "2026-11-21T02:13:27.654Z",
  "items": [
   {
    "upstream": {
@@ -14,8 +14,8 @@
     "full_name": "yao-pkg/pkg",
     "stars": 934,
     "open_issues": 56,
-    "created_at": "2023-10-03T06:33:58Z",
-    "pushed_at": "2026-11-18T16:23:35Z",
+    "created_at": "2023-10-03T06:33:58.000Z",
+    "pushed_at": "2026-11-18T16:23:35.000Z",
     "ahead_by": 217,
     "behind_by": 1,
     "release": {
@@ -38,8 +38,8 @@
     "full_name": "beatkind/watchtower",
     "stars": 314,
     "open_issues": 24,
-    "created_at": "2024-07-08T06:31:38Z",
-    "pushed_at": "2026-11-05T19:55:54Z",
+    "created_at": "2024-07-08T06:31:38.000Z",
+    "pushed_at": "2026-11-05T19:55:54.000Z",
     "ahead_by": 166,
     "behind_by": 1,
     "release": {
@@ -49,6 +49,30 @@
    },
    "points_here": false,
    "checked_at": "2026-11-21T01:55:37.868Z"
+  },
+  {
+   "upstream": {
+    "full_name": "loft-sh/devpod",
+    "stars": 15334,
+    "archived": false,
+    "pushed_at": "2025-11-14T06:33:38Z",
+    "topic": "docker"
+   },
+   "fork": {
+    "full_name": "skevetter/devpod",
+    "stars": 214,
+    "open_issues": 26,
+    "created_at": "2025-10-14T16:21:34Z",
+    "pushed_at": "2026-10-28T19:16:53Z",
+    "ahead_by": 615,
+    "behind_by": 0,
+    "release": {
+     "tag": "v0.26.3",
+     "published_at": "2026-10-02T20:19:33.000Z"
+    }
+   },
+   "points_here": false,
+   "checked_at": "2026-11-21T02:13:27.654Z"
   },
   {
    "upstream": {
@@ -97,8 +121,32 @@
   },
   {
    "upstream": {
+    "full_name": "fathyb/carbonyl",
+    "stars": 19607,
+    "archived": false,
+    "pushed_at": "2024-07-01T14:31:50Z",
+    "topic": "terminal"
+   },
+   "fork": {
+    "full_name": "jmagly/carbonyl",
+    "stars": 37,
+    "open_issues": 0,
+    "created_at": "2026-04-02T01:40:13Z",
+    "pushed_at": "2026-09-04T05:06:25Z",
+    "ahead_by": 464,
+    "behind_by": 0,
+    "release": {
+     "tag": "v0.2.0-alpha.18",
+     "published_at": "2026-07-05T14:27:04.000Z"
+    }
+   },
+   "points_here": false,
+   "checked_at": "2026-11-21T02:13:27.654Z"
+  },
+  {
+   "upstream": {
     "full_name": "esengine/DeepSeek-Reasonix",
-    "stars": 36094,
+    "stars": 36093,
     "archived": true,
     "pushed_at": "2026-11-12T08:30:31Z",
     "topic": "cli"
@@ -142,6 +190,27 @@
    },
    "points_here": false,
    "checked_at": "2026-11-21T01:44:22.686Z"
+  },
+  {
+   "upstream": {
+    "full_name": "GoogleContainerTools/kaniko",
+    "stars": 15745,
+    "archived": true,
+    "pushed_at": "2025-06-03T14:36:10Z",
+    "topic": "docker"
+   },
+   "fork": {
+    "full_name": "coder/kaniko",
+    "stars": 5,
+    "open_issues": 7,
+    "created_at": "2023-03-28T15:30:16Z",
+    "pushed_at": "2026-11-14T02:04:36Z",
+    "ahead_by": 187,
+    "behind_by": 74,
+    "release": null
+   },
+   "points_here": false,
+   "checked_at": "2026-11-21T02:13:27.654Z"
   }
  ],
  "checked": {
@@ -157,6 +226,10 @@
    "at": "2026-11-21T01:44:22.686Z",
    "item": null
   },
+  "bcicen/ctop": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": null
+  },
   "containrrr/watchtower": {
    "at": "2026-11-21T01:55:37.868Z",
    "item": {
@@ -164,15 +237,15 @@
      "full_name": "containrrr/watchtower",
      "stars": 24580,
      "archived": true,
-     "pushed_at": "2025-12-17T14:44:11Z",
+     "pushed_at": "2025-12-17T14:44:11.000Z",
      "topic": "docker"
     },
     "fork": {
      "full_name": "beatkind/watchtower",
      "stars": 314,
      "open_issues": 24,
-     "created_at": "2024-07-08T06:31:38Z",
-     "pushed_at": "2026-11-05T19:55:54Z",
+     "created_at": "2024-07-08T06:31:38.000Z",
+     "pushed_at": "2026-11-05T19:55:54.000Z",
      "ahead_by": 166,
      "behind_by": 1,
      "release": {
@@ -213,6 +286,37 @@
     },
     "points_here": false,
     "checked_at": "2026-11-21T01:44:22.686Z"
+   }
+  },
+  "faressoft/terminalizer": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": null
+  },
+  "fathyb/carbonyl": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": {
+    "upstream": {
+     "full_name": "fathyb/carbonyl",
+     "stars": 19607,
+     "archived": false,
+     "pushed_at": "2024-07-01T14:31:50Z",
+     "topic": "terminal"
+    },
+    "fork": {
+     "full_name": "jmagly/carbonyl",
+     "stars": 37,
+     "open_issues": 0,
+     "created_at": "2026-04-02T01:40:13Z",
+     "pushed_at": "2026-09-04T05:06:25Z",
+     "ahead_by": 464,
+     "behind_by": 0,
+     "release": {
+      "tag": "v0.2.0-alpha.18",
+      "published_at": "2026-07-05T14:27:04.000Z"
+     }
+    },
+    "points_here": false,
+    "checked_at": "2026-11-21T02:13:27.654Z"
    }
   },
   "filebrowser/filebrowser": {
@@ -266,6 +370,30 @@
     "checked_at": "2026-11-21T01:44:22.686Z"
    }
   },
+  "googlecontainertools/kaniko": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": {
+    "upstream": {
+     "full_name": "GoogleContainerTools/kaniko",
+     "stars": 15745,
+     "archived": true,
+     "pushed_at": "2025-06-03T14:36:10Z",
+     "topic": "docker"
+    },
+    "fork": {
+     "full_name": "coder/kaniko",
+     "stars": 5,
+     "open_issues": 7,
+     "created_at": "2023-03-28T15:30:16Z",
+     "pushed_at": "2026-11-14T02:04:36Z",
+     "ahead_by": 187,
+     "behind_by": 74,
+     "release": null
+    },
+    "points_here": false,
+    "checked_at": "2026-11-21T02:13:27.654Z"
+   }
+  },
   "herrbischoff/awesome-macos-command-line": {
    "at": "2026-11-21T01:44:22.686Z",
    "item": null
@@ -290,8 +418,51 @@
    "at": "2026-11-21T01:44:22.686Z",
    "item": null
   },
+  "loft-sh/devpod": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": {
+    "upstream": {
+     "full_name": "loft-sh/devpod",
+     "stars": 15334,
+     "archived": false,
+     "pushed_at": "2025-11-14T06:33:38Z",
+     "topic": "docker"
+    },
+    "fork": {
+     "full_name": "skevetter/devpod",
+     "stars": 214,
+     "open_issues": 26,
+     "created_at": "2025-10-14T16:21:34Z",
+     "pushed_at": "2026-10-28T19:16:53Z",
+     "ahead_by": 615,
+     "behind_by": 0,
+     "release": {
+      "tag": "v0.26.3",
+      "published_at": "2026-10-02T20:19:33.000Z"
+     }
+    },
+    "points_here": false,
+    "checked_at": "2026-11-21T02:13:27.654Z"
+   }
+  },
   "mikeroyal/self-hosting-guide": {
    "at": "2026-11-21T01:55:37.868Z",
+   "item": null
+  },
+  "nvidia/nvidia-docker": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": null
+  },
+  "plandex-ai/plandex": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": null
+  },
+  "railsware/upterm": {
+   "at": "2026-11-21T02:13:27.654Z",
+   "item": null
+  },
+  "rigellute/spotify-tui": {
+   "at": "2026-11-21T02:13:27.654Z",
    "item": null
   },
   "sickcodes/docker-osx": {
@@ -332,15 +503,15 @@
      "full_name": "vercel/pkg",
      "stars": 24294,
      "archived": true,
-     "pushed_at": "2024-01-03T01:38:16Z",
+     "pushed_at": "2024-01-03T01:38:16.000Z",
      "topic": "cli"
     },
     "fork": {
      "full_name": "yao-pkg/pkg",
      "stars": 934,
      "open_issues": 56,
-     "created_at": "2023-10-03T06:33:58Z",
-     "pushed_at": "2026-11-18T16:23:35Z",
+     "created_at": "2023-10-03T06:33:58.000Z",
+     "pushed_at": "2026-11-18T16:23:35.000Z",
      "ahead_by": 217,
      "behind_by": 1,
      "release": {
@@ -358,6 +529,10 @@
   },
   "wsargent/docker-cheat-sheet": {
    "at": "2026-11-21T01:55:37.868Z",
+   "item": null
+  },
+  "yudai/gotty": {
+   "at": "2026-11-21T02:13:27.654Z",
    "item": null
   }
  }

@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-21",
   "mode": "contribute",
-  "generated_at": "2026-11-21T02:04:34.925Z",
+  "generated_at": "2026-11-21T02:22:18.028Z",
   "items": [
     {
       "full_name": "bobtekkk/aqara-fp400-zone-card",
@@ -1513,8 +1513,8 @@
       "via_topics": [
         "proxmox"
       ],
-      "created_at": "2026-01-07T17:16:44Z",
-      "pushed_at": "2026-11-17T18:07:08Z",
+      "created_at": "2026-01-07T17:16:44.000Z",
+      "pushed_at": "2026-11-17T18:07:08.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 8,
@@ -1594,8 +1594,8 @@
       "via_topics": [
         "terminal"
       ],
-      "created_at": "2026-02-09T23:12:48Z",
-      "pushed_at": "2026-11-06T23:44:17Z",
+      "created_at": "2026-02-09T23:12:48.000Z",
+      "pushed_at": "2026-11-06T23:44:17.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 19,
@@ -1679,8 +1679,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-04-08T06:06:42Z",
-      "pushed_at": "2026-11-18T21:44:26Z",
+      "created_at": "2026-04-08T06:06:42.000Z",
+      "pushed_at": "2026-11-18T21:44:26.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 6,
@@ -1753,8 +1753,8 @@
         "medicare"
       ],
       "via_topics": [],
-      "created_at": "2019-08-22T18:41:16Z",
-      "pushed_at": "2026-11-21T00:31:01Z",
+      "created_at": "2019-08-22T18:41:16.000Z",
+      "pushed_at": "2026-11-21T00:31:01.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 57,
@@ -1837,8 +1837,8 @@
       "via_topics": [
         "proxmox"
       ],
-      "created_at": "2026-01-11T00:58:36Z",
-      "pushed_at": "2026-11-11T01:43:29Z",
+      "created_at": "2026-01-11T00:58:36.000Z",
+      "pushed_at": "2026-11-11T01:43:29.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -1914,8 +1914,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2025-12-14T11:56:21Z",
-      "pushed_at": "2026-11-15T13:18:36Z",
+      "created_at": "2025-12-14T11:56:21.000Z",
+      "pushed_at": "2026-11-15T13:18:36.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -1995,8 +1995,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2025-12-26T16:26:14Z",
-      "pushed_at": "2026-11-20T22:55:19Z",
+      "created_at": "2025-12-26T16:26:14.000Z",
+      "pushed_at": "2026-11-20T22:55:19.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2078,8 +2078,8 @@
       "via_topics": [
         "ai-agents"
       ],
-      "created_at": "2025-12-03T01:40:05Z",
-      "pushed_at": "2026-11-21T01:42:50Z",
+      "created_at": "2025-12-03T01:40:05.000Z",
+      "pushed_at": "2026-11-21T01:42:50.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2160,8 +2160,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-02-10T13:55:02Z",
-      "pushed_at": "2026-06-17T15:30:34Z",
+      "created_at": "2026-02-10T13:55:02.000Z",
+      "pushed_at": "2026-06-17T15:30:34.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2232,8 +2232,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2026-03-01T20:26:28Z",
-      "pushed_at": "2026-10-28T20:16:51Z",
+      "created_at": "2026-03-01T20:26:28.000Z",
+      "pushed_at": "2026-10-28T20:16:51.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2317,8 +2317,8 @@
         "security"
       ],
       "via_topics": [],
-      "created_at": "2022-05-13T02:51:40Z",
-      "pushed_at": "2026-11-20T22:03:21Z",
+      "created_at": "2022-05-13T02:51:40.000Z",
+      "pushed_at": "2026-11-20T22:03:21.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2383,8 +2383,8 @@
       "via_topics": [
         "dicom"
       ],
-      "created_at": "2026-09-18T09:59:41Z",
-      "pushed_at": "2026-11-20T11:24:45Z",
+      "created_at": "2026-09-18T09:59:41.000Z",
+      "pushed_at": "2026-11-20T11:24:45.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2447,8 +2447,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2026-09-05T20:52:25Z",
-      "pushed_at": "2026-10-24T21:39:41Z",
+      "created_at": "2026-09-05T20:52:25.000Z",
+      "pushed_at": "2026-10-24T21:39:41.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2502,8 +2502,8 @@
       ],
       "topics": [],
       "via_topics": [],
-      "created_at": "2026-10-25T02:49:56Z",
-      "pushed_at": "2026-11-08T23:09:36Z",
+      "created_at": "2026-10-25T02:49:56.000Z",
+      "pushed_at": "2026-11-08T23:09:36.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -2570,8 +2570,8 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-07-13T22:00:13Z",
-      "pushed_at": "2026-11-20T23:40:05Z",
+      "created_at": "2026-07-13T22:00:13.000Z",
+      "pushed_at": "2026-11-20T23:40:05.000Z",
       "lang": "en",
       "health": null
     },
@@ -2636,8 +2636,8 @@
       "via_topics": [
         "self-hosted"
       ],
-      "created_at": "2026-03-27T04:34:30Z",
-      "pushed_at": "2026-11-20T17:14:57Z",
+      "created_at": "2026-03-27T04:34:30.000Z",
+      "pushed_at": "2026-11-20T17:14:57.000Z",
       "lang": "en",
       "health": null
     },
@@ -2682,8 +2682,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-05-22T11:24:57Z",
-      "pushed_at": "2026-11-20T22:54:46Z",
+      "created_at": "2026-05-22T11:24:57.000Z",
+      "pushed_at": "2026-11-20T22:54:46.000Z",
       "lang": "en",
       "health": null
     },
@@ -2744,8 +2744,8 @@
       "via_topics": [
         "fhir"
       ],
-      "created_at": "2026-08-14T09:59:31Z",
-      "pushed_at": "2026-11-19T09:43:58Z",
+      "created_at": "2026-08-14T09:59:31.000Z",
+      "pushed_at": "2026-11-19T09:43:58.000Z",
       "lang": "en",
       "health": null
     },
@@ -2796,8 +2796,8 @@
       "via_topics": [
         "mcp"
       ],
-      "created_at": "2026-04-01T09:52:20Z",
-      "pushed_at": "2026-11-20T11:05:18Z",
+      "created_at": "2026-04-01T09:52:20.000Z",
+      "pushed_at": "2026-11-20T11:05:18.000Z",
       "lang": "en",
       "health": null
     },
@@ -2854,8 +2854,1349 @@
       "via_topics": [
         "home-assistant"
       ],
-      "created_at": "2026-05-01T09:49:22Z",
-      "pushed_at": "2026-11-21T01:18:12Z",
+      "created_at": "2026-05-01T09:49:22.000Z",
+      "pushed_at": "2026-11-21T01:18:12.000Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "ykdojo/claude-code-tips",
+      "url": "https://github.com/ykdojo/claude-code-tips",
+      "score": 19.3,
+      "stars": 10365,
+      "language": "HTML",
+      "description": "45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for everyday dev workflows.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, cli)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 5 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.3,
+          "text": "answered 3 of 4 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.8,
+          "text": "~869 stars a month (new, 12 months ago, top 64% in cli)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 56d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.26.39 3 months ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "agentic",
+        "agentic-ai",
+        "agentic-coding",
+        "agentic-workflow",
+        "ai",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "cli",
+        "developer-tools",
+        "productivity",
+        "tips-and-tricks"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2025-11-28T00:52:00Z",
+      "pushed_at": "2026-09-25T03:50:54Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 5,
+        "issue_response": {
+          "answered": 3,
+          "total": 4
+        }
+      }
+    },
+    {
+      "full_name": "NovaMap-Health/engine",
+      "url": "https://github.com/NovaMap-Health/engine",
+      "score": 19.3,
+      "stars": 0,
+      "language": "Java",
+      "description": "An open source fork of the now closed-source Mirth Connect. Installers for the engine are in this repository.",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 7.6,
+          "text": "live fork of OpenIntegrationEngine/engine: 13 commits ahead, 29 behind"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 4,
+          "text": "merged 4 outside PRs in 90 days"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 4 of 4 recent issues"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 11d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MPL-2.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v4.7.0.3 18d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2026-09-28T13:57:23Z",
+      "pushed_at": "2026-11-09T11:07:29Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 4,
+        "issue_response": {
+          "answered": 4,
+          "total": 4
+        }
+      }
+    },
+    {
+      "full_name": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "score": 18.1,
+      "stars": 13638,
+      "language": "Python",
+      "description": "The open-source agent for CI/CD reliability.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 23 outside PRs in 90 days"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.6,
+          "text": "~1311 stars a month (new, 10 months ago, top 49% in cli)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.1.2026.11.21 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.5,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "alerting",
+        "ci-cd",
+        "cli",
+        "datadog",
+        "devops",
+        "gitlab-ci",
+        "grafana",
+        "incident-management",
+        "llm",
+        "observability",
+        "ollama",
+        "remediation",
+        "root-cause-analysis",
+        "site-reliability-engineering",
+        "slack"
+      ],
+      "via_topics": [
+        "cli"
+      ],
+      "created_at": "2026-01-13T00:04:47Z",
+      "pushed_at": "2026-11-21T00:53:26Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 23,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "HasteHealth/HasteHealth",
+      "url": "https://github.com/HasteHealth/HasteHealth",
+      "score": 17.9,
+      "stars": 87,
+      "language": "Rust",
+      "description": "The Open-Source FHIR Server for AI-Native Health Apps",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "outside_prs",
+          "points": 4,
+          "text": "merged 4 outside PRs in 90 days"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.2,
+          "text": "like your stars: fhir, healthcare"
+        },
+        {
+          "rule": "stars",
+          "points": 1.4,
+          "text": "87 stars, top 65% in fhir"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.3,
+          "text": "answered 3 of 7 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released 0.130.13 2d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "fhir",
+        "fhir-client",
+        "fhir-resources",
+        "fhir-server",
+        "healthcare",
+        "identity-management",
+        "mcp-server",
+        "mcp-tools",
+        "rust"
+      ],
+      "via_topics": [],
+      "created_at": "2025-07-21T20:40:22Z",
+      "pushed_at": "2026-11-19T01:20:42Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 4,
+        "issue_response": {
+          "answered": 3,
+          "total": 7
+        }
+      }
+    },
+    {
+      "full_name": "regent-vcs/re_gent",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "score": 17.4,
+      "stars": 809,
+      "language": "Go",
+      "description": "Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 9d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.9,
+          "text": "~119 stars a month (new, 7 months ago, top 62% in devtools)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.8,
+          "text": "answered 6 of 10 recent issues"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "1 good first issue"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 1,
+          "text": "merged 1 outside PR in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        },
+        {
+          "rule": "release",
+          "points": 0.5,
+          "text": "released v1.1.0 6 months ago"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "claude-code",
+        "developer-tools",
+        "devtools",
+        "golang",
+        "version-control"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-04-30T09:09:41Z",
+      "pushed_at": "2026-11-11T08:07:32Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 1,
+        "issue_response": {
+          "answered": 6,
+          "total": 10
+        }
+      }
+    },
+    {
+      "full_name": "3dg1luk43/ha_washdata",
+      "url": "https://github.com/3dg1luk43/ha_washdata",
+      "score": 15.3,
+      "stars": 1495,
+      "language": "Python",
+      "description": "Home Assistant integration for smart-plug appliance monitoring: detects cycles, matches programs, estimates time remaining. Supports washing machines, dryers, dishwashers and more.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 3.1,
+          "text": "~129 stars a month (new, 12 months ago, top 39% in home-assistant)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic home-assistant"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2.2,
+          "text": "answered 19 of 26 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.6.0 8d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "appliance-monitoring",
+        "automation",
+        "custom-components",
+        "dishwasher",
+        "dryer",
+        "energy-monitoring",
+        "hacs",
+        "home-assistant",
+        "iot",
+        "numpy",
+        "power-profile",
+        "smart-plug",
+        "time-remaining",
+        "washing-machine"
+      ],
+      "via_topics": [
+        "home-assistant"
+      ],
+      "created_at": "2025-12-07T13:47:54Z",
+      "pushed_at": "2026-11-20T22:10:12Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 19,
+          "total": 26
+        }
+      }
+    },
+    {
+      "full_name": "StanfordBDHG/HealthKitOnFHIR",
+      "url": "https://github.com/StanfordBDHG/HealthKitOnFHIR",
+      "score": 15.1,
+      "stars": 30,
+      "language": "Swift",
+      "description": "Converts HealthKit data to HL7 FHIR resources",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.8,
+          "text": "like your stars: hl7, fhir"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2,
+          "text": "answered 4 of 6 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released 1.2.3 2 months ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "stars",
+          "points": 0.3,
+          "text": "30 stars, top 92% in fhir"
+        }
+      ],
+      "topics": [
+        "fhir",
+        "healthkit",
+        "stanford",
+        "swift"
+      ],
+      "via_topics": [],
+      "created_at": "2022-11-23T18:19:55Z",
+      "pushed_at": "2026-11-17T08:27:13Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 4,
+          "total": 6
+        }
+      }
+    },
+    {
+      "full_name": "jtenniswood/espcontrol",
+      "url": "https://github.com/jtenniswood/espcontrol",
+      "score": 14.1,
+      "stars": 1184,
+      "language": "C++",
+      "description": "Esphome based smart home control panel",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 3.2,
+          "text": "~147 stars a month (new, 8 months ago, top 37% in home-assistant)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic home-assistant"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.9,
+          "text": "answered 5 of 8 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.15.0 4d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "esp32",
+        "home-assistant"
+      ],
+      "via_topics": [
+        "home-assistant"
+      ],
+      "created_at": "2026-03-23T09:27:08Z",
+      "pushed_at": "2026-11-19T14:15:54Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 5,
+          "total": 8
+        }
+      }
+    },
+    {
+      "full_name": "carletz/DOMIX-Open-Source-Modular-Home-Automation-System",
+      "url": "https://github.com/carletz/DOMIX-Open-Source-Modular-Home-Automation-System",
+      "score": 13.9,
+      "stars": 47,
+      "language": "HTML",
+      "description": "Open-source modular DIN-rail home automation and sensor. ESP32-S3 core with Ethernet, Zigbee, RS485. 9 I/O modules via I2C: relays, contacts, energy meter, sprinklers. ESPHome-based, integrates Home Assistant. Low-voltage, cabinet-oriented. Built for learning & customization.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (home-assistant, zigbee)"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 3 of 3 recent issues"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.2,
+          "text": "like your stars: home-automation"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1,
+          "text": "~5 stars a month (new, 9 months ago, top 80% in zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 3 months ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "building-automation",
+        "din-rail",
+        "diy-electronics",
+        "domotic",
+        "easyeda",
+        "energy-monitoring",
+        "esp32",
+        "esphome",
+        "ethernet",
+        "home-assistant",
+        "home-automation",
+        "iot",
+        "maker",
+        "modular-system",
+        "open-hardware",
+        "oshwlab",
+        "relay-control",
+        "smart-home",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-02-15T10:40:21Z",
+      "pushed_at": "2026-08-28T13:32:25Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 3,
+          "total": 3
+        }
+      }
+    },
+    {
+      "full_name": "qf-studio/pilot",
+      "url": "https://github.com/qf-studio/pilot",
+      "score": 13.6,
+      "stars": 739,
+      "language": "Go",
+      "description": "AI that ships your tickets.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (claude-code, devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v2.325.0 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 0.6,
+          "text": "~74 stars a month (new, 10 months ago, top 89% in devtools)"
+        }
+      ],
+      "topics": [
+        "agentic",
+        "agentic-workflow",
+        "ai-agent",
+        "ai-bots",
+        "ai-tools",
+        "autonomous-coding",
+        "claude",
+        "claude-code",
+        "dev-bot",
+        "devtools",
+        "open-code"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-01-26T11:04:09Z",
+      "pushed_at": "2026-11-20T20:54:31Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "FHIR/genomics-operations",
+      "url": "https://github.com/FHIR/genomics-operations",
+      "score": 12.2,
+      "stars": 34,
+      "language": "TypeScript",
+      "description": "A public reference implementation of HL7 FHIR Genomics Operations (http://build.fhir.org/ig/HL7/genomics-reporting/operations.html)",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic fhir"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 2.8,
+          "text": "like your stars: hl7, fhir"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "stars",
+          "points": 0.4,
+          "text": "34 stars, top 90% in fhir"
+        }
+      ],
+      "topics": [
+        "connexion",
+        "fhir",
+        "flask",
+        "genomics",
+        "heroku",
+        "mongodb",
+        "open-api-v3",
+        "pytest",
+        "python3"
+      ],
+      "via_topics": [],
+      "created_at": "2022-04-20T17:03:48Z",
+      "pushed_at": "2026-11-20T15:55:41Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "runvendo/vendo",
+      "url": "https://github.com/runvendo/vendo",
+      "score": 12.1,
+      "stars": 640,
+      "language": "TypeScript",
+      "description": "Embedded agents your customers use to automate work, build views, and connect their tools.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (ai-agents, devtools)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.1,
+          "text": "~134 stars a month (new, 5 months ago, top 59% in devtools)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 37d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "automation",
+        "devtools",
+        "embedded-ai",
+        "generative-ui",
+        "llm",
+        "nextjs",
+        "react",
+        "sdk",
+        "typescript"
+      ],
+      "via_topics": [
+        "devtools"
+      ],
+      "created_at": "2026-06-30T06:42:46Z",
+      "pushed_at": "2026-10-14T05:12:33Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 1,
+          "total": 2
+        }
+      }
+    },
+    {
+      "full_name": "cedricziel/ha-matter-binding-helper",
+      "url": "https://github.com/cedricziel/ha-matter-binding-helper",
+      "score": 12,
+      "stars": 83,
+      "language": "TypeScript",
+      "description": "A binding helper for matter",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "star_velocity",
+          "points": 3.3,
+          "text": "~7 stars a month (new, 12 months ago, top 35% in matter)"
+        },
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic matter"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.35.12 27d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "homeassistant",
+        "homeassistant-custom-component",
+        "homeassistant-integration",
+        "matter"
+      ],
+      "via_topics": [
+        "matter"
+      ],
+      "created_at": "2025-11-21T20:24:07Z",
+      "pushed_at": "2026-11-18T19:24:22Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "JasonYANG170/esp-dev-skill",
+      "url": "https://github.com/JasonYANG170/esp-dev-skill",
+      "score": 10.8,
+      "stars": 32,
+      "language": "Python",
+      "description": "Espressif 全生态统一 AI 技能。Unified AI Skill for the entire Espressif ecosystem.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (matter, zigbee)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.1,
+          "text": "~6 stars a month (new, 5 months ago, top 39% in matter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 1,
+          "text": "pushed 49d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: README, description"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "ai-skill",
+        "embedded-systems",
+        "esp-idf",
+        "esp32",
+        "esp8266",
+        "espressif",
+        "iot",
+        "matter",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee",
+        "matter"
+      ],
+      "created_at": "2026-06-24T11:35:53Z",
+      "pushed_at": "2026-10-02T13:33:31Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "CloakHQ/CloakBrowser",
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "score": 10,
+      "stars": 33002,
+      "language": "Python",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic ai-agents"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3,
+          "text": "~3653 stars a month (new, 9 months ago, top 41% in ai-agents)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "anti-detect",
+        "antidetect-browser",
+        "bot-detection",
+        "browser-automation",
+        "captcha-bypass",
+        "chromium",
+        "cloudflare",
+        "cloudflare-bypass",
+        "fingerprint",
+        "headless-browser",
+        "playwright",
+        "puppeteer",
+        "python",
+        "recaptcha",
+        "selenium",
+        "stealth-browser",
+        "undetected",
+        "web-scraping",
+        "webscraping"
+      ],
+      "via_topics": [
+        "ai-agents"
+      ],
+      "created_at": "2026-02-22T08:09:57Z",
+      "pushed_at": "2026-11-20T04:58:24Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "score": 10,
+      "stars": 28470,
+      "language": "TypeScript",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic mcp"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3,
+          "text": "~3211 stars a month (new, 9 months ago, top 40% in mcp)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "backlink-analysis",
+        "google-search-console-mcp",
+        "keyword-research",
+        "mcp",
+        "seo",
+        "seo-agent",
+        "seo-audit",
+        "seo-automation",
+        "seo-skills",
+        "seo-tools",
+        "site-audit"
+      ],
+      "via_topics": [
+        "mcp"
+      ],
+      "created_at": "2026-02-27T18:57:41Z",
+      "pushed_at": "2026-11-20T05:03:48Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "scavenrage/PCIe-PC-Power-Control-ESP32-H2",
+      "url": "https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2",
+      "score": 10,
+      "stars": 91,
+      "language": "C",
+      "description": "PCIe card with ESP32-H2 for remote PC power-on and reset via Home Assistant/Zigbee — powered from the PCIe 3.3Vaux rail, no extra cables.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic zigbee"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3,
+          "text": "~25 stars a month (new, 4 months ago, top 40% in zigbee)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "esp32-h2",
+        "homeassistant",
+        "pci-e",
+        "powercontrol",
+        "zigbee"
+      ],
+      "via_topics": [
+        "zigbee"
+      ],
+      "created_at": "2026-08-02T10:06:03Z",
+      "pushed_at": "2026-11-18T13:05:36Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "rwth-imi/FRAMED",
+      "url": "https://github.com/rwth-imi/FRAMED",
+      "score": 10,
+      "stars": 10,
+      "language": "Java",
+      "description": "An extensible Java Framework for the implementation of multi-rate and multi-device medical event data stream processing.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic hl7"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.5,
+          "text": "~1 stars a month (new, 10 months ago, top 70% in hl7)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: hl7"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "biosignals",
+        "clinical-decision-support",
+        "event-driven",
+        "event-driven-architecture",
+        "fair4rs",
+        "hl7",
+        "hl7v2",
+        "java",
+        "medibus",
+        "medical-devices",
+        "medical-informatics",
+        "research-software",
+        "stream-processing"
+      ],
+      "via_topics": [
+        "hl7"
+      ],
+      "created_at": "2026-02-05T08:45:57Z",
+      "pushed_at": "2026-11-19T15:08:29Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "gsxryan/ProxmoxVE",
+      "url": "https://github.com/gsxryan/ProxmoxVE",
+      "score": 10,
+      "stars": 0,
+      "language": "Shell",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 6,
+          "text": "live fork of community-scripts/ProxmoxVE: 7 commits ahead, 43 behind"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2026-11-19T19:03:00Z",
+      "pushed_at": "2026-11-20T02:15:19Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "nicosandller/easy-floorplan",
+      "url": "https://github.com/nicosandller/easy-floorplan",
+      "score": 9.9,
+      "stars": 689,
+      "language": "TypeScript",
+      "description": "Interactive Home Assistant floorplan card with a visual drag-and-drop editor for walls, doors, furniture, text and device controls",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 3,
+          "text": "your topic home-assistant"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.9,
+          "text": "~113 stars a month (new, 6 months ago, top 42% in home-assistant)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "custom-card",
+        "floorplan",
+        "hacs",
+        "home-assistant",
+        "homeassistant",
+        "lovelace",
+        "lovelace-card"
+      ],
+      "via_topics": [
+        "home-assistant"
+      ],
+      "created_at": "2026-05-21T05:05:04Z",
+      "pushed_at": "2026-11-18T01:04:46Z",
       "lang": "en",
       "health": null
     }
