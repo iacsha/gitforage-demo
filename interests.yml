@@ -101,40 +101,40 @@ site:
       # The best 25 candidates per topic are kept (fewer if catalog.json would get too big).
       per_topic: 25
       groups:
-        - name: Healthcare interoperability
-          topics: [hl7, fhir, mirth, dicom, ehr, openehr, medical-imaging, pacs, healthcare, interoperability]
-        - name: Self-hosting and homelab
-          topics: [proxmox, self-hosted, selfhosted, homelab, docker, docker-compose, kubernetes, wireguard, backup, monitoring]
-        - name: Home automation
-          topics: [home-assistant, zigbee, matter, home-automation, esphome, mqtt, smart-home, iot]
-        - name: Developer tools and the terminal
-          topics: [cli, terminal, devtools, tui, neovim, git, shell, developer-tools, vscode-extension]
         - name: AI agents and MCP
           topics: [claude-code, mcp, ai-agents, mcp-server, model-context-protocol, llm, rag, ollama, agentic-ai]
         - name: Web frameworks
           topics: [react, nextjs, vue, svelte, astro, htmx, tailwindcss, django, fastapi]
+        - name: Developer tools and the terminal
+          topics: [cli, terminal, devtools, tui, neovim, git, shell, developer-tools, vscode-extension]
         - name: Databases
           topics: [postgresql, sqlite, database, redis, duckdb, vector-database, orm]
-        - name: Security
-          topics: [security, cybersecurity, privacy, encryption, authentication, devsecops, vulnerability-scanner]
         - name: Data and machine learning
           topics: [machine-learning, deep-learning, data-science, pytorch, computer-vision, data-engineering, nlp]
+        - name: Security
+          topics: [security, cybersecurity, privacy, encryption, authentication, devsecops, vulnerability-scanner]
+        - name: Rust, Go and TypeScript
+          topics: [rust, golang, typescript, webassembly, deno, bun, nodejs]
         - name: Mobile
           topics: [android, ios, flutter, react-native, kotlin, swiftui, jetpack-compose]
         - name: Games and game dev
           topics: [gamedev, game-engine, godot, bevy, emulator, pixel-art]
-        - name: Rust, Go and TypeScript
-          topics: [rust, golang, typescript, webassembly, deno, bun, nodejs]
+        - name: Self-hosting and homelab
+          topics: [proxmox, self-hosted, selfhosted, homelab, docker, docker-compose, kubernetes, wireguard, backup, monitoring]
+        - name: Home automation
+          topics: [home-assistant, zigbee, matter, home-automation, esphome, mqtt, smart-home, iot]
+        - name: Healthcare interoperability
+          topics: [hl7, fhir, mirth, dicom, ehr, openehr, medical-imaging, pacs, healthcare, interoperability]
     packs:
-      - { id: healthcare-dev, name: Healthcare dev, topics: [hl7, fhir, dicom, mirth, ehr, interoperability] }
-      - { id: homelab, name: Homelab, topics: [proxmox, self-hosted, homelab, docker, wireguard, backup] }
-      - { id: smart-home, name: Smart home, topics: [home-assistant, zigbee, matter, esphome, mqtt] }
       - { id: ai-builder, name: AI builder, topics: [claude-code, mcp, ai-agents, llm, rag, ollama] }
-      - { id: terminal, name: Terminal life, topics: [cli, terminal, tui, neovim, shell, git] }
       - { id: web-dev, name: Web dev, topics: [react, nextjs, svelte, tailwindcss, htmx, typescript] }
       - { id: backend, name: Backend, topics: [postgresql, redis, sqlite, fastapi, django, docker] }
       - { id: data-ml, name: Data and ML, topics: [machine-learning, data-science, pytorch, duckdb, data-engineering] }
+      - { id: terminal, name: Terminal life, topics: [cli, terminal, tui, neovim, shell, git] }
       - { id: security, name: Security, topics: [security, cybersecurity, privacy, encryption, authentication] }
+      - { id: rust-go, name: Rust and Go, topics: [rust, golang, webassembly, cli] }
       - { id: mobile, name: Mobile apps, topics: [android, ios, flutter, kotlin, jetpack-compose] }
       - { id: gamedev, name: Game dev, topics: [gamedev, godot, bevy, game-engine, pixel-art] }
-      - { id: rust-go, name: Rust and Go, topics: [rust, golang, webassembly, cli] }
+      - { id: homelab, name: Homelab, topics: [proxmox, self-hosted, homelab, docker, wireguard, backup] }
+      - { id: smart-home, name: Smart home, topics: [home-assistant, zigbee, matter, esphome, mqtt] }
+      - { id: healthcare-dev, name: Healthcare dev, topics: [hl7, fhir, dicom, mirth, ehr, interoperability] }
