@@ -2,7 +2,7 @@
   "version": 1,
   "date": "2026-11-21",
   "mode": "contribute",
-  "generated_at": "2026-11-21T02:22:18.028Z",
+  "generated_at": "2026-11-21T02:32:20.600Z",
   "items": [
     {
       "full_name": "bobtekkk/aqara-fp400-zone-card",
@@ -2933,8 +2933,8 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2025-11-28T00:52:00Z",
-      "pushed_at": "2026-09-25T03:50:54Z",
+      "created_at": "2025-11-28T00:52:00.000Z",
+      "pushed_at": "2026-09-25T03:50:54.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 5,
@@ -2993,8 +2993,8 @@
       ],
       "topics": [],
       "via_topics": [],
-      "created_at": "2026-09-28T13:57:23Z",
-      "pushed_at": "2026-11-09T11:07:29Z",
+      "created_at": "2026-09-28T13:57:23.000Z",
+      "pushed_at": "2026-11-09T11:07:29.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 4,
@@ -3081,8 +3081,8 @@
       "via_topics": [
         "cli"
       ],
-      "created_at": "2026-01-13T00:04:47Z",
-      "pushed_at": "2026-11-21T00:53:26Z",
+      "created_at": "2026-01-13T00:04:47.000Z",
+      "pushed_at": "2026-11-21T00:53:26.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 23,
@@ -3161,8 +3161,8 @@
         "rust"
       ],
       "via_topics": [],
-      "created_at": "2025-07-21T20:40:22Z",
-      "pushed_at": "2026-11-19T01:20:42Z",
+      "created_at": "2025-07-21T20:40:22.000Z",
+      "pushed_at": "2026-11-19T01:20:42.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 4,
@@ -3245,8 +3245,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-04-30T09:09:41Z",
-      "pushed_at": "2026-11-11T08:07:32Z",
+      "created_at": "2026-04-30T09:09:41.000Z",
+      "pushed_at": "2026-11-11T08:07:32.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 1,
@@ -3327,8 +3327,8 @@
       "via_topics": [
         "home-assistant"
       ],
-      "created_at": "2025-12-07T13:47:54Z",
-      "pushed_at": "2026-11-20T22:10:12Z",
+      "created_at": "2025-12-07T13:47:54.000Z",
+      "pushed_at": "2026-11-20T22:10:12.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3402,8 +3402,8 @@
         "swift"
       ],
       "via_topics": [],
-      "created_at": "2022-11-23T18:19:55Z",
-      "pushed_at": "2026-11-17T08:27:13Z",
+      "created_at": "2022-11-23T18:19:55.000Z",
+      "pushed_at": "2026-11-17T08:27:13.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3467,8 +3467,8 @@
       "via_topics": [
         "home-assistant"
       ],
-      "created_at": "2026-03-23T09:27:08Z",
-      "pushed_at": "2026-11-19T14:15:54Z",
+      "created_at": "2026-03-23T09:27:08.000Z",
+      "pushed_at": "2026-11-19T14:15:54.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3549,8 +3549,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-02-15T10:40:21Z",
-      "pushed_at": "2026-08-28T13:32:25Z",
+      "created_at": "2026-02-15T10:40:21.000Z",
+      "pushed_at": "2026-08-28T13:32:25.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3623,8 +3623,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-01-26T11:04:09Z",
-      "pushed_at": "2026-11-20T20:54:31Z",
+      "created_at": "2026-01-26T11:04:09.000Z",
+      "pushed_at": "2026-11-20T20:54:31.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3693,8 +3693,8 @@
         "python3"
       ],
       "via_topics": [],
-      "created_at": "2022-04-20T17:03:48Z",
-      "pushed_at": "2026-11-20T15:55:41Z",
+      "created_at": "2022-04-20T17:03:48.000Z",
+      "pushed_at": "2026-11-20T15:55:41.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3763,8 +3763,8 @@
       "via_topics": [
         "devtools"
       ],
-      "created_at": "2026-06-30T06:42:46Z",
-      "pushed_at": "2026-10-14T05:12:33Z",
+      "created_at": "2026-06-30T06:42:46.000Z",
+      "pushed_at": "2026-10-14T05:12:33.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3825,8 +3825,8 @@
       "via_topics": [
         "matter"
       ],
-      "created_at": "2025-11-21T20:24:07Z",
-      "pushed_at": "2026-11-18T19:24:22Z",
+      "created_at": "2025-11-21T20:24:07.000Z",
+      "pushed_at": "2026-11-18T19:24:22.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3884,8 +3884,8 @@
         "zigbee",
         "matter"
       ],
-      "created_at": "2026-06-24T11:35:53Z",
-      "pushed_at": "2026-10-02T13:33:31Z",
+      "created_at": "2026-06-24T11:35:53.000Z",
+      "pushed_at": "2026-10-02T13:33:31.000Z",
       "lang": "en",
       "health": {
         "outside_prs_90d": 0,
@@ -3952,8 +3952,8 @@
       "via_topics": [
         "ai-agents"
       ],
-      "created_at": "2026-02-22T08:09:57Z",
-      "pushed_at": "2026-11-20T04:58:24Z",
+      "created_at": "2026-02-22T08:09:57.000Z",
+      "pushed_at": "2026-11-20T04:58:24.000Z",
       "lang": "en",
       "health": null
     },
@@ -4005,8 +4005,8 @@
       "via_topics": [
         "mcp"
       ],
-      "created_at": "2026-02-27T18:57:41Z",
-      "pushed_at": "2026-11-20T05:03:48Z",
+      "created_at": "2026-02-27T18:57:41.000Z",
+      "pushed_at": "2026-11-20T05:03:48.000Z",
       "lang": "en",
       "health": null
     },
@@ -4052,8 +4052,8 @@
       "via_topics": [
         "zigbee"
       ],
-      "created_at": "2026-08-02T10:06:03Z",
-      "pushed_at": "2026-11-18T13:05:36Z",
+      "created_at": "2026-08-02T10:06:03.000Z",
+      "pushed_at": "2026-11-18T13:05:36.000Z",
       "lang": "en",
       "health": null
     },
@@ -4112,8 +4112,8 @@
       "via_topics": [
         "hl7"
       ],
-      "created_at": "2026-02-05T08:45:57Z",
-      "pushed_at": "2026-11-19T15:08:29Z",
+      "created_at": "2026-02-05T08:45:57.000Z",
+      "pushed_at": "2026-11-19T15:08:29.000Z",
       "lang": "en",
       "health": null
     },
@@ -4146,8 +4146,8 @@
       ],
       "topics": [],
       "via_topics": [],
-      "created_at": "2026-11-19T19:03:00Z",
-      "pushed_at": "2026-11-20T02:15:19Z",
+      "created_at": "2026-11-19T19:03:00.000Z",
+      "pushed_at": "2026-11-20T02:15:19.000Z",
       "lang": "und",
       "health": null
     },
@@ -4195,8 +4195,2142 @@
       "via_topics": [
         "home-assistant"
       ],
-      "created_at": "2026-05-21T05:05:04Z",
-      "pushed_at": "2026-11-18T01:04:46Z",
+      "created_at": "2026-05-21T05:05:04.000Z",
+      "pushed_at": "2026-11-18T01:04:46.000Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "getopenpost/openpost",
+      "url": "https://github.com/getopenpost/openpost",
+      "score": 27.9,
+      "stars": 939,
+      "language": "TypeScript",
+      "description": "Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (golang, self-hosted, svelte)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 20 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 13 of 13 recent issues"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.4,
+          "text": "~115 stars a month (new, 8 months ago, top 52% in svelte)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v7.42.2 4d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "automation",
+        "content-creation",
+        "golang",
+        "mcp-server",
+        "self-hosted",
+        "social-media",
+        "social-media-automation",
+        "social-media-scheduler",
+        "svelte",
+        "sveltekit"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-03-21T11:12:13Z",
+      "pushed_at": "2026-11-20T13:31:18Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 20,
+        "issue_response": {
+          "answered": 13,
+          "total": 13
+        }
+      }
+    },
+    {
+      "full_name": "nano-muse/nanoMuse",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "score": 27.6,
+      "stars": 3619,
+      "language": "Swift",
+      "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (android, llm, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 95 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.6,
+          "text": "~1872 stars a month (new, 58d ago, top 29% in android)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 5 of 5 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.0.9 22d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "android",
+        "computer-use",
+        "cross-device",
+        "desktop-app",
+        "gui-agent",
+        "ios",
+        "linux",
+        "llm",
+        "mcp",
+        "meta-muse",
+        "mobile-agent",
+        "muse",
+        "nanomuse",
+        "openminis",
+        "openmuse",
+        "personal-agent"
+      ],
+      "via_topics": [
+        "android"
+      ],
+      "created_at": "2026-09-23T06:13:06Z",
+      "pushed_at": "2026-11-20T06:57:52Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 95,
+        "issue_response": {
+          "answered": 5,
+          "total": 5
+        }
+      }
+    },
+    {
+      "full_name": "keptinventory/kept",
+      "url": "https://github.com/keptinventory/kept",
+      "score": 26.7,
+      "stars": 620,
+      "language": "TypeScript",
+      "description": "Self-hosted, open-source inventory of everything you own and where it is. AI assistant and MCP server built in.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (homelab, mcp, react, self-hosted)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 16 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.5,
+          "text": "~332 stars a month (new, 56d ago, top 31% in homelab)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "1 help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v1.14.7 10d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "issue_response",
+          "points": 0.7,
+          "text": "answered 5 of 23 recent issues"
+        }
+      ],
+      "topics": [
+        "3d",
+        "home-inventory",
+        "homelab",
+        "inventory",
+        "inventory-management",
+        "mcp",
+        "react",
+        "self-hosted",
+        "selfhosted",
+        "typescript"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-09-25T15:16:39Z",
+      "pushed_at": "2026-11-18T20:00:48Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 16,
+        "issue_response": {
+          "answered": 5,
+          "total": 23
+        }
+      }
+    },
+    {
+      "full_name": "TabularisDB/tabularis",
+      "url": "https://github.com/TabularisDB/tabularis",
+      "score": 26.3,
+      "stars": 5514,
+      "language": "TypeScript",
+      "description": "Open-source desktop SQL workspace with 3 built-in database drivers and 29 shipped driver plugins, including SQL Server, DuckDB, ClickHouse and Redis. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (mcp, postgresql, rust)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 66 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.8,
+          "text": "~555 stars a month (new, 10 months ago, top 25% in postgresql)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "good_first_issue",
+          "points": 1.5,
+          "text": "5 good first issues, 10+ help wanted"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.33.1 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "cross-platform",
+        "database-client",
+        "database-gui",
+        "database-tool",
+        "er-diagram",
+        "mariadb",
+        "mcp",
+        "mcp-server",
+        "mysql",
+        "postgresql",
+        "rust",
+        "sql",
+        "sql-editor",
+        "sql-notebook",
+        "sqlite",
+        "tauri",
+        "typescript",
+        "visual-query-builder"
+      ],
+      "via_topics": [
+        "postgresql"
+      ],
+      "created_at": "2026-01-26T21:48:07Z",
+      "pushed_at": "2026-11-20T15:39:06Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 66,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "feigeCode/navop",
+      "url": "https://github.com/feigeCode/navop",
+      "score": 25.3,
+      "stars": 2200,
+      "language": "Rust",
+      "description": "Native desktop workspace for databases, servers, and AI — built with Rust and GPUI. No WebView, no Electron. MySQL, PostgreSQL, Redis, MongoDB, SSH/SFTP, terminals, remote desktop, and AI agents in one window. Focused Navop Shell and Navop Data editions available.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, postgresql, rust, terminal)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 16 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.4,
+          "text": "~496 stars a month (new, 4 months ago, top 33% in postgresql)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.23.4 2d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "issue_response",
+          "points": 0.9,
+          "text": "answered 4 of 14 recent issues"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "clickhouse",
+        "database-client",
+        "desktop-app",
+        "duckdb",
+        "gpui",
+        "mongodb",
+        "mssql",
+        "mysql",
+        "oracle",
+        "port-forwarding",
+        "postgresql",
+        "redis",
+        "remote-desktop",
+        "rust",
+        "serial",
+        "sftp",
+        "sqlite",
+        "ssh",
+        "terminal"
+      ],
+      "via_topics": [
+        "postgresql"
+      ],
+      "created_at": "2026-07-10T06:01:54Z",
+      "pushed_at": "2026-11-21T02:18:44Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 16,
+        "issue_response": {
+          "answered": 4,
+          "total": 14
+        }
+      }
+    },
+    {
+      "full_name": "KunAgent/Kun",
+      "url": "https://github.com/KunAgent/Kun",
+      "score": 24.7,
+      "stars": 6384,
+      "language": "TypeScript",
+      "description": "Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (llm, mcp, react)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 29 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.4,
+          "text": "~1047 stars a month (new, 6 months ago, top 33% in react)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 5d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.4.5 11d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "issue_response",
+          "points": 0.3,
+          "text": "answered 1 of 10 recent issues"
+        }
+      ],
+      "topics": [
+        "agentic-workflow",
+        "ai-agent",
+        "ai-assistant",
+        "ai-design",
+        "automation",
+        "coding-agent",
+        "deepseek",
+        "desktop-app",
+        "electron",
+        "llm",
+        "local-first",
+        "mcp",
+        "multi-agent",
+        "openai-compatible",
+        "productivity",
+        "react",
+        "tui",
+        "typescript",
+        "writing-assistant"
+      ],
+      "via_topics": [
+        "react"
+      ],
+      "created_at": "2026-05-21T13:22:06Z",
+      "pushed_at": "2026-11-16T01:38:27Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 29,
+        "issue_response": {
+          "answered": 1,
+          "total": 10
+        }
+      }
+    },
+    {
+      "full_name": "compozy/compozy",
+      "url": "https://github.com/compozy/compozy",
+      "score": 24.6,
+      "stars": 2900,
+      "language": "Go",
+      "description": "An operating system for AI agents. The autonomous control plane for your agents: see and steer every Claude Code, Codex, and Cursor session. Always-on agents check in on their own, and you step in only when one needs you.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, cli, golang, mcp)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 18 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.8,
+          "text": "~367 stars a month (new, 8 months ago, top 44% in golang)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.7.7 today"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.8,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "acp",
+        "agent-client-protocol",
+        "agent-orchestration",
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "golang",
+        "local-first",
+        "mcp"
+      ],
+      "via_topics": [
+        "golang"
+      ],
+      "created_at": "2026-03-28T05:24:12Z",
+      "pushed_at": "2026-11-21T02:19:50Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 18,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "comarkdown/comark",
+      "url": "https://github.com/comarkdown/comark",
+      "score": 24.3,
+      "stars": 1107,
+      "language": "TypeScript",
+      "description": "Comark is an open-source Markdown parser and renderer with components, attributes and plugins. It streams AI output to React, Vue, Svelte, Angular, HTML and the terminal.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (llm, react, svelte)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 62 outside PRs in 90 days"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.8,
+          "text": "~110 stars a month (new, 10 months ago, top 65% in svelte)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.9.2 8d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai",
+        "angular",
+        "ansi",
+        "commonmark",
+        "generative-ui",
+        "gfm",
+        "intelligent-ui",
+        "llm",
+        "markdown",
+        "markdown-parser",
+        "markdown-renderer",
+        "mdc",
+        "nuxt",
+        "react",
+        "streaming",
+        "streaming-markdown",
+        "svelte",
+        "vue"
+      ],
+      "via_topics": [
+        "svelte"
+      ],
+      "created_at": "2026-01-22T15:50:54Z",
+      "pushed_at": "2026-11-20T16:34:04Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 62,
+        "issue_response": {
+          "answered": 0,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "pgrundev/pgboxdb",
+      "url": "https://github.com/pgrundev/pgboxdb",
+      "score": 23.7,
+      "stars": 729,
+      "language": "Rust",
+      "description": "PGBoxDB — Lightweight Postgres for AI agents. Written in Rust. Thousands of isolated databases in one runtime 🐘",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (database, postgresql, rust)"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 5,
+          "text": "merged 37 outside PRs in 90 days"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.7,
+          "text": "~509 stars a month (new, 43d ago, top 26% in database)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.1.3 10d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agents",
+        "ai-infrastructure",
+        "ai-infrastructure-development",
+        "ai-infrastructure-software",
+        "database",
+        "open-source",
+        "pgboxdb",
+        "postgres",
+        "postgresql",
+        "rust",
+        "rust-lang"
+      ],
+      "via_topics": [
+        "database"
+      ],
+      "created_at": "2026-10-08T20:24:20Z",
+      "pushed_at": "2026-11-20T03:56:52Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 37,
+        "issue_response": {
+          "answered": 0,
+          "total": 2
+        }
+      }
+    },
+    {
+      "full_name": "google/mantis",
+      "url": "https://github.com/google/mantis",
+      "score": 21.7,
+      "stars": 2815,
+      "language": "Python",
+      "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, llm, security)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.7,
+          "text": "~534 stars a month (new, 5 months ago, top 26% in security)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 3,
+          "text": "answered 11 of 11 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "adk",
+        "adk-python",
+        "ai-agents",
+        "antigravity",
+        "antigravity-cli",
+        "application-security",
+        "application-security-tools",
+        "code-review",
+        "devsecops",
+        "gemini-api",
+        "gemini-cli",
+        "hardware-security",
+        "llm",
+        "multi-agent-systems",
+        "prompt-engineering",
+        "sast",
+        "security",
+        "static-analysis",
+        "threat-modeling",
+        "vulnerability-detection"
+      ],
+      "via_topics": [
+        "security"
+      ],
+      "created_at": "2026-06-15T20:58:00Z",
+      "pushed_at": "2026-11-19T18:15:18Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 11,
+          "total": 11
+        }
+      }
+    },
+    {
+      "full_name": "PurpleDoubleD/locally-uncensored",
+      "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+      "score": 21.3,
+      "stars": 4509,
+      "language": "TypeScript",
+      "description": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (llm, privacy, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.3,
+          "text": "~561 stars a month (new, 8 months ago, top 35% in privacy)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 2,
+          "text": "answered 8 of 12 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v3.1.2 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "agent",
+        "ai-chat",
+        "ai-studio",
+        "all-in-one",
+        "coding-agent",
+        "desktop-app",
+        "flux",
+        "image-generation",
+        "linux",
+        "llm",
+        "local-ai",
+        "local-llm",
+        "open-source",
+        "privacy",
+        "self-hosted",
+        "stable-diffusion",
+        "uncensored",
+        "uncensored-ai",
+        "video-generation",
+        "windows"
+      ],
+      "via_topics": [
+        "privacy"
+      ],
+      "created_at": "2026-03-24T21:52:47Z",
+      "pushed_at": "2026-11-19T06:18:33Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 8,
+          "total": 12
+        }
+      }
+    },
+    {
+      "full_name": "alpcanaydin/tusk",
+      "url": "https://github.com/alpcanaydin/tusk",
+      "score": 20.5,
+      "stars": 440,
+      "language": "Rust",
+      "description": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (database, postgresql, rust)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.4,
+          "text": "~249 stars a month (new, 53d ago, top 33% in database)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 5d ago"
+        },
+        {
+          "rule": "issue_response",
+          "points": 1.1,
+          "text": "answered 4 of 11 recent issues"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "contributing",
+          "points": 1,
+          "text": "has a CONTRIBUTING guide"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.2.1 51d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        }
+      ],
+      "topics": [
+        "ai-assistant",
+        "clickhouse",
+        "database",
+        "database-client",
+        "database-gui",
+        "developer-tools",
+        "duckdb",
+        "gpui",
+        "macos",
+        "mongodb",
+        "mysql",
+        "native-app",
+        "open-source",
+        "postgresql",
+        "redis",
+        "rust",
+        "snowflake",
+        "sql-client",
+        "sqlite",
+        "tableplus-alternative"
+      ],
+      "via_topics": [
+        "database"
+      ],
+      "created_at": "2026-09-28T18:47:06Z",
+      "pushed_at": "2026-11-16T00:31:02Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 4,
+          "total": 11
+        }
+      }
+    },
+    {
+      "full_name": "IvanMurzak/Godot-MCP",
+      "url": "https://github.com/IvanMurzak/Godot-MCP",
+      "score": 19.9,
+      "stars": 361,
+      "language": "C#",
+      "description": "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (cli, gamedev, godot, mcp)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.1,
+          "text": "~64 stars a month (new, 6 months ago, top 39% in godot)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "outside_prs",
+          "points": 1,
+          "text": "merged 1 outside PR in 90 days"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "release",
+          "points": 1,
+          "text": "released v0.41.0 1d ago"
+        },
+        {
+          "rule": "readme",
+          "points": 1,
+          "text": "docs: README, description, homepage"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.8,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai",
+        "ai-integration",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "claude-desktop",
+        "cli",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "game-development",
+        "gamedev",
+        "gemini",
+        "godot",
+        "godot-engine",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "openai"
+      ],
+      "via_topics": [
+        "godot"
+      ],
+      "created_at": "2026-06-04T05:09:26Z",
+      "pushed_at": "2026-11-20T22:37:38Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 1,
+        "issue_response": {
+          "answered": 1,
+          "total": 1
+        }
+      }
+    },
+    {
+      "full_name": "EIRTeam/shinobu",
+      "url": "https://github.com/EIRTeam/shinobu",
+      "score": 18,
+      "stars": 45,
+      "language": "C++",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine (EIRTeam fork) AKA the Shinobu Engine AKA the engine that powers Project Heartbeat",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of godotengine/godot: 96 commits ahead, 21803 behind"
+        },
+        {
+          "rule": "stars",
+          "points": 3.3,
+          "text": "45 stars, top 17% of this run"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2020-08-02T17:01:42Z",
+      "pushed_at": "2026-11-20T09:04:50Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "pryzmatpl/prismalama",
+      "url": "https://github.com/pryzmatpl/prismalama",
+      "score": 17.6,
+      "stars": 37,
+      "language": "Go",
+      "description": "Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "sources": [
+        "fork"
+      ],
+      "reasons": [
+        {
+          "rule": "fork_ahead",
+          "points": 10,
+          "text": "live fork of ollama/ollama: 156 commits ahead, 961 behind"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.9,
+          "text": "~4 stars a month (new, 10 months ago, top 22% of this run)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 25d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "readme",
+          "points": 0.7,
+          "text": "docs: description, homepage"
+        }
+      ],
+      "topics": [],
+      "via_topics": [],
+      "created_at": "2026-02-07T18:14:42Z",
+      "pushed_at": "2026-10-26T10:03:39Z",
+      "lang": "en",
+      "health": {
+        "outside_prs_90d": 0,
+        "issue_response": {
+          "answered": 0,
+          "total": 0
+        }
+      }
+    },
+    {
+      "full_name": "paimonsoror/telltaledns",
+      "url": "https://github.com/paimonsoror/telltaledns",
+      "score": 16.3,
+      "stars": 470,
+      "language": "Rust",
+      "description": "A small, fast DNS resolver and ad blocker that explains every answer. Per-device rules, encrypted DNS, and clustering across a Raspberry Pi and Kubernetes.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (homelab, mcp, rust, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.3,
+          "text": "~288 stars a month (new, 49d ago, top 34% in homelab)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "adblock",
+        "dns",
+        "dns-over-https",
+        "dns-over-quic",
+        "dns-over-tls",
+        "dns-resolver",
+        "homelab",
+        "kubernetes",
+        "mcp",
+        "rust",
+        "self-hosted"
+      ],
+      "via_topics": [
+        "homelab"
+      ],
+      "created_at": "2026-10-03T00:48:48Z",
+      "pushed_at": "2026-11-20T20:00:10Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "score": 16.2,
+      "stars": 7730,
+      "language": "TypeScript",
+      "description": "A framework for building agentic apps",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, mcp, react)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.2,
+          "text": "~917 stars a month (new, 8 months ago, top 36% in react)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "agent-framework",
+        "agent-native",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "framework",
+        "generative-ui",
+        "mcp",
+        "open-source",
+        "react",
+        "typescript"
+      ],
+      "via_topics": [
+        "react"
+      ],
+      "created_at": "2026-03-12T14:57:10Z",
+      "pushed_at": "2026-11-21T02:22:54Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "nolabs-ai/nono",
+      "url": "https://github.com/nolabs-ai/nono",
+      "score": 16.2,
+      "stars": 5056,
+      "language": "Rust",
+      "description": "agent runtime security - zero trust, zero setup, zero latency agent sandboxing",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, mcp, security)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.2,
+          "text": "~518 stars a month (new, 10 months ago, top 37% in security)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        }
+      ],
+      "topics": [
+        "agent-runtime-security",
+        "agent-sandbox",
+        "agent-security",
+        "ai-agent-sandbox",
+        "ai-agent-security",
+        "ai-agents",
+        "ai-security",
+        "ai-security-tool",
+        "llm-security",
+        "mcp",
+        "mcp-security",
+        "security",
+        "supply-chain-security",
+        "zero-trust"
+      ],
+      "via_topics": [
+        "security"
+      ],
+      "created_at": "2026-01-31T09:25:45Z",
+      "pushed_at": "2026-11-20T11:26:04Z",
+      "lang": "und",
+      "health": null
+    },
+    {
+      "full_name": "jo-duchan/tapflow",
+      "url": "https://github.com/jo-duchan/tapflow",
+      "score": 16.2,
+      "stars": 2268,
+      "language": "TypeScript",
+      "description": "Self-hosted iOS & Android simulator streaming for the whole team",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (android, flutter, mcp, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.2,
+          "text": "~345 stars a month (new, 7 months ago, top 36% in flutter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "android",
+        "android-emulator",
+        "app-testing",
+        "appetize-alternative",
+        "browserstack-alternative",
+        "developer-tools",
+        "emulator",
+        "flutter",
+        "good-first-issue",
+        "ios",
+        "ios-simulator",
+        "mcp",
+        "mobile-qa",
+        "mobile-testing",
+        "open-source",
+        "qa-tools",
+        "react-native",
+        "self-hosted",
+        "simulator",
+        "testing"
+      ],
+      "via_topics": [
+        "flutter"
+      ],
+      "created_at": "2026-05-07T15:34:29Z",
+      "pushed_at": "2026-11-20T17:34:16Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "busabase/busabase",
+      "url": "https://github.com/busabase/busabase",
+      "score": 16.2,
+      "stars": 929,
+      "language": "TypeScript",
+      "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human review on the writes that matter. Local-first and self-hostable.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (ai-agents, database, mcp, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.2,
+          "text": "~186 stars a month (new, 5 months ago, top 37% in database)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "agent-workspace",
+        "agentic-ai",
+        "ai-agents",
+        "airtable-alternative",
+        "audit-trail",
+        "claude",
+        "codex",
+        "database",
+        "human-in-the-loop",
+        "knowledge-base",
+        "local-first",
+        "mcp",
+        "notion",
+        "notion-alternative",
+        "open-source",
+        "openapi",
+        "self-hosted",
+        "supabase",
+        "system-of-record",
+        "typescript"
+      ],
+      "via_topics": [
+        "database"
+      ],
+      "created_at": "2026-06-23T03:35:31Z",
+      "pushed_at": "2026-11-20T05:40:44Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "score": 16.1,
+      "stars": 14522,
+      "language": "Rust",
+      "description": "Local MCP server that lets Claude Code, Codex, Cursor and Gemini CLI use your own computer and your own logged-in accounts: chats, feeds, browser, files and downloads. Also a downloader for video, music and the courses you bought. Everything stays on your machine. Windows, macOS, Linux.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (ai-agents, mcp, rust)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3.1,
+          "text": "~1545 stars a month (new, 9 months ago, top 38% in rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "GPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex-cli",
+        "coding-agent",
+        "course-downloader",
+        "cursor",
+        "download-manager",
+        "gemini-cli",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "media-downloader",
+        "model-context-protocol",
+        "omniget",
+        "rust",
+        "tauri",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp",
+        "yt-dlp-gui"
+      ],
+      "via_topics": [
+        "rust"
+      ],
+      "created_at": "2026-02-11T22:44:56Z",
+      "pushed_at": "2026-11-20T21:13:14Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "mufeedvh/code2prompt",
+      "url": "https://github.com/mufeedvh/code2prompt",
+      "score": 16,
+      "stars": 7770,
+      "language": "Rust",
+      "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (cli, llm, rust)"
+        },
+        {
+          "rule": "stars",
+          "points": 2,
+          "text": "7770 stars, top 50% in llm"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 14d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "ai",
+        "chatgpt",
+        "claude",
+        "cli",
+        "command-line",
+        "command-line-tool",
+        "gpt",
+        "llm",
+        "prompt",
+        "prompt-engineering",
+        "prompt-generator",
+        "prompt-toolkit",
+        "rust"
+      ],
+      "via_topics": [],
+      "created_at": "2024-03-09T12:42:06Z",
+      "pushed_at": "2026-11-06T18:23:28Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "arpanghosh8453/open-dronelog",
+      "url": "https://github.com/arpanghosh8453/open-dronelog",
+      "score": 16,
+      "stars": 1602,
+      "language": "TypeScript",
+      "description": "Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Supports plugin for custom flight log formats. Built with Tauri v2, DuckDB, and React.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "4 of your topics (database, docker, react, self-hosted)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3,
+          "text": "~167 stars a month (new, 10 months ago, top 40% in database)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 3d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "dashboard",
+        "data-analysis",
+        "data-visualization",
+        "database",
+        "desktop",
+        "dji",
+        "docker",
+        "drone",
+        "duckdb",
+        "flight",
+        "linux",
+        "logs",
+        "macos",
+        "react",
+        "self-hosted",
+        "statistics",
+        "tauri",
+        "uav",
+        "windows"
+      ],
+      "via_topics": [
+        "database"
+      ],
+      "created_at": "2026-02-06T22:06:59Z",
+      "pushed_at": "2026-11-17T07:57:04Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "Silo-Server/silo-server",
+      "url": "https://github.com/Silo-Server/silo-server",
+      "score": 16,
+      "stars": 1065,
+      "language": "Go",
+      "description": "Self-hosted media streaming server with a Go backend, React web UI, Docker deployment, transcoding, and Jellyfin-compatible APIs.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (docker, golang, postgresql, react)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 1.9,
+          "text": "~176 stars a month (new, 6 months ago, top 62% in postgresql)"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.1,
+          "text": "like your stars: go"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "docker",
+        "ffmpeg",
+        "golang",
+        "jellyfin",
+        "media-server",
+        "postgresql",
+        "react",
+        "redis",
+        "self-hosted",
+        "silo",
+        "streaming",
+        "transcoding"
+      ],
+      "via_topics": [
+        "postgresql"
+      ],
+      "created_at": "2026-05-23T00:26:38Z",
+      "pushed_at": "2026-11-21T02:23:15Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "netease-youdao/LobsterAI",
+      "url": "https://github.com/netease-youdao/LobsterAI",
+      "score": 15.8,
+      "stars": 6204,
+      "language": "TypeScript",
+      "description": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "3 of your topics (llm, mcp, react)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.8,
+          "text": "~662 stars a month (new, 9 months ago, top 44% in react)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "automation",
+        "autonomous-agents",
+        "chatbot",
+        "copilot",
+        "cross-platform",
+        "desktop-app",
+        "electron",
+        "llm",
+        "mcp",
+        "office-automation",
+        "openclaw",
+        "productivity",
+        "react",
+        "tyepscript"
+      ],
+      "via_topics": [
+        "react"
+      ],
+      "created_at": "2026-02-12T09:56:20Z",
+      "pushed_at": "2026-11-20T13:58:33Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "DavidHDev/canvas-ui",
+      "url": "https://github.com/DavidHDev/canvas-ui",
+      "score": 15.8,
+      "stars": 5522,
+      "language": "TypeScript",
+      "description": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (react, svelte)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 4.3,
+          "text": "~1304 stars a month (new, 4 months ago, top 16% in svelte)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed today"
+        },
+        {
+          "rule": "affinity",
+          "points": 1.5,
+          "text": "like your stars: svelte"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "a license licensed"
+        }
+      ],
+      "topics": [
+        "animation",
+        "canvas",
+        "component-library",
+        "components",
+        "creative-coding",
+        "design-engineering",
+        "frontend",
+        "glsl",
+        "nextjs",
+        "react",
+        "shadcn",
+        "shaders",
+        "svelte",
+        "threejs",
+        "typescript",
+        "ui",
+        "ui-library",
+        "vue",
+        "weggl"
+      ],
+      "via_topics": [
+        "react",
+        "svelte"
+      ],
+      "created_at": "2026-07-16T13:38:20Z",
+      "pushed_at": "2026-11-20T18:21:21Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "onecli/onecli",
+      "url": "https://github.com/onecli/onecli",
+      "score": 15.8,
+      "stars": 3648,
+      "language": "TypeScript",
+      "description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (ai-agents, cli, mcp, rust)"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 3,
+          "text": "~426 stars a month (new, 9 months ago, top 40% in security)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 2,
+          "text": "pushed 11d ago"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "Apache-2.0 licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.8,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "ai-agents",
+        "cli",
+        "mcp",
+        "nodejs",
+        "postgres",
+        "rust",
+        "secret-management",
+        "security",
+        "security-tools",
+        "vault"
+      ],
+      "via_topics": [
+        "security"
+      ],
+      "created_at": "2026-03-08T10:38:52Z",
+      "pushed_at": "2026-11-09T16:44:11Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "dungngminh/simutil",
+      "url": "https://github.com/dungngminh/simutil",
+      "score": 15.8,
+      "stars": 1227,
+      "language": "Dart",
+      "description": "Utilities for Android emulators, iOS simulators and real devices: launch, stream, control, record and automate them from a desktop app, TUI and CLI",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (ai-agents, android, cli, flutter)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 2d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2,
+          "text": "~134 stars a month (new, 9 months ago, top 61% in flutter)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        },
+        {
+          "rule": "affinity",
+          "points": 0.8,
+          "text": "like your stars: cli"
+        }
+      ],
+      "topics": [
+        "adb",
+        "ai-agents",
+        "android",
+        "android-emulator",
+        "cli",
+        "dart",
+        "desktop-app",
+        "developer-tools",
+        "device-streaming",
+        "e2e",
+        "flutter",
+        "ios",
+        "ios-device",
+        "ios-simulator",
+        "mcp",
+        "mcp-server",
+        "mobile-testing",
+        "scrcpy",
+        "screen-mirroring",
+        "xcode"
+      ],
+      "via_topics": [
+        "flutter"
+      ],
+      "created_at": "2026-02-19T06:18:15Z",
+      "pushed_at": "2026-11-18T15:11:53Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "zibo-chen/SubnetDesk",
+      "url": "https://github.com/zibo-chen/SubnetDesk",
+      "score": 15.8,
+      "stars": 777,
+      "language": "Rust",
+      "description": "LAN-only remote desktop based on RustDesk",
+      "sources": [
+        "search"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 9,
+          "text": "5 of your topics (flutter, homelab, privacy, rust)"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "star_velocity",
+          "points": 2.8,
+          "text": "~184 stars a month (new, 4 months ago, top 45% in homelab)"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "AGPL-3.0 licensed"
+        }
+      ],
+      "topics": [
+        "flutter",
+        "homelab",
+        "lan",
+        "mdns",
+        "privacy",
+        "remote-access",
+        "remote-desktop",
+        "rust",
+        "self-hosted",
+        "vpn"
+      ],
+      "via_topics": [
+        "flutter",
+        "homelab"
+      ],
+      "created_at": "2026-07-16T15:50:15Z",
+      "pushed_at": "2026-11-19T08:50:08Z",
+      "lang": "en",
+      "health": null
+    },
+    {
+      "full_name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "score": 15.7,
+      "stars": 16329,
+      "language": "Go",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+      "sources": [
+        "kin"
+      ],
+      "reasons": [
+        {
+          "rule": "topic_match",
+          "points": 6,
+          "text": "2 of your topics (cli, golang)"
+        },
+        {
+          "rule": "stars",
+          "points": 3.7,
+          "text": "16329 stars, top 8% in cli"
+        },
+        {
+          "rule": "recent_push",
+          "points": 3,
+          "text": "pushed 1d ago"
+        },
+        {
+          "rule": "affinity",
+          "points": 2,
+          "text": "like your stars: command-line, cli"
+        },
+        {
+          "rule": "license",
+          "points": 1,
+          "text": "MIT licensed"
+        }
+      ],
+      "topics": [
+        "bash",
+        "cli",
+        "csv",
+        "devops-tools",
+        "golang",
+        "hcl",
+        "json",
+        "portable",
+        "properties",
+        "splat",
+        "terraform",
+        "toml",
+        "xml",
+        "yaml",
+        "yaml-processor"
+      ],
+      "via_topics": [],
+      "created_at": "2015-09-26T22:14:44Z",
+      "pushed_at": "2026-11-19T03:52:30Z",
       "lang": "en",
       "health": null
     }

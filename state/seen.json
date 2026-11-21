@@ -69,6 +69,10 @@
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 15.3
     },
+    "alpcanaydin/tusk": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 20.5
+    },
     "ampixa/sanotts": {
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 16.1
@@ -85,6 +89,10 @@
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 15.1
     },
+    "aoci-spec/aoci-code": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.7
+    },
     "arcboxlabs/arcbox": {
       "first_seen": "2026-11-21T01:53:28.376Z",
       "score": 20.4
@@ -92,6 +100,10 @@
     "arnegiacomo/fugleramme": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 20
+    },
+    "arpanghosh8453/open-dronelog": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16
     },
     "asklokesh/loki-mode": {
       "first_seen": "2026-11-21T02:04:34.922Z",
@@ -157,13 +169,25 @@
       "first_seen": "2026-11-21T01:53:28.376Z",
       "score": 17.6
     },
+    "builderio/agent-native": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16.2
+    },
     "builderz-labs/mission-control": {
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 20.7
     },
+    "busabase/busabase": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16.2
+    },
     "c0rnelone/sensor-presencia": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 15
+    },
+    "callstack/agent-device": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.2
     },
     "can1357/oh-my-pi": {
       "first_seen": "2026-11-20T13:32:28.157Z",
@@ -237,6 +261,14 @@
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 27.4
     },
+    "comarkdown/comark": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 24.3
+    },
+    "compozy/compozy": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 24.6
+    },
     "connorgallopo/tracearr": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 19.2
@@ -269,6 +301,10 @@
       "first_seen": "2026-11-21T01:53:28.376Z",
       "score": 21.9
     },
+    "davidhdev/canvas-ui": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 15.8
+    },
     "dcarbone/php-fhir": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 19.5
@@ -284,6 +320,10 @@
     "deeplethe/utopia": {
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 17.9
+    },
+    "denisidoro/navi": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 20.6
     },
     "denysdovhan/voxel-viewer": {
       "first_seen": "2026-11-21T02:03:52.621Z",
@@ -301,6 +341,10 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 18.7
     },
+    "donchitos/claude-code-game-studios": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 19.4
+    },
     "dramaclaw/dramaclaw": {
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 11
@@ -313,6 +357,10 @@
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 25.4
     },
+    "dungngminh/simutil": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 15.8
+    },
     "ebony-vinyl/dsh-our-free-model": {
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 17.4
@@ -321,9 +369,17 @@
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 17.2
     },
+    "eirteam/shinobu": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 18
+    },
     "ekkolearnai/ekko-studio": {
       "first_seen": "2026-11-21T01:53:28.376Z",
       "score": 11.8
+    },
+    "el4cteo/blender-skills": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.1
     },
     "elie222/rakazo": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -348,6 +404,10 @@
     "faulkj/fhirhydrant": {
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 15.8
+    },
+    "feigecode/navop": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 25.3
     },
     "fhir-rust/fhir-rust": {
       "first_seen": "2026-11-20T13:47:58.838Z",
@@ -397,9 +457,17 @@
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 11.8
     },
+    "genex-games/genex-desktop": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 19.5
+    },
     "genspark-ai/genoffice": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 16.1
+    },
+    "gentleman-programming/gentle-ai": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 19.5
     },
     "gereoffy/jpeg-nitro": {
       "first_seen": "2026-11-21T02:03:52.621Z",
@@ -417,6 +485,10 @@
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 22.7
     },
+    "getopenpost/openpost": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 27.9
+    },
     "giancarloerra/socraticode": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 25
@@ -428,6 +500,10 @@
     "google/fhir": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 21.5
+    },
+    "google/mantis": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 21.7
     },
     "googleworkspace/cli": {
       "first_seen": "2026-11-21T02:03:52.621Z",
@@ -489,6 +565,10 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 21.5
     },
+    "heartleo/zlib": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.8
+    },
     "heliossoftware/hfs": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 13.1
@@ -525,9 +605,17 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 19.3
     },
+    "holyarrs/holyarrs": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.9
+    },
     "huskerminion/techo5": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 13.3
+    },
+    "ibrahimqureshae/mdflux": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.9
     },
     "ifixai-ai/ifixai": {
       "first_seen": "2026-11-21T01:52:42.278Z",
@@ -545,6 +633,10 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 25.4
     },
+    "ivanmurzak/godot-mcp": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 19.9
+    },
     "jackwener/opencli": {
       "first_seen": "2026-11-20T20:54:28.201Z",
       "score": 19.1
@@ -560,6 +652,10 @@
     "jcodesmore/ai-website-cloner-template": {
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 17.9
+    },
+    "jo-duchan/tapflow": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16.2
     },
     "johnkotrolos/ha-device-floorplan": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -585,6 +681,10 @@
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 17.9
     },
+    "jundizhou/easy-stock": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 19.5
+    },
     "junforge-dev/voxplane": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 16.9
@@ -596,6 +696,10 @@
     "jxlarrea/kiosk-satellite": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 20.2
+    },
+    "keptinventory/kept": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 26.7
     },
     "kirodotdev/kirocrew": {
       "first_seen": "2026-11-20T15:16:42.294Z",
@@ -620,6 +724,10 @@
     "kuddev/pebrel": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 12.9
+    },
+    "kunagent/kun": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 24.7
     },
     "l0ng-ai/openidea": {
       "first_seen": "2026-11-21T01:52:42.278Z",
@@ -657,9 +765,21 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 21.2
     },
+    "majd/ipatool": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 25.7
+    },
+    "makazhanalpamys/soup": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.9
+    },
     "makerspet/oomwoo": {
       "first_seen": "2026-11-21T01:52:42.278Z",
       "score": 14.3
+    },
+    "malisper/pgrust": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.1
     },
     "manaflow-ai/cmux": {
       "first_seen": "2026-11-20T13:32:28.157Z",
@@ -733,6 +853,10 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 18.8
     },
+    "mikefarah/yq": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 15.7
+    },
     "mikehasa/agentacct": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 18.1
@@ -753,6 +877,10 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 14.5
     },
+    "mornyeapp/mornye": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.5
+    },
     "mrdindon/proxhawk-tui": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 13.1
@@ -761,9 +889,17 @@
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 14.5
     },
+    "mufeedvh/code2prompt": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16
+    },
     "mukul975/anthropic-cybersecurity-skills": {
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 20.7
+    },
+    "mvanhorn/cli-printing-press": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 19.2
     },
     "mvanhorn/last30days-skill": {
       "first_seen": "2026-11-21T02:21:27.609Z",
@@ -772,6 +908,18 @@
     "mwaseem75/hl7gen": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 24.9
+    },
+    "n8n-io/nod": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.9
+    },
+    "nanmicoder/cc-haha": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 19
+    },
+    "nano-muse/nanomuse": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 27.6
     },
     "nanocoai/nanoclaw": {
       "first_seen": "2026-11-20T13:31:38.346Z",
@@ -785,6 +933,10 @@
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 20.6
     },
+    "netease-youdao/lobsterai": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 15.8
+    },
     "neur0map/glazepkg": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 21.6
@@ -797,6 +949,10 @@
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 18.1
     },
+    "nextlevelbuilder/goclaw": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.9
+    },
     "nicobailon/surf-cli": {
       "first_seen": "2026-11-20T20:24:45.097Z",
       "score": 16.8
@@ -805,9 +961,17 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 9.9
     },
+    "nigh/show-me-the-story": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.9
+    },
     "nirholas/servers": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 12.9
+    },
+    "nolabs-ai/nono": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16.2
     },
     "noon-at-cgn/geforce-sriov": {
       "first_seen": "2026-11-21T01:53:28.376Z",
@@ -853,6 +1017,10 @@
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 14.6
     },
+    "onecli/onecli": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 15.8
+    },
     "oneofthemany/zigbee-matter-manager": {
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 16.1
@@ -893,6 +1061,10 @@
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 15.4
     },
+    "openselena/libreget": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.6
+    },
     "oscarlosu-lab/usbanywhere": {
       "first_seen": "2026-11-21T02:21:27.609Z",
       "score": 16.4
@@ -908,6 +1080,10 @@
     "pacharanero/sct": {
       "first_seen": "2026-11-21T02:03:52.621Z",
       "score": 13.4
+    },
+    "paimonsoror/telltaledns": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16.3
     },
     "panniantong/agent-reach": {
       "first_seen": "2026-11-20T13:32:28.157Z",
@@ -932,6 +1108,10 @@
     "peonping/peon-ping": {
       "first_seen": "2026-11-21T02:04:34.922Z",
       "score": 21.1
+    },
+    "pgrundev/pgboxdb": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 23.7
     },
     "phantomphoton/setup-codes": {
       "first_seen": "2026-11-21T02:04:34.922Z",
@@ -969,9 +1149,17 @@
       "first_seen": "2026-11-20T13:48:44.477Z",
       "score": 27
     },
+    "pryzmatpl/prismalama": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 17.6
+    },
     "psmux/psmux": {
       "first_seen": "2026-11-21T01:53:28.376Z",
       "score": 21.9
+    },
+    "purpledoubled/locally-uncensored": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 21.3
     },
     "python-roborock/local_roborock_server": {
       "first_seen": "2026-11-20T13:48:44.477Z",
@@ -1073,9 +1261,21 @@
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 23.3
     },
+    "shader-effects-inc/shaders": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 26.6
+    },
+    "shayanabbas1/dbdelve": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.8
+    },
     "sheeki03/tirith": {
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 18.8
+    },
+    "silo-server/silo-server": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16
     },
     "snapotter-hq/snapotter": {
       "first_seen": "2026-11-20T20:54:28.201Z",
@@ -1105,6 +1305,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 15.1
     },
+    "strelov1/freehire": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 24.7
+    },
     "strukto-ai/mirage": {
       "first_seen": "2026-11-20T15:16:42.294Z",
       "score": 19.4
@@ -1124,6 +1328,14 @@
     "t8y2/dbx": {
       "first_seen": "2026-11-20T13:32:28.157Z",
       "score": 25.9
+    },
+    "tableproapp/tablepro": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 19.1
+    },
+    "tabularisdb/tabularis": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 26.3
     },
     "tamekamodify/home-assistant-blueprints": {
       "first_seen": "2026-11-20T15:16:42.294Z",
@@ -1168,6 +1380,10 @@
     "tirth8205/code-review-graph": {
       "first_seen": "2026-11-20T20:55:09.685Z",
       "score": 21.3
+    },
+    "tonhowtf/omniget": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 16.1
     },
     "tostmann/thbr": {
       "first_seen": "2026-11-21T02:21:27.609Z",
@@ -1217,6 +1433,10 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 22.3
     },
+    "vercel-labs/ui": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 25.9
+    },
     "vermonster/fhir-kit-client": {
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 17.3
@@ -1232,6 +1452,14 @@
     "vituhlos/ha-ikea-bilresa": {
       "first_seen": "2026-11-20T20:24:07.829Z",
       "score": 19.6
+    },
+    "wangwanjie/gately": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.8
+    },
+    "wanshuiyin/auto-claude-code-research-in-sleep": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 22.7
     },
     "wilbowes/echomuse": {
       "first_seen": "2026-11-21T02:04:34.922Z",
@@ -1261,6 +1489,10 @@
       "first_seen": "2026-11-21T02:22:18.024Z",
       "score": 19.3
     },
+    "yusufceng1z/ding": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 18.9
+    },
     "zatosource/zato": {
       "first_seen": "2026-11-20T13:31:38.346Z",
       "score": 20.7
@@ -1269,6 +1501,10 @@
       "first_seen": "2026-11-20T13:47:58.838Z",
       "score": 18.6
     },
+    "zibo-chen/subnetdesk": {
+      "first_seen": "2026-11-21T02:32:20.595Z",
+      "score": 15.8
+    },
     "zoliqua/angular-advanced-odontogram": {
       "first_seen": "2026-11-21T01:53:28.376Z",
       "score": 11.7
@@ -1276,6 +1512,10 @@
     "zoliqua/react-advanced-odontogram": {
       "first_seen": "2026-11-20T15:16:01.255Z",
       "score": 21.2
+    },
+    "zseven-w/openpencil": {
+      "first_seen": "2026-11-21T02:31:38.834Z",
+      "score": 23.8
     },
     "zsvirt/zsvirt": {
       "first_seen": "2026-11-21T01:52:42.278Z",
