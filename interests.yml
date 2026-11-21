@@ -1,66 +1,77 @@
-# The public gitforage field guide at gitforage.dev. Its default view covers five communities, chosen
-# to show the range: healthcare interoperability, self-hosting, home automation,
-# developer tools and AI coding agents. There is no stars_from, so the guide stays
-# neutral: its profile is learned from the seeds below, not from anyone's stars.
+# The public gitforage field guide at gitforage.dev. Its default view is a broad
+# sample of open source, ordered for a general audience: AI and LLM tools, web,
+# developer tools, databases, data and ML, security, systems languages, mobile,
+# games, self-hosting, home automation and healthcare interoperability. There is
+# no stars_from, so the guide stays neutral: its profile is learned from the
+# seeds below, not from anyone's stars.
 #
-# Visitors can also pick their own topics from a bigger catalog (site.personalize
-# below). That re-ranking happens in their browser; the default view stays these five.
+# Visitors can narrow it to their own patch from the catalog (site.personalize
+# below). That re-ranking happens in their browser; the default view stays broad.
 
 profile: |
-  A portal for people who like to run, build and connect things themselves.
+  A field guide for people who build, run and tinker with software.
 
-  It looks for healthcare interoperability tools (HL7, FHIR, DICOM and
-  integration engines), self-hosted software and homelab tooling, home
-  automation that runs locally, command-line developer tools, and the growing
-  set of AI coding agents and Model Context Protocol servers.
+  It looks across open source for useful new tools and fast-growing projects:
+  AI agents and local LLM tools, web frameworks, command-line and developer
+  tools, databases, data and machine learning, security and privacy, Rust and
+  Go, mobile apps, game development, self-hosted software, local-first home
+  automation, and healthcare interoperability.
 
   It prefers projects that are active, licensed and documented, and in the Get
   involved tab, maintainers who merge outside pull requests and answer issues.
 
-  Pick your patch to see the wider catalog: web frameworks, databases,
-  security, data and machine learning, mobile, games, and the Rust, Go and
-  TypeScript ecosystems.
+  Pick your patch to narrow it to the topics you care about.
 
 topics:
-  # Healthcare interoperability
-  - hl7
-  - fhir
-  - mirth
-  - dicom
+  # AI agents and LLMs
+  - llm
+  - ai-agents
+  - mcp
+  # Web
+  - react
+  - svelte
+  # Developer tools and the terminal
+  - cli
+  - devtools
+  - terminal
+  # Databases
+  - database
+  - postgresql
+  # Data and machine learning
+  - machine-learning
+  # Security and privacy
+  - security
+  - privacy
+  # Rust and Go
+  - rust
+  - golang
+  # Mobile
+  - android
+  - flutter
+  # Games
+  - gamedev
+  - godot
   # Self-hosting and homelab
-  - proxmox
   - self-hosted
+  - homelab
   - docker
   # Home automation
   - home-assistant
-  - zigbee
-  - matter
-  # Developer tools
-  - cli
-  - terminal
-  - devtools
-  # AI coding agents
-  - claude-code
-  - mcp
-  - ai-agents
+  # Healthcare interoperability
+  - fhir
+  - hl7
 
 seeds:
-  # Healthcare interoperability
-  - OpenIntegrationEngine/engine
-  - hapifhir/hapi-fhir
-  - OHIF/Viewers
-  # Self-hosting and homelab
-  - community-scripts/ProxmoxVE
-  - immich-app/immich
-  # Home automation
-  - home-assistant/core
-  - Koenkk/zigbee2mqtt
-  # Developer tools
-  - cli/cli
-  - junegunn/fzf
-  # AI coding agents
+  - ollama/ollama
   - modelcontextprotocol/servers
-  - anthropics/claude-code
+  - sveltejs/svelte
+  - BurntSushi/ripgrep
+  - junegunn/fzf
+  - duckdb/duckdb
+  - godotengine/godot
+  - immich-app/immich
+  - home-assistant/core
+  - hapifhir/hapi-fhir
 
 exclude:
   # Lists of links, not tools. IPTV, M3U and XMLTV are left out of the public guide on purpose.
@@ -78,7 +89,7 @@ filters:
   drop_suspected_star_farms: true
 
 mode: discover
-digest_size: 20
+digest_size: 30
 
 # Revival radar: projects in these topics whose upstream has gone quiet or been
 # archived, carried on by a live fork. Shown on revival.html (the Revivals tab).
