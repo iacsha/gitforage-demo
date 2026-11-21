@@ -1,6 +1,6 @@
-# The public gitforage demo portal. Its default view covers five communities, chosen
+# The public gitforage field guide at gitforage.dev. Its default view covers five communities, chosen
 # to show the range: healthcare interoperability, self-hosting, home automation,
-# developer tools and AI coding agents. There is no stars_from, so the demo stays
+# developer tools and AI coding agents. There is no stars_from, so the guide stays
 # neutral: its profile is learned from the seeds below, not from anyone's stars.
 #
 # Visitors can also pick their own topics from a bigger catalog (site.personalize
@@ -63,7 +63,7 @@ seeds:
   - anthropics/claude-code
 
 exclude:
-  # Lists of links, not tools. IPTV, M3U and XMLTV are left out of the demo on purpose.
+  # Lists of links, not tools. IPTV, M3U and XMLTV are left out of the public guide on purpose.
   topics: [awesome-list, awesome, list, iptv, iptv-player, iptv-m3u, m3u, m3u8, m3u-playlist, xmltv, epg]
   keywords: ["awesome-"]
   patterns:
@@ -88,8 +88,9 @@ revival:
   max_candidates: 10
 
 site:
-  repo: iacsha/gitforage-demo
-  title: gitforage demo
+  repo: iacsha/gitforage-field-guide
+  title: gitforage
+  tag: beta
   url: https://gitforage.dev/
   # Cookieless visit counts (gitforage.goatcounter.com).
   # With personalize on, pack and topic picks are counted as GoatCounter events too.

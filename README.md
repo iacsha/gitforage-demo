@@ -1,8 +1,8 @@
-# gitforage demo
+# gitforage field guide (beta)
 
-The public demo portal of [gitforage](https://github.com/iacsha/gitforage), live at **https://gitforage.dev**. It forages GitHub weekly for five topic groups: healthcare interoperability, self-hosting and homelab, home automation, developer tools, and AI coding agents. Keep and Skip on any card to help tune it.
+The public field guide of [gitforage](https://github.com/iacsha/gitforage), live at **https://gitforage.dev**. Each week it forages GitHub across five patches: healthcare interoperability, self-hosting and homelab, home automation, developer tools, and AI coding agents. Pick your patch on the site to re-rank the finds to your own topics, and Keep or Skip any card to help tune it.
 
-Want your own? Follow the setup below.
+Want a guide of your own? Follow the setup below.
 
 ---
 

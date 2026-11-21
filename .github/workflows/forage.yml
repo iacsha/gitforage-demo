@@ -21,7 +21,7 @@ env:
   # The gitforage commit this portal runs. Pinned by full SHA so a run is reproducible
   # and nothing changes under you; update it on purpose to upgrade.
   GITFORAGE_REPO: iacsha/gitforage
-  GITFORAGE_SHA: "08b4b688bf2abd3dd5e3141809fbbfc1633d9e58"
+  GITFORAGE_SHA: "2fa479e1ae70ed11ad6163ecdfe40fe57a41cb79"
 
 jobs:
   forage:
